@@ -68,7 +68,7 @@ Newton Rapson:
 
 [Algoritmo]()
 
-[Implementación]()
+[Implementación](https://github.com/Eltonvamosporla14/MetodosNumericosItesa2024/blob/05e9980881d0d1be71ac054815c78eb32bcb201c/Newton/Implementaci%C3%B3n/Captura%20de%20pantalla%202024-03-14%20093128.png)
 
 [Ejercicios]()
 
