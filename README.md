@@ -50,7 +50,7 @@ Secante:
 
 [Implementación](https://github.com/Eltonvamosporla14/MetodosNumericosItesa2024/tree/290d12ed661a87db6af48beff186c416044bbd15/Secante/Implementaci%C3%B3n)
 
-[Ejercicios]()
+[Ejercicios](https://github.com/Eltonvamosporla14/MetodosNumericosItesa2024/tree/cf227c0edfd294a4dbc3ca8b422825426fa0f282/Secante)
 
 [Ejercicio1]()
 
