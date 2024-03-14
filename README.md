@@ -25,7 +25,7 @@ Regla Falsa:
 
 [Concepto](https://github.com/Eltonvamosporla14/MetodosNumericosItesa2024/blob/02ee35b35ed766b646c98c4c62a46c8c97e394ca/Regla%20falsa/Concepto)
 
-Algoritmo: 
+[Algoritmo]()
 
 Implementación:
 
