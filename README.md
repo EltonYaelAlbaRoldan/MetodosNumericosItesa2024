@@ -41,3 +41,23 @@ Regla Falsa:
 
 [Ejercicio5](https://github.com/Eltonvamosporla14/MetodosNumericosItesa2024/blob/1cfd9ffb272bbc31e61d58292ba68109ba656b66/Regla%20falsa/Regla%20Falsa%205/src/regla/falsa/pkg5/ReglaFalsa5.java)
 
+
+Secante:
+
+[Concepto]()
+
+[Algoritmo]()
+
+[Implementación]()
+
+[Ejercicios]()
+
+[Ejercicio1]()
+
+[Ejercicio2]()
+
+[Ejercicio3]()
+
+[Ejercicio4]()
+
+[Ejercicio5]()
