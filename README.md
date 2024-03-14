@@ -54,7 +54,7 @@ Secante:
 
 [Ejercicio1](https://github.com/Eltonvamosporla14/MetodosNumericosItesa2024/blob/4565704f6ad326313c64dcce5b45d4f987fa3f78/Secante/Secante/src/secante/Secante.java)
 
-[Ejercicio2]()
+[Ejercicio2](https://github.com/Eltonvamosporla14/MetodosNumericosItesa2024/blob/8d40c798a544a221f56578096f2adfac0629bb01/Secante/Secante%202/src/secante/pkg2/Secante2.java)
 
 [Ejercicio3]()
 
