@@ -5,6 +5,8 @@ Bisección:
 El método de bisección es un algoritmo utilizado para encontrar las raíces de una función en un intervalo dado
 
 Implementación:
+En esta imagen se observa como se implementa el algoritmo dentro de codigo, al final se muestra la raíz del la función con el porcentaje d error que nosotros le pedimos
+
 ![Captura de pantalla 2024-03-13 224218](https://github.com/Eltonvamosporla14/MetodosNumericosItesa2024/assets/147437882/e4519e6d-6b99-4e86-98b7-af4e603953f7)
 
 
