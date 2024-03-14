@@ -37,7 +37,7 @@ Regla Falsa:
 
 [Ejercicio3](https://github.com/Eltonvamosporla14/MetodosNumericosItesa2024/blob/a5891dd2b92f70fa7ed21a8db7bea07fa4d62f88/Regla%20falsa/Regla%20Falsa%203/src/regla/falsa/pkg3/ReglaFalsa3.java)
 
-[Ejercicio4]()
+[Ejercicio4](https://github.com/Eltonvamosporla14/MetodosNumericosItesa2024/blob/0931563065531ab32f858821923ff9127d72d56f/Regla%20falsa/Regla%20Falsa%204/src/regla/falsa/pkg4/ReglaFalsa4.java)
 
 [Ejercicio5]()
 
