@@ -74,7 +74,7 @@ Newton Rapson:
 
 [Ejercicio1](https://github.com/Eltonvamosporla14/MetodosNumericosItesa2024/blob/f96c38a4804cec98811561e64f15f008553e2163/Newton/Newton/src/newton/Newton.java)
 
-[Ejercicio2]()
+[Ejercicio2](https://github.com/Eltonvamosporla14/MetodosNumericosItesa2024/blob/2ab111b6a0cc15de5085f45196c1ee1d82b46b0f/Newton/Newton2/src/newton2/Newton2.java)
 
 [Ejercicio3]()
 
