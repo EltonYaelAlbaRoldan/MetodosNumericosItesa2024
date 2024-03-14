@@ -3,11 +3,11 @@ Divide y venceras
 
 Bisección:
 
-[Consepto](https://github.com/Eltonvamosporla14/MetodosNumericosItesa2024/blob/4b020dea846b391148aa3d125db6a010b6605c2b/Bisecci%C3%B3n/Definici%C3%B3nBisecci%C3%B3n)
+  [Consepto](https://github.com/Eltonvamosporla14/MetodosNumericosItesa2024/blob/4b020dea846b391148aa3d125db6a010b6605c2b/Bisecci%C3%B3n/Definici%C3%B3nBisecci%C3%B3n)
 
-[Algoritmo](https://github.com/Eltonvamosporla14/MetodosNumericosItesa2024/blob/d743dae8cf7c34ec3d096ed276c8b71c0565963b/Bisecci%C3%B3n/Algoritmo)
+  [Algoritmo](https://github.com/Eltonvamosporla14/MetodosNumericosItesa2024/blob/d743dae8cf7c34ec3d096ed276c8b71c0565963b/Bisecci%C3%B3n/Algoritmo)
 
-Implementación:
+Implementación:  
 En esta imagen se observa como se implementa el algoritmo dentro de codigo, al final se muestra la raíz del la función con el porcentaje de error solicitado
 
 ![Captura de pantalla 2024-03-13 224218](https://github.com/Eltonvamosporla14/MetodosNumericosItesa2024/assets/147437882/e4519e6d-6b99-4e86-98b7-af4e603953f7)
