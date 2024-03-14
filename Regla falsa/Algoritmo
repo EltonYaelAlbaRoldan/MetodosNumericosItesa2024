@@ -1,0 +1,15 @@
+
+1. Entrada de datos: Toma como entrada una función \( f(x) \) continua en un intervalo \([a, b]\), donde \( f(a) \) y \( f(b) \) tienen signos opuestos, y una tolerancia \( \text{tol} \) que determina la precisión deseada.
+
+2. Inicialización: Define \( a \) y \( b \) como los límites del intervalo, y calcula \( f(a) \) y \( f(b) \).
+
+3. Bucle de iteración**:
+   - Mientras el tamaño del intervalo \((b - a) / 2\) sea mayor que la tolerancia \( \text{tol} \):
+     - Calcula el punto \( c \) de intersección con el eje x utilizando la interpolación lineal:
+       \[ c = b - \frac{{f(b) \cdot (b - a)}}{{f(b) - f(a)}} \]
+     - Evalúa \( f(c) \).
+     - Si \( f(c) \) es igual a cero (o está suficientemente cerca de cero según la tolerancia), devuelve \( c \) como la raíz.
+     - Si \( f(a) \cdot f(c) < 0 \), actualiza \( b = c \).
+     - De lo contrario, actualiza \( a = c \).
+
+4. **Salida**: Devuelve \( c \) como la aproximación de la raíz.
