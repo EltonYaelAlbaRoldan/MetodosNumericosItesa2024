@@ -2,7 +2,6 @@
 Divide y venceras
 
 Bisección:
-El método de bisección es un algoritmo utilizado para encontrar las raíces de una función en un intervalo dado
 
 
 Algoritmo:
