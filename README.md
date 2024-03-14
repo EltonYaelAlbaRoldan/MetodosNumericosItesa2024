@@ -64,7 +64,7 @@ Secante:
 
 Newton Rapson:
 
-[Concepto]()
+[Concepto](https://github.com/Eltonvamosporla14/MetodosNumericosItesa2024/blob/32123fbee6e7b2ff193db72bfdb446ae5377d68d/Newton/Concepto)
 
 [Algoritmo]()
 
