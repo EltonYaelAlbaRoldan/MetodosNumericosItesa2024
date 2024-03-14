@@ -66,7 +66,7 @@ Newton Rapson:
 
 [Concepto](https://github.com/Eltonvamosporla14/MetodosNumericosItesa2024/blob/32123fbee6e7b2ff193db72bfdb446ae5377d68d/Newton/Concepto)
 
-[Algoritmo]()
+[Algoritmo](https://github.com/Eltonvamosporla14/MetodosNumericosItesa2024/blob/1f0f7c704966759c485084da3b445402b3bcdd61/Newton/Algoritmo)
 
 [Implementación](https://github.com/Eltonvamosporla14/MetodosNumericosItesa2024/blob/05e9980881d0d1be71ac054815c78eb32bcb201c/Newton/Implementaci%C3%B3n/Captura%20de%20pantalla%202024-03-14%20093128.png)
 
