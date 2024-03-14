@@ -61,3 +61,25 @@ Secante:
 [Ejercicio4](https://github.com/Eltonvamosporla14/MetodosNumericosItesa2024/blob/7f3ea48f31e4421c1dc87c891b4a4b5ba9fad7d2/Secante/Secante%204/src/secante/pkg4/Secante4.java)
 
 [Ejercicio5](https://github.com/Eltonvamosporla14/MetodosNumericosItesa2024/blob/26355589096f6d86275c76c0bf2144357d36fe0c/Secante/Secante%205/src/secante/pkg5/Secante5.java)
+
+Newton Rapson:
+
+[Concepto]()
+
+[Algoritmo]()
+
+[Implementación]()
+
+[Ejercicios]()
+
+[Ejercicio1]()
+
+[Ejercicio2]()
+
+[Ejercicio3]()
+
+[Ejercicio4]()
+
+[Ejercicio5]()
+
+
