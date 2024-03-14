@@ -48,7 +48,7 @@ Secante:
 
 [Algoritmo](https://github.com/Eltonvamosporla14/MetodosNumericosItesa2024/blob/374616e1df230a470b24af210572ff7d866d1394/Secante/Algoritmo)
 
-[Implementación]()
+[Implementación](https://github.com/Eltonvamosporla14/MetodosNumericosItesa2024/tree/290d12ed661a87db6af48beff186c416044bbd15/Secante/Implementaci%C3%B3n)
 
 [Ejercicios]()
 
