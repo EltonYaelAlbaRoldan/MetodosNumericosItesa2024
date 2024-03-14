@@ -11,6 +11,8 @@ Bisección:
 
 [Ejercicios](https://github.com/Eltonvamosporla14/MetodosNumericosItesa2024/tree/e0196942b542ec0170f484e03f8e6c0d38e2ac16/Bisecci%C3%B3n)
 
+[Ejercicio1](https://github.com/Eltonvamosporla14/MetodosNumericosItesa2024/blob/e0196942b542ec0170f484e03f8e6c0d38e2ac16/Bisecci%C3%B3n/Biseccion/src/biseccion/Biseccion.java)
+
 
 Regla Falsa: Algoritmo utilizado para encontrar aproximaciones de las raíces de una función continua en un intervalo dado. A diferencia del método de bisección, el método de la regla falsa utiliza una interpolación lineal para estimar la ubicación de la raíz en cada iteración.
 
