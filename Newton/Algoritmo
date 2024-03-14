@@ -1,0 +1,10 @@
+
+1. Entrada de datos: Toma como entrada una función  f(x) continua y diferenciable, una aproximación inicial  x_0 para la raíz, y una tolerancia tol que determina la precisión deseada.
+
+2. Bucle de iteración:
+   - Calcula la siguiente aproximación de la raíz utilizando la fórmula:
+     x_{n+1} = x_n - (f(x_n)/f'(x_n))
+     donde f'(x_n) es la derivada de f(x) evaluada en x_n.
+   - Repite este paso hasta que |f(x_{n+1})| < tol, o hasta que se alcance un número máximo de iteraciones.
+
+3. Salida: Devuelve x_{n+1} como la aproximación de la raíz.
