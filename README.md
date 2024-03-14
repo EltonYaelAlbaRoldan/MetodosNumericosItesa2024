@@ -31,3 +31,13 @@ Regla Falsa:
 
 [Ejercicios](https://github.com/Eltonvamosporla14/MetodosNumericosItesa2024/tree/234cfec0010d41e1bb42da198a1af5e5eb7f7879/Regla%20falsa)
 
+[Ejercicio1]()
+
+[Ejercicio2]()
+
+[Ejercicio3]()
+
+[Ejercicio4]()
+
+[Ejercicio5]()
+
