@@ -6,7 +6,7 @@ El método de bisección es un algoritmo utilizado para encontrar las raíces de
 
 
 Algoritmo:
-https://github.com/Eltonvamosporla14/MetodosNumericosItesa2024/blob/d743dae8cf7c34ec3d096ed276c8b71c0565963b/Bisecci%C3%B3n/Algoritmo
+[Algoritmo](https://github.com/Eltonvamosporla14/MetodosNumericosItesa2024/blob/d743dae8cf7c34ec3d096ed276c8b71c0565963b/Bisecci%C3%B3n/Algoritmo)
 
 Implementación:
 En esta imagen se observa como se implementa el algoritmo dentro de codigo, al final se muestra la raíz del la función con el porcentaje de error solicitado
