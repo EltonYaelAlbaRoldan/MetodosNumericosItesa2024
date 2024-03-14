@@ -27,7 +27,7 @@ Regla Falsa:
 
 [Algoritmo](https://github.com/Eltonvamosporla14/MetodosNumericosItesa2024/blob/d45d3f8b37656ec40ef5feeaae6b4a2c9cec2326/Regla%20falsa/Algoritmo)
 
-Implementación:
+[Implementación](https://github.com/Eltonvamosporla14/MetodosNumericosItesa2024/blob/ccf9c4455430938522b9853dde2224409e93faa7/Regla%20falsa/Implementaci%C3%B3n/Captura%20de%20pantalla%202024-03-14%20010446.png)
 
 [Ejercicios](https://github.com/Eltonvamosporla14/MetodosNumericosItesa2024/tree/234cfec0010d41e1bb42da198a1af5e5eb7f7879/Regla%20falsa)
 
