@@ -80,6 +80,6 @@ Newton Rapson:
 
 [Ejercicio4](https://github.com/Eltonvamosporla14/MetodosNumericosItesa2024/blob/63a3ec71e3ccdeabf58f72ca460ff5bc32951d1d/Newton/Newton4/src/newton4/Newton4.java)
 
-[Ejercicio5]()
+[Ejercicio5](https://github.com/Eltonvamosporla14/MetodosNumericosItesa2024/blob/2fd1fc07510e6fd4fcf8bc3694ce329a83889961/Newton/Newton5/src/newton5/Newton5.java)
 
 
