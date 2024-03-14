@@ -39,5 +39,5 @@ Regla Falsa:
 
 [Ejercicio4](https://github.com/Eltonvamosporla14/MetodosNumericosItesa2024/blob/0931563065531ab32f858821923ff9127d72d56f/Regla%20falsa/Regla%20Falsa%204/src/regla/falsa/pkg4/ReglaFalsa4.java)
 
-[Ejercicio5]()
+[Ejercicio5](https://github.com/Eltonvamosporla14/MetodosNumericosItesa2024/blob/1cfd9ffb272bbc31e61d58292ba68109ba656b66/Regla%20falsa/Regla%20Falsa%205/src/regla/falsa/pkg5/ReglaFalsa5.java)
 
