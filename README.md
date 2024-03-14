@@ -44,7 +44,7 @@ Regla Falsa:
 
 Secante:
 
-[Concepto]()
+[Concepto](https://github.com/Eltonvamosporla14/MetodosNumericosItesa2024/blob/693a6dd16e3a372e24f203d010788cc2416b4d90/Secante/Concepto)
 
 [Algoritmo]()
 
