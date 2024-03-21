@@ -5,11 +5,11 @@
 * [Tema 2](#Tema_2)
 *[Bisección](##Bisección)
 * [Tema 3](#Tema_3)
+* [Metodo de eliminación gaussiana](##MÉTODO_DE_ELIMINACIÓN_GAUSSIANA)
 
 # Tema_2
 
 ## Bisección
----
 
 ### Concepto
 El método de bisección es un algoritmo utilizado para encontrar las raíces de una función en un intervalo dado.
@@ -177,8 +177,7 @@ x, que proporciona una mejor aproximación de la raíz de la función. Este proc
 
 # Tema_3
 
-*MÉTODO DE ELIMINACIÓN GAUSSIANA*
----
+## MÉTODO_DE_ELIMINACIÓN_GAUSSIANA
 
 <p align="center"><b><span style="font-family: Negrita; font-size: 200px;">Concepto</span></b></p>
 
