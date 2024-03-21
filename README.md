@@ -118,6 +118,9 @@ El método de Gauss-Jordan es un algoritmo numérico utilizado para resolver sis
 
 <p align="center"><b><span style="font-family: Negrita; font-size: 200px;">Implementación</span></b></p>
 
+![.](https://github.com/Eltonvamosporla14/MetodosNumericosItesa2024/assets/147437882/8a3421b5-63e1-4e8f-b399-dba8ebc74e40)
+
+
 <p align="center"><b><span style="font-family: Negrita; font-size: 200px;">Ejercicios</span></b></p>
 
 [Ejercicio1](https://github.com/Eltonvamosporla14/MetodosNumericosItesa2024/blob/835552ebd9ecd2544f8dac406c3932a075b74b93/Tema%203%20Metodos/ELIMINACI%C3%93N%20GAUSSIANA/Eliminacion%20Gaussiana/src/eliminacion/gaussiana/EliminacionGaussiana.java)
