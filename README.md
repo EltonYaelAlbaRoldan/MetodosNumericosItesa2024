@@ -286,6 +286,21 @@ El proceso comienza con una aproximación inicial de las soluciones del sistema.
 <p align="center"><b><span style="font-family: Negrita; font-size: 200px;">Algoritmo</span></b></p>
 
 
+1. Descomposición de la matriz: Dada una matriz A de coeficientes y un vector b de términos independientes, se descompone A en dos matrices: L, la parte triangular inferior de A (incluida la diagonal); y U, la parte triangular superior de A sin incluir la diagonal.
+
+2. Inicialización: Se elige una estimación inicial x^(0).
+
+3. Iteraciones: Se itera el proceso hasta que se alcance una precisión deseada o un número máximo de iteraciones. En cada iteración:
+
+   a. Se actualiza cada componente de x utilizando la fórmula iterativa:
+   
+       x_i^(k+1) = 1/a_ij (b_i − ∑_j=1^i−1 a_ij*x_j^(k+1) −∑_j=i+1^n a _ij*x_j^(k))
+
+   b. Se comprueba si se ha alcanzado la precisión deseada. Si es así, se detiene el proceso. Si no, se continúa a la siguiente iteración.
+
+4. Salida: La solución aproximada x ^(k) se toma como la solución del sistema de ecuaciones lineales Ax=b.
+
+
 <p align="center"><b><span style="font-family: Negrita; font-size: 200px;">Implementación</span></b></p>
 
 ![image](https://github.com/Eltonvamosporla14/MetodosNumericosItesa2024/assets/147437882/accce071-ffec-493e-8e96-44c4781c1ef9)
