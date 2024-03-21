@@ -1,7 +1,11 @@
 # MetodosNumericosItesa2024
 Divide y venceras
 
-Bisección:
+**Tema 2**
+---
+
+*Bisección*
+---
 
 [Consepto](https://github.com/Eltonvamosporla14/MetodosNumericosItesa2024/blob/4b020dea846b391148aa3d125db6a010b6605c2b/Bisecci%C3%B3n/Definici%C3%B3nBisecci%C3%B3n)
 
@@ -21,7 +25,8 @@ Bisección:
 
 [Ejercicio5](https://github.com/Eltonvamosporla14/MetodosNumericosItesa2024/blob/0d33ce33d6b6478547a584768affaf6e3ea19202/Bisecci%C3%B3n/Biseccion5/src/biseccion5/Biseccion5.java)
 
-Regla Falsa:
+*Regla Falsa*
+---
 
 [Concepto](https://github.com/Eltonvamosporla14/MetodosNumericosItesa2024/blob/02ee35b35ed766b646c98c4c62a46c8c97e394ca/Regla%20falsa/Concepto)
 
@@ -42,7 +47,8 @@ Regla Falsa:
 [Ejercicio5](https://github.com/Eltonvamosporla14/MetodosNumericosItesa2024/blob/1cfd9ffb272bbc31e61d58292ba68109ba656b66/Regla%20falsa/Regla%20Falsa%205/src/regla/falsa/pkg5/ReglaFalsa5.java)
 
 
-Secante:
+*Secante*
+---
 
 [Concepto](https://github.com/Eltonvamosporla14/MetodosNumericosItesa2024/blob/693a6dd16e3a372e24f203d010788cc2416b4d90/Secante/Concepto)
 
@@ -62,7 +68,8 @@ Secante:
 
 [Ejercicio5](https://github.com/Eltonvamosporla14/MetodosNumericosItesa2024/blob/26355589096f6d86275c76c0bf2144357d36fe0c/Secante/Secante%205/src/secante/pkg5/Secante5.java)
 
-Newton Rapson:
+*Newton Rapson*
+---
 
 [Concepto](https://github.com/Eltonvamosporla14/MetodosNumericosItesa2024/blob/32123fbee6e7b2ff193db72bfdb446ae5377d68d/Newton/Concepto)
 
