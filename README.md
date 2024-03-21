@@ -90,31 +90,19 @@ Newton Rapson:
 
 <p align="center"><b><span style="font-family: Negrita; font-size: 200px;">Concepto</span></b></p>
 
-El método de Gauss-Jordan es un algoritmo numérico utilizado para resolver sistemas de ecuaciones lineales. Su objetivo principal es llevar una matriz aumentada que representa el sistema de ecuaciones a su forma escalonada reducida por filas, obteniendo una matrz identidad. 
+El objetivo del método de Gauss es transformar un sistema de ecuaciones lineales en otro equivalente pero más fácil de resolver, como un sistema triangular o diagonal con ceros bajo la diagonal.
 
 <p align="center"><b><span style="font-family: Negrita; font-size: 200px;">Algoritmo</span></b></p>
 
-1. Pivoteo Parcial:
-   
-   -Selecciona el pivote actual como el elemento más grande en valor absoluto en la columna actual, comenzando desde la fila actual y hacia abajo.
-  
-   -Intercambia las filas de tal manera que la fila del pivote (la fila actual) se coloque en la posición donde se encuentra el máximo elemento.
-
-2. Hacer el Pivote Igual a 1:
-   
-    -Divide toda la fila del pivote por el valor del pivote para hacer que el elemento diagonal (el pivote) sea igual a 1.
-
-3.  Hacer Ceros por Debajo y por encima del Pivote:
-   
-    -Para cada fila que esté debajo y encima del pivote, resta múltiplos adecuados de la fila del pivote para hacer cero los elementos en la columna actual.
-
-4. Repetición:
-
-   -Repite los pasos anteriores para el siguiente pivote y continúa hasta que se hayan procesado todas las filas y columnas.
-
-5. Solución:
-
-   -Una vez que la matriz está en su forma escalonada reducida, las últimas columnas representan las soluciones del sistema de ecuaciones lineales.
+1. Pivoteo:
+   -En esta fase, se elige un elemento pivotante en cada iteración del algoritmo. El pivote es crucial porque guía el proceso de simplificación del sistema.
+   -El pivote se selecciona para minimizar los errores numéricos y facilitar los cálculos. En el método de Gauss original, se elige como el primer elemento no nulo en cada columna, pero existen variantes como el pivoteo parcial o completo para mejorar la precisión numérica.
+3. Eliminación:
+   -Después de seleccionar el pivote, se utiliza para eliminar los coeficientes debajo de él en la misma columna, haciendo que sean cero. Esto simplifica el sistema al eliminar incógnitas de ecuaciones adicionales.
+   -La eliminación se realiza restando múltiplos adecuados de la fila del pivote a otras filas. Esto se repite hasta que la matriz se convierte en una forma triangular superior, donde todos los elementos debajo de la diagonal principal son ceros.
+4. Sustitución hacia atrás:
+   -Con la matriz en forma triangular superior, se pueden resolver las incógnitas fácilmente utilizando el método de sustitución hacia atrás.
+   -Comenzando desde la última fila, las soluciones de las variables se calculan sucesivamente utilizando los valores ya calculados de las variables hacia abajo en la matriz.
 
 <p align="center"><b><span style="font-family: Negrita; font-size: 200px;">Implementación</span></b></p>
 
@@ -140,6 +128,38 @@ Por ultimo se muestran los resultados obtenidos
 *MÉTODO DE GAUSS JORDAN*
 ---
 
+<p align="center"><b><span style="font-family: Negrita; font-size: 200px;">Concepto</span></b></p>
+
+El método de Gauss-Jordan es un algoritmo numérico utilizado para resolver sistemas de ecuaciones lineales. Su objetivo principal es llevar una matriz aumentada que representa el sistema de ecuaciones a su forma escalonada reducida por filas, obteniendo una matrz identidad. 
+
+<p align="center"><b><span style="font-family: Negrita; font-size: 200px;">Algoritmo</span></b></p>
+
+1. Pivoteo Parcial:
+   
+   -Selecciona el pivote actual como el elemento más grande en valor absoluto en la columna actual, comenzando desde la fila actual y hacia abajo.
+  
+   -Intercambia las filas de tal manera que la fila del pivote (la fila actual) se coloque en la posición donde se encuentra el máximo elemento.
+
+2. Hacer el Pivote Igual a 1:
+   
+    -Divide toda la fila del pivote por el valor del pivote para hacer que el elemento diagonal (el pivote) sea igual a 1.
+
+3.  Hacer Ceros por Debajo y por encima del Pivote:
+   
+    -Para cada fila que esté debajo y por encima del pivote, resta múltiplos adecuados de la fila del pivote para hacer cero los elementos en la columna actual.
+
+4. Repetición:
+
+   -Repite los pasos anteriores para el siguiente pivote y continúa hasta que se hayan procesado todas las filas y columnas.
+
+5. Solución:
+
+   -Una vez que la matriz está en su forma escalonada reducida, las últimas columnas representan las soluciones del sistema de ecuaciones lineales.
+   
+<p align="center"><b><span style="font-family: Negrita; font-size: 200px;">Implementación</span></b></p>
+
+
 ![imagen](https://github.com/Eltonvamosporla14/MetodosNumericosItesa2024/assets/147437882/8a3421b5-63e1-4e8f-b399-dba8ebc74e40)
+<p align="center"><b><span style="font-family: Negrita; font-size: 200px;">Ejercicios</span></b></p>
 
 
