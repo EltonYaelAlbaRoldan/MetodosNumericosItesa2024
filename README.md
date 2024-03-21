@@ -161,15 +161,15 @@ x, que proporciona una mejor aproximación de la raíz de la función. Este proc
 
 <p align="center"><b><span style="font-family: Negrita; font-size: 200px;">Ejercicios</span></b></p>
 
-[Ejercicio1](https://github.com/Eltonvamosporla14/MetodosNumericosItesa2024/blob/f96c38a4804cec98811561e64f15f008553e2163/Newton/Newton/src/newton/Newton.java)
+[Ejercicio1](https://github.com/Eltonvamosporla14/MetodosNumericosItesa2024/blob/20f0284da0e174237ed13c5d613a99c82c14daa5/Tema%202%20Metodos/Newton/Newton/src/newton/Newton.java)
 
-[Ejercicio2](https://github.com/Eltonvamosporla14/MetodosNumericosItesa2024/blob/2ab111b6a0cc15de5085f45196c1ee1d82b46b0f/Newton/Newton2/src/newton2/Newton2.java)
+[Ejercicio2](https://github.com/Eltonvamosporla14/MetodosNumericosItesa2024/blob/20f0284da0e174237ed13c5d613a99c82c14daa5/Tema%202%20Metodos/Newton/Newton2/src/newton2/Newton2.java)
 
-[Ejercicio3](https://github.com/Eltonvamosporla14/MetodosNumericosItesa2024/blob/3a1adb194772f6738fbdab1cf7aee2a03eb03fb1/Newton/Newton3/src/newton3/Newton3.java)
+[Ejercicio3](https://github.com/Eltonvamosporla14/MetodosNumericosItesa2024/blob/20f0284da0e174237ed13c5d613a99c82c14daa5/Tema%202%20Metodos/Newton/Newton3/src/newton3/Newton3.java)
 
-[Ejercicio4](https://github.com/Eltonvamosporla14/MetodosNumericosItesa2024/blob/63a3ec71e3ccdeabf58f72ca460ff5bc32951d1d/Newton/Newton4/src/newton4/Newton4.java)
+[Ejercicio4](https://github.com/Eltonvamosporla14/MetodosNumericosItesa2024/blob/20f0284da0e174237ed13c5d613a99c82c14daa5/Tema%202%20Metodos/Newton/Newton4/src/newton4/Newton4.java)
 
-[Ejercicio5](https://github.com/Eltonvamosporla14/MetodosNumericosItesa2024/blob/2fd1fc07510e6fd4fcf8bc3694ce329a83889961/Newton/Newton5/src/newton5/Newton5.java)
+[Ejercicio5](https://github.com/Eltonvamosporla14/MetodosNumericosItesa2024/blob/20f0284da0e174237ed13c5d613a99c82c14daa5/Tema%202%20Metodos/Newton/Newton5/src/newton5/Newton5.java)
 
 **TEMA 3**
 ---
