@@ -18,19 +18,19 @@ El método de bisección es un algoritmo utilizado para encontrar las raíces de
 
 3. Bucle de iteración:
 
-   -Mientras el tamaño del intervalo (b - a) sea mayor que la tolerancia tol:
+   - Mientras el tamaño del intervalo (b - a) sea mayor que la tolerancia tol:
    
-   -Calcula el punto medio c = (a + b) / 2.
+   - Calcula el punto medio c = (a + b) / 2.
    
-   -Evalúa la función f(c).
+   - Evalúa la función f(c).
    
-      Si f(c) es igual a cero (o está suficientemente cerca de cero según la tolerancia), devuelve c como la raíz.
+       - Si f(c) es igual a cero (o está suficientemente cerca de cero según la tolerancia), devuelve c como la raíz.
    
-      Si f(c) tiene el mismo signo que f(a), actualiza a = c.
+       - Si f(c) tiene el mismo signo que f(a), actualiza a = c.
    
-      Si f(c) tiene el mismo signo que f(b), actualiza b = c.
+       - Si f(c) tiene el mismo signo que f(b), actualiza b = c.
    
-    -Incrementa el contador de iteraciones.
+    - Incrementa el contador de iteraciones.
 
 5. Salida: Devuelve el punto medio c como la aproximación de la raíz.
 
@@ -185,21 +185,21 @@ El objetivo del método de Gauss es transformar un sistema de ecuaciones lineale
 
 1. Pivoteo:
    
-   -En esta fase, se elige un elemento pivotante en cada iteración del algoritmo. El pivote es crucial porque guía el proceso de simplificación del sistema.
+   - En esta fase, se elige un elemento pivotante en cada iteración del algoritmo. El pivote es crucial porque guía el proceso de simplificación del sistema.
    
-   -El pivote se selecciona para minimizar los errores numéricos y facilitar los cálculos. En el método de Gauss original, se elige como el primer elemento no nulo en cada columna, pero existen variantes como el pivoteo parcial o completo para mejorar la precisión numérica.
+   - El pivote se selecciona para minimizar los errores numéricos y facilitar los cálculos. En el método de Gauss original, se elige como el primer elemento no nulo en cada columna, pero existen variantes como el pivoteo parcial o completo para mejorar la precisión numérica.
    
 2. Eliminación:
    
-   -Después de seleccionar el pivote, se utiliza para eliminar los coeficientes debajo de él en la misma columna, haciendo que sean cero. Esto simplifica el sistema al eliminar incógnitas de ecuaciones adicionales.
+   - Después de seleccionar el pivote, se utiliza para eliminar los coeficientes debajo de él en la misma columna, haciendo que sean cero. Esto simplifica el sistema al eliminar incógnitas de ecuaciones adicionales.
    
-   -La eliminación se realiza restando múltiplos adecuados de la fila del pivote a otras filas. Esto se repite hasta que la matriz se convierte en una forma triangular superior, donde todos los elementos debajo de la diagonal principal son ceros.
+   - La eliminación se realiza restando múltiplos adecuados de la fila del pivote a otras filas. Esto se repite hasta que la matriz se convierte en una forma triangular superior, donde todos los elementos debajo de la diagonal principal son ceros.
    
 3. Sustitución hacia atrás:
    
-   -Con la matriz en forma triangular superior, se pueden resolver las incógnitas fácilmente utilizando el método de sustitución hacia atrás.
+   - Con la matriz en forma triangular superior, se pueden resolver las incógnitas fácilmente utilizando el método de sustitución hacia atrás.
    
-   -Comenzando desde la última fila, las soluciones de las variables se calculan sucesivamente utilizando los valores ya calculados de las variables hacia abajo en la matriz.
+   - Comenzando desde la última fila, las soluciones de las variables se calculan sucesivamente utilizando los valores ya calculados de las variables hacia abajo en la matriz.
 
 <p align="center"><b><span style="font-family: Negrita; font-size: 200px;">Implementación</span></b></p>
 
@@ -235,21 +235,21 @@ El método de Gauss-Jordan es un algoritmo numérico utilizado para resolver sis
 
 1. Pivoteo Parcial:
    
-   -Selecciona el pivote actual como el elemento más grande en valor absoluto en la columna actual, comenzando desde la fila actual y hacia abajo.
+   - Selecciona el pivote actual como el elemento más grande en valor absoluto en la columna actual, comenzando desde la fila actual y hacia abajo.
   
-   -Intercambia las filas de tal manera que la fila del pivote (la fila actual) se coloque en la posición donde se encuentra el máximo elemento.
+   - Intercambia las filas de tal manera que la fila del pivote (la fila actual) se coloque en la posición donde se encuentra el máximo elemento.
 
 2. Hacer el Pivote Igual a 1:
    
-    -Divide toda la fila del pivote por el valor del pivote para hacer que el elemento diagonal (el pivote) sea igual a 1.
+    - Divide toda la fila del pivote por el valor del pivote para hacer que el elemento diagonal (el pivote) sea igual a 1.
 
 3.  Hacer Ceros por Debajo y por encima del Pivote:
    
-    -Para cada fila que esté debajo y por encima del pivote, resta múltiplos adecuados de la fila del pivote para hacer cero los elementos en la columna actual.
+    - Para cada fila que esté debajo y por encima del pivote, resta múltiplos adecuados de la fila del pivote para hacer cero los elementos en la columna actual.
 
 4. Repetición:
 
-   -Repite los pasos anteriores para el siguiente pivote y continúa hasta que se hayan procesado todas las filas y columnas.
+   - Repite los pasos anteriores para el siguiente pivote y continúa hasta que se hayan procesado todas las filas y columnas.
 
 5. Solución:
 
