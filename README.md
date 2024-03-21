@@ -9,6 +9,9 @@
    * [Newton Rapson](#Newton_Rapson)
 * [Tema 3](#Tema_3)
    * [Metodo de eliminación gaussiana](#MÉTODO_DE_ELIMINACIÓN_GAUSSIANA)
+   * [Metodo de Gauss Jordan](#MÉTODO_DE_GAUSS_JORDAN)
+   * [Metodo de Gauss Seidel](#Metodo_de_Gauss-Seidel)
+   * [Metodo de Jacobi](#Metodo_de_Jacobi)
 
 # Tema_2
 
@@ -226,8 +229,7 @@ Por ultimo se muestran los resultados obtenidos
 
 [Ejercicio3](https://github.com/Eltonvamosporla14/MetodosNumericosItesa2024/blob/c52eeeb06ef40b47154c58731297ca446c59d0ec/Tema%203%20Metodos/ELIMINACI%C3%93N%20GAUSSIANA/Eliminacion%20Gaussiana%203/src/eliminacion/gaussiana/pkg3/EliminacionGaussiana3.java)
 
-*MÉTODO DE GAUSS JORDAN*
----
+## MÉTODO_DE_GAUSS_JORDAN
 
 <p align="center"><b><span style="font-family: Negrita; font-size: 200px;">Concepto</span></b></p>
 
@@ -275,8 +277,7 @@ Aquí se percibe la continuación del metodo y tambien el resultado obtenido
 
 [Ejercicio3](https://github.com/Eltonvamosporla14/MetodosNumericosItesa2024/blob/48fdcf6c77afb44befcc3a774d33c857aeccad83/Tema%203%20Metodos/GAUSS%20JORDAN/Gauss%20Jordan%203/src/gauss/jordan/pkg3/GaussJordan3.java)
 
-**Metodo de Gauss-Seidel**
----
+## Metodo_de_Gauss-Seidel
 
 <p align="center"><b><span style="font-family: Negrita; font-size: 200px;">Concepto</span></b></p>
 
@@ -320,8 +321,7 @@ El proceso comienza con una aproximación inicial de las soluciones del sistema.
 
 [Ejercicio3](https://github.com/Eltonvamosporla14/MetodosNumericosItesa2024/blob/c82e34780f891315f1dd2dac51ec03eb2bff69da/Tema%203%20Metodos/GAUSS%20SEIDEL/Gauss-Seidel%203/src/gauss/seidel/pkg3/GaussSeidel3.java)
 
-**Metodo de JACOBI**
----
+## Metodo_de_Jacobi
 
 <p align="center"><b><span style="font-family: Negrita; font-size: 200px;">Concepto</span></b></p>
 
