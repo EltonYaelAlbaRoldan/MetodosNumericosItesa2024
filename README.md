@@ -253,7 +253,7 @@ El método de Gauss-Jordan es un algoritmo numérico utilizado para resolver sis
 
 5. Solución:
 
-   -Una vez que la matriz está en su forma escalonada reducida, las últimas columnas representan las soluciones del sistema de ecuaciones lineales.
+   - Una vez que la matriz está en su forma escalonada reducida, las últimas columnas representan las soluciones del sistema de ecuaciones lineales.
    
 <p align="center"><b><span style="font-family: Negrita; font-size: 200px;">Implementación</span></b></p>
 
