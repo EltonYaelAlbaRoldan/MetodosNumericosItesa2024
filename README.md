@@ -88,7 +88,9 @@ Newton Rapson:
 *MÉTODO DE ELIMINACIÓN GAUSSIANA*
 ---
 
-<p align="center"><b><span style="font-family: Negrita; font-size: 200px;">Consepto</span></b></p>
+<p align="center"><b><span style="font-family: Negrita; font-size: 200px;">Concepto</span></b></p>
+
+El método de Gauss-Jordan es un algoritmo numérico utilizado para resolver sistemas de ecuaciones lineales. Su objetivo principal es llevar una matriz aumentada que representa el sistema de ecuaciones a su forma escalonada reducida por filas, obteniendo una matrz identidad. 
 
 [Teoria](https://github.com/Eltonvamosporla14/MetodosNumericosItesa2024/tree/835552ebd9ecd2544f8dac406c3932a075b74b93/Tema%203%20Metodos/ELIMINACI%C3%93N%20GAUSSIANA)
 
