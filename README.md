@@ -54,7 +54,15 @@ El método de bisección es un algoritmo utilizado para encontrar las raíces de
 *Regla Falsa*
 ---
 
-[Concepto](https://github.com/Eltonvamosporla14/MetodosNumericosItesa2024/blob/02ee35b35ed766b646c98c4c62a46c8c97e394ca/Regla%20falsa/Concepto)
+<p align="center"><b><span style="font-family: Negrita; font-size: 200px;">Concepto</span></b></p>
+El método de Newton-Raphson, también conocido como el método de Newton, es un algoritmo utilizado para encontrar raíces de funciones. Es un método iterativo que utiliza la derivada de la función para aproximarse a la raíz.
+El concepto básico detrás del método de Newton-Raphson es usar la tangente a la curva de la función en un punto inicial como una aproximación lineal de la función. Luego, se encuentra la intersección de esta tangente con el eje 
+x, que proporciona una mejor aproximación de la raíz de la función. Este proceso se repite iterativamente hasta que se alcance la precisión deseada.
+
+<p align="center"><b><span style="font-family: Negrita; font-size: 200px;">Algoritmo</span></b></p>
+
+<p align="center"><b><span style="font-family: Negrita; font-size: 200px;">Implementación</span></b></p>
+<p align="center"><b><span style="font-family: Negrita; font-size: 200px;">Ejercicios</span></b></p>
 
 [Algoritmo](https://github.com/Eltonvamosporla14/MetodosNumericosItesa2024/blob/d45d3f8b37656ec40ef5feeaae6b4a2c9cec2326/Regla%20falsa/Algoritmo)
 
