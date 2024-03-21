@@ -116,7 +116,9 @@ El método de Gauss-Jordan es un algoritmo numérico utilizado para resolver sis
 
    -Una vez que la matriz está en su forma escalonada reducida, las últimas columnas representan las soluciones del sistema de ecuaciones lineales.
 
-Ejercicios:
+<p align="center"><b><span style="font-family: Negrita; font-size: 200px;">Implementación</span></b></p>
+
+<p align="center"><b><span style="font-family: Negrita; font-size: 200px;">Ejercicios</span></b></p>
 
 [Ejercicio1](https://github.com/Eltonvamosporla14/MetodosNumericosItesa2024/blob/835552ebd9ecd2544f8dac406c3932a075b74b93/Tema%203%20Metodos/ELIMINACI%C3%93N%20GAUSSIANA/Eliminacion%20Gaussiana/src/eliminacion/gaussiana/EliminacionGaussiana.java)
 
