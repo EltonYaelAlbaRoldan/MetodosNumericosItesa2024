@@ -87,8 +87,6 @@ x, que proporciona una mejor aproximación de la raíz de la función. Este proc
 
 <p align="center"><b><span style="font-family: Negrita; font-size: 200px;">Ejercicios</span></b></p>
 
-[Implementación](https://github.com/Eltonvamosporla14/MetodosNumericosItesa2024/blob/ccf9c4455430938522b9853dde2224409e93faa7/Regla%20falsa/Implementaci%C3%B3n/Captura%20de%20pantalla%202024-03-14%20010446.png)
-
 [Ejercicios](https://github.com/Eltonvamosporla14/MetodosNumericosItesa2024/tree/234cfec0010d41e1bb42da198a1af5e5eb7f7879/Regla%20falsa)
 
 [Ejercicio1](https://github.com/Eltonvamosporla14/MetodosNumericosItesa2024/blob/be07760570c9a15580733dbb8c5198b578ed8963/Regla%20falsa/Regla%20Falsa/src/regla/falsa/ReglaFalsa.java)
