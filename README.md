@@ -5,8 +5,8 @@
 * [Tema 2](#Tema_2)
    * [Bisección](#Bisección)
    * [Regla falsa](#Regla_Falsa)
-   * [Secante](Secante)
-   * [Newton Rapson](Newton_Rapson)
+   * [Secante](#Secante)
+   * [Newton Rapson](#Newton_Rapson)
 * [Tema 3](#Tema_3)
    * [Metodo de eliminación gaussiana](#MÉTODO_DE_ELIMINACIÓN_GAUSSIANA)
 
