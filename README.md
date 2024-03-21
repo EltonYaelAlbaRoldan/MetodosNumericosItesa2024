@@ -4,6 +4,9 @@
 ## Índice
 * [Tema 2](#Tema_2)
    * [Bisección](#Bisección)
+   * [Regla falsa](#Regla_Falsa)
+   * [Secante](Secante)
+   * [Newton Rapson](Newton_Rapson)
 * [Tema 3](#Tema_3)
    * [Metodo de eliminación gaussiana](#MÉTODO_DE_ELIMINACIÓN_GAUSSIANA)
 
@@ -55,8 +58,7 @@ El método de bisección es un algoritmo utilizado para encontrar las raíces de
 
 [Ejercicio5](https://github.com/Eltonvamosporla14/MetodosNumericosItesa2024/blob/6fa31e21461ec8570b82768f7f0e989b51baa5a4/Tema%202%20Metodos/Bisecci%C3%B3n/Biseccion5/src/biseccion5/Biseccion5.java)
 
-*Regla Falsa*
----
+## Regla_Falsa
 
 <p align="center"><b><span style="font-family: Negrita; font-size: 200px;">Concepto</span></b></p>
 
@@ -98,8 +100,7 @@ Algoritmo utilizado para encontrar aproximaciones de las raíces de una función
 [Ejercicio5](https://github.com/Eltonvamosporla14/MetodosNumericosItesa2024/blob/b0b29b93a8da0fc6eea07efea91e8951d63635cf/Tema%202%20Metodos/Regla%20falsa/Regla%20Falsa%205/src/regla/falsa/pkg5/ReglaFalsa5.java)
 
 
-*Secante*
----
+## Secante
 
 <p align="center"><b><span style="font-family: Negrita; font-size: 200px;">Concepto</span></b></p>
 
@@ -138,8 +139,7 @@ A diferencia de los métodos de intervalos como la regla falsa o la bisección, 
 
 [Ejercicio5](https://github.com/Eltonvamosporla14/MetodosNumericosItesa2024/blob/b0b29b93a8da0fc6eea07efea91e8951d63635cf/Tema%202%20Metodos/Secante/Secante%205/src/secante/pkg5/Secante5.java)
 
-*Newton Rapson*
----
+## Newton_Rapson
 
 <p align="center"><b><span style="font-family: Negrita; font-size: 200px;">Concepto</span></b></p>
 
