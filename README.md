@@ -95,12 +95,19 @@ El objetivo del método de Gauss es transformar un sistema de ecuaciones lineale
 <p align="center"><b><span style="font-family: Negrita; font-size: 200px;">Algoritmo</span></b></p>
 
 1. Pivoteo:
+   
    -En esta fase, se elige un elemento pivotante en cada iteración del algoritmo. El pivote es crucial porque guía el proceso de simplificación del sistema.
+   
    -El pivote se selecciona para minimizar los errores numéricos y facilitar los cálculos. En el método de Gauss original, se elige como el primer elemento no nulo en cada columna, pero existen variantes como el pivoteo parcial o completo para mejorar la precisión numérica.
-3. Eliminación:
+   
+2. Eliminación:
+   
    -Después de seleccionar el pivote, se utiliza para eliminar los coeficientes debajo de él en la misma columna, haciendo que sean cero. Esto simplifica el sistema al eliminar incógnitas de ecuaciones adicionales.
+   
    -La eliminación se realiza restando múltiplos adecuados de la fila del pivote a otras filas. Esto se repite hasta que la matriz se convierte en una forma triangular superior, donde todos los elementos debajo de la diagonal principal son ceros.
-4. Sustitución hacia atrás:
+   
+3. Sustitución hacia atrás:
+   
    -Con la matriz en forma triangular superior, se pueden resolver las incógnitas fácilmente utilizando el método de sustitución hacia atrás.
    -Comenzando desde la última fila, las soluciones de las variables se calculan sucesivamente utilizando los valores ya calculados de las variables hacia abajo en la matriz.
 
