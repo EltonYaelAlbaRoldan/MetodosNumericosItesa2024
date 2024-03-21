@@ -85,15 +85,15 @@ Algoritmo utilizado para encontrar aproximaciones de las raíces de una función
 
 [Ejercicios](https://github.com/Eltonvamosporla14/MetodosNumericosItesa2024/tree/234cfec0010d41e1bb42da198a1af5e5eb7f7879/Regla%20falsa)
 
-[Ejercicio1](https://github.com/Eltonvamosporla14/MetodosNumericosItesa2024/blob/be07760570c9a15580733dbb8c5198b578ed8963/Regla%20falsa/Regla%20Falsa/src/regla/falsa/ReglaFalsa.java)
+[Ejercicio1](https://github.com/Eltonvamosporla14/MetodosNumericosItesa2024/blob/b0b29b93a8da0fc6eea07efea91e8951d63635cf/Tema%202%20Metodos/Regla%20falsa/Regla%20Falsa/src/regla/falsa/ReglaFalsa.java)
 
-[Ejercicio2](https://github.com/Eltonvamosporla14/MetodosNumericosItesa2024/blob/2499182a4cd7a4bfcaa92b2a9d7dedd509504aea/Regla%20falsa/Regla%20Falsa%202/src/regla/falsa/pkg2/ReglaFalsa2.java)
+[Ejercicio2](https://github.com/Eltonvamosporla14/MetodosNumericosItesa2024/blob/b0b29b93a8da0fc6eea07efea91e8951d63635cf/Tema%202%20Metodos/Regla%20falsa/Regla%20Falsa%202/src/regla/falsa/pkg2/ReglaFalsa2.java)
 
-[Ejercicio3](https://github.com/Eltonvamosporla14/MetodosNumericosItesa2024/blob/a5891dd2b92f70fa7ed21a8db7bea07fa4d62f88/Regla%20falsa/Regla%20Falsa%203/src/regla/falsa/pkg3/ReglaFalsa3.java)
+[Ejercicio3](https://github.com/Eltonvamosporla14/MetodosNumericosItesa2024/blob/b0b29b93a8da0fc6eea07efea91e8951d63635cf/Tema%202%20Metodos/Regla%20falsa/Regla%20Falsa%203/src/regla/falsa/pkg3/ReglaFalsa3.java)
 
-[Ejercicio4](https://github.com/Eltonvamosporla14/MetodosNumericosItesa2024/blob/0931563065531ab32f858821923ff9127d72d56f/Regla%20falsa/Regla%20Falsa%204/src/regla/falsa/pkg4/ReglaFalsa4.java)
+[Ejercicio4](https://github.com/Eltonvamosporla14/MetodosNumericosItesa2024/blob/b0b29b93a8da0fc6eea07efea91e8951d63635cf/Tema%202%20Metodos/Regla%20falsa/Regla%20Falsa%204/src/regla/falsa/pkg4/ReglaFalsa4.java)
 
-[Ejercicio5](https://github.com/Eltonvamosporla14/MetodosNumericosItesa2024/blob/1cfd9ffb272bbc31e61d58292ba68109ba656b66/Regla%20falsa/Regla%20Falsa%205/src/regla/falsa/pkg5/ReglaFalsa5.java)
+[Ejercicio5](https://github.com/Eltonvamosporla14/MetodosNumericosItesa2024/blob/b0b29b93a8da0fc6eea07efea91e8951d63635cf/Tema%202%20Metodos/Regla%20falsa/Regla%20Falsa%205/src/regla/falsa/pkg5/ReglaFalsa5.java)
 
 
 *Secante*
