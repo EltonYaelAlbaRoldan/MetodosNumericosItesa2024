@@ -159,6 +159,7 @@ x, que proporciona una mejor aproximación de la raíz de la función. Este proc
 
 <p align="center"><b><span style="font-family: Negrita; font-size: 200px;">Implementación</span></b></p>
 
+![Imagen](https://github.com/Eltonvamosporla14/MetodosNumericosItesa2024/blob/e4498cc9d917acdae94f63ae211d9333f509d18a/Newton/Implementaci%C3%B3n/Captura%20de%20pantalla%202024-03-14%20093128.png)
 
 <p align="center"><b><span style="font-family: Negrita; font-size: 200px;">Ejercicios</span></b></p>
 
