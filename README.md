@@ -302,3 +302,46 @@ El proceso comienza con una aproximación inicial de las soluciones del sistema.
 [Ejercicio2](https://github.com/Eltonvamosporla14/MetodosNumericosItesa2024/blob/c82e34780f891315f1dd2dac51ec03eb2bff69da/Tema%203%20Metodos/GAUSS%20SEIDEL/Gauss-Seidel%202/src/gauss/seidel/pkg2/GaussSeidel2.java)
 
 [Ejercicio3](https://github.com/Eltonvamosporla14/MetodosNumericosItesa2024/blob/c82e34780f891315f1dd2dac51ec03eb2bff69da/Tema%203%20Metodos/GAUSS%20SEIDEL/Gauss-Seidel%203/src/gauss/seidel/pkg3/GaussSeidel3.java)
+
+**Metodo de JACOBI**
+---
+
+<p align="center"><b><span style="font-family: Negrita; font-size: 200px;">Concepto</span></b></p>
+
+El método de Jacobi es un algoritmo utilizado para resolver sistemas de ecuaciones lineales. Es uno de los métodos iterativos más simples y antiguos para resolver este tipo de problemas. Fue desarrollado por el matemático alemán Carl Gustav Jacobi en el siglo XIX.
+
+La idea básica detrás del método de Jacobi es descomponer el sistema de ecuaciones lineales Ax=b en una suma de dos matrices: una matriz diagonal D y una matriz no diagonal R. Entonces, el sistema se convierte en dos ecuaciones:
+Dx=(L+U)x=b
+
+El método de Jacobi es un algoritmo utilizado para resolver sistemas de ecuaciones lineales. Es uno de los métodos iterativos más simples y antiguos para resolver este tipo de problemas. Fue desarrollado por el matemático alemán Carl Gustav Jacobi en el siglo XIX.
+
+Donde L es la parte triangular inferior de A (con todos los elementos por encima de la diagonal principal iguales a cero) y U es la parte triangular superior de A (con todos los elementos por debajo de la diagonal principal iguales a cero).
+
+El método de Jacobi procede iterativamente a partir de una estimación inicial 
+x^(0). En cada iteración, calcula una nueva estimación x^(k+1) utilizando la siguiente fórmula:
+
+x^(k+1) = D^−1 (b−Rx^(k))
+
+Donde D^−1 es la matriz inversa de D.
+
+El proceso se repite hasta que se alcanza una precisión deseada o hasta que se alcanza un número máximo de iteraciones.
+
+<p align="center"><b><span style="font-family: Negrita; font-size: 200px;">Algoritmo</span></b></p>
+
+1. Descomposición de la matriz: Dada una matriz A de coeficientes y un vector b de términos independientes, se descompone A en tres matrices: D, la matriz diagonal de A; L, la parte triangular inferior de A; y U, la parte triangular superior de A.
+
+2. Inicialización: Se elige una estimación inicial x^(0).
+
+3. Iteraciones: Se itera el proceso hasta que se alcance una precisión deseada o un número máximo de iteraciones. En cada iteración:
+   
+a. Se calcula x^(k+1) utilizando la fórmula iterativa:
+
+x^(k+1) = D^−1 (b−(L+U)x^(k))
+
+b. Se comprueba si se ha alcanzado la precisión deseada. Si es así, se detiene el proceso. Si no, se continúa a la siguiente iteración.
+
+4. Salida: La solución aproximada x^(k) se toma como la solución del sistema de ecuaciones lineales Ax=b.
+
+   
+<p align="center"><b><span style="font-family: Negrita; font-size: 200px;">Implementación</span></b></p>
+<p align="center"><b><span style="font-family: Negrita; font-size: 200px;">Ejercicios</span></b></p>
