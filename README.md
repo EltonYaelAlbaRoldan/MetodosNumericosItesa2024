@@ -4,7 +4,7 @@
 **Tema 2**
 ---
 
-**Bisección**
+***Bisección***
 ---
 
 <p align="center"><b><span style="font-family: Negrita; font-size: 200px;">Concepto</span></b></p>
