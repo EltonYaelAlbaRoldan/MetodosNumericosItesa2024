@@ -189,4 +189,4 @@ Aquí se percibe la continuación del metodo y tambien el resultado obtenido
 
 [Ejercicio2](https://github.com/Eltonvamosporla14/MetodosNumericosItesa2024/blob/e4c41673e75392f71b66199eee675c39a91e63e8/Tema%203%20Metodos/GAUSS%20JORDAN/Gauss%20Jordan%202/src/gauss/jordan/pkg2/GaussJordan2.java)
 
-[Ejercicio3]()
+[Ejercicio3](https://github.com/Eltonvamosporla14/MetodosNumericosItesa2024/blob/2388c23d7db4b103f6d1a844ec2b3bc4bf989a08/Tema%203%20Metodos/GAUSS%20JORDAN/Gauss%20Jordan%203/src/gauss/jordan/pkg3/GaussJordan3.java)
