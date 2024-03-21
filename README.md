@@ -1,6 +1,9 @@
 # MetodosNumericosItesa2024
 Divide y venceras
 
+##Indice
+
+
 **Tema 2**
 ---
 
