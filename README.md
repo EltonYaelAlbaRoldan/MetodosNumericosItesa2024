@@ -124,15 +124,15 @@ A diferencia de los métodos de intervalos como la regla falsa o la bisección, 
 
 <p align="center"><b><span style="font-family: Negrita; font-size: 200px;">Ejercicios</span></b></p>
 
-[Ejercicio1](https://github.com/Eltonvamosporla14/MetodosNumericosItesa2024/blob/4565704f6ad326313c64dcce5b45d4f987fa3f78/Secante/Secante/src/secante/Secante.java)
+[Ejercicio1](https://github.com/Eltonvamosporla14/MetodosNumericosItesa2024/blob/b0b29b93a8da0fc6eea07efea91e8951d63635cf/Tema%202%20Metodos/Secante/Secante/src/secante/Secante.java)
 
-[Ejercicio2](https://github.com/Eltonvamosporla14/MetodosNumericosItesa2024/blob/8d40c798a544a221f56578096f2adfac0629bb01/Secante/Secante%202/src/secante/pkg2/Secante2.java)
+[Ejercicio2](https://github.com/Eltonvamosporla14/MetodosNumericosItesa2024/blob/b0b29b93a8da0fc6eea07efea91e8951d63635cf/Tema%202%20Metodos/Secante/Secante%202/src/secante/pkg2/Secante2.java)
 
-[Ejercicio3](https://github.com/Eltonvamosporla14/MetodosNumericosItesa2024/blob/d94f7bd7ff5150bd93d6893306954fe4e3f3e558/Secante/Secante%203/src/secante/pkg3/Secante3.java)
+[Ejercicio3](https://github.com/Eltonvamosporla14/MetodosNumericosItesa2024/blob/b0b29b93a8da0fc6eea07efea91e8951d63635cf/Tema%202%20Metodos/Secante/Secante%203/src/secante/pkg3/Secante3.java)
 
-[Ejercicio4](https://github.com/Eltonvamosporla14/MetodosNumericosItesa2024/blob/7f3ea48f31e4421c1dc87c891b4a4b5ba9fad7d2/Secante/Secante%204/src/secante/pkg4/Secante4.java)
+[Ejercicio4]()
 
-[Ejercicio5](https://github.com/Eltonvamosporla14/MetodosNumericosItesa2024/blob/26355589096f6d86275c76c0bf2144357d36fe0c/Secante/Secante%205/src/secante/pkg5/Secante5.java)
+[Ejercicio5](https://github.com/Eltonvamosporla14/MetodosNumericosItesa2024/blob/b0b29b93a8da0fc6eea07efea91e8951d63635cf/Tema%202%20Metodos/Secante/Secante%205/src/secante/pkg5/Secante5.java)
 
 *Newton Rapson*
 ---
