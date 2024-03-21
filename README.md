@@ -109,6 +109,7 @@ El objetivo del método de Gauss es transformar un sistema de ecuaciones lineale
 3. Sustitución hacia atrás:
    
    -Con la matriz en forma triangular superior, se pueden resolver las incógnitas fácilmente utilizando el método de sustitución hacia atrás.
+   
    -Comenzando desde la última fila, las soluciones de las variables se calculan sucesivamente utilizando los valores ya calculados de las variables hacia abajo en la matriz.
 
 <p align="center"><b><span style="font-family: Negrita; font-size: 200px;">Implementación</span></b></p>
@@ -118,9 +119,11 @@ En esta imagen se observa el inicio del codigo, dentro del main se encuentra la 
 ![image](https://github.com/Eltonvamosporla14/MetodosNumericosItesa2024/assets/147437882/6c89e917-ee1e-4f48-bb84-478e3087193a)
 
 En esta parte se observa el metodo que se esta implementando, con cada uno de los pasos que se deben seguir, los pasos estan escritos dentro de la imagen como comentarios
+
 ![image](https://github.com/Eltonvamosporla14/MetodosNumericosItesa2024/assets/147437882/2ee444c3-a5b7-4632-b0f3-f4e258e4319e)
 
 Por ultimo se muestran los resultados obtenidos
+
 ![image](https://github.com/Eltonvamosporla14/MetodosNumericosItesa2024/assets/147437882/eba1d99b-87ca-4888-b26a-85f136e2415c)
 
 
