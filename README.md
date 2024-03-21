@@ -60,11 +60,22 @@ El concepto básico detrás del método de Newton-Raphson es usar la tangente a 
 x, que proporciona una mejor aproximación de la raíz de la función. Este proceso se repite iterativamente hasta que se alcance la precisión deseada.
 
 <p align="center"><b><span style="font-family: Negrita; font-size: 200px;">Algoritmo</span></b></p>
+1. Entrada de datos: Toma como entrada una función  f(x)  continua en un intervalo [a, b], donde  f(a) y f(b) tienen signos opuestos, y una tolerancia text{tol}  que determina la precisión deseada.
 
+2. Inicialización: Define a  y  b  como los límites del intervalo, y calcula  f(a)  y  f(b).
+
+3. Bucle de iteración:
+     - Mientras el tamaño del intervalo (b - a) / 2 sea mayor que la tolerancia  text{tol} :
+       - Calcula el punto c de intersección con el eje x utilizando la interpolación lineal:
+       c = b - ((f(b)*(b - a))/(f(b) - f(a))
+       - Evalúa f(c).
+       - Si  f(c) es igual a cero (o está suficientemente cerca de cero según la tolerancia), devuelve c como la raíz.
+       - Si f(a)/f(c) < 0, actualiza b = c.
+       - De lo contrario, actualiza a = c.
+
+4. Salida: Devuelve c como la aproximación de la raíz.
 <p align="center"><b><span style="font-family: Negrita; font-size: 200px;">Implementación</span></b></p>
 <p align="center"><b><span style="font-family: Negrita; font-size: 200px;">Ejercicios</span></b></p>
-
-[Algoritmo](https://github.com/Eltonvamosporla14/MetodosNumericosItesa2024/blob/d45d3f8b37656ec40ef5feeaae6b4a2c9cec2326/Regla%20falsa/Algoritmo)
 
 [Implementación](https://github.com/Eltonvamosporla14/MetodosNumericosItesa2024/blob/ccf9c4455430938522b9853dde2224409e93faa7/Regla%20falsa/Implementaci%C3%B3n/Captura%20de%20pantalla%202024-03-14%20010446.png)
 
