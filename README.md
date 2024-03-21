@@ -345,3 +345,7 @@ El proceso se repite hasta que se alcanza una precisión deseada o hasta que se 
    
 <p align="center"><b><span style="font-family: Negrita; font-size: 200px;">Implementación</span></b></p>
 <p align="center"><b><span style="font-family: Negrita; font-size: 200px;">Ejercicios</span></b></p>
+
+[Ejercicio1]()
+[Ejercicio2]()
+[Ejercicio3]()
