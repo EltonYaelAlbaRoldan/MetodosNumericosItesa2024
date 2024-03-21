@@ -277,8 +277,24 @@ Aquí se percibe la continuación del metodo y tambien el resultado obtenido
 ---
 
 <p align="center"><b><span style="font-family: Negrita; font-size: 200px;">Concepto</span></b></p>
+
+El método de Gauss-Seidel es una técnica iterativa para resolver sistemas de ecuaciones lineales. En lugar de calcular todas las incógnitas simultáneamente como en el método de eliminación gaussiana, Gauss-Seidel calcula cada incógnita secuencialmente utilizando valores actualizados a medida que avanza en las iteraciones. Esto hace que el método sea especialmente útil para matrices grandes y dispersas.
+
+El proceso comienza con una aproximación inicial de las soluciones del sistema. Luego, en cada iteración, Gauss-Seidel actualiza las soluciones basándose en las estimaciones previas, utilizando los valores recientemente calculados para las incógnitas. Este enfoque iterativo continúa hasta que se alcanza un cierto criterio de convergencia, como una tolerancia predefinida o un número máximo de iteraciones.
+
+
 <p align="center"><b><span style="font-family: Negrita; font-size: 200px;">Algoritmo</span></b></p>
+
+
 <p align="center"><b><span style="font-family: Negrita; font-size: 200px;">Implementación</span></b></p>
+
+![image](https://github.com/Eltonvamosporla14/MetodosNumericosItesa2024/assets/147437882/accce071-ffec-493e-8e96-44c4781c1ef9)
+
+![image](https://github.com/Eltonvamosporla14/MetodosNumericosItesa2024/assets/147437882/c08a3c99-b09b-4a49-bc77-60f8062bb89f)
+
+![image](https://github.com/Eltonvamosporla14/MetodosNumericosItesa2024/assets/147437882/cec924b4-4df4-45fa-a9cc-5c5df746f090)
+
+
 <p align="center"><b><span style="font-family: Negrita; font-size: 200px;">Ejercicios</span></b></p>
 
 [Ejercicio1](https://github.com/Eltonvamosporla14/MetodosNumericosItesa2024/blob/c82e34780f891315f1dd2dac51ec03eb2bff69da/Tema%203%20Metodos/GAUSS%20SEIDEL/Gauss-Seidel/src/gauss/seidel/GaussSeidel.java)
