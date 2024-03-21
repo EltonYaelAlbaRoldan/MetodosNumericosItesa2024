@@ -41,7 +41,7 @@ El método de bisección es un algoritmo utilizado para encontrar las raíces de
 
 <p align="center"><b><span style="font-family: Negrita; font-size: 200px;">Ejercicios</span></b></p>
 
-[Ejercicio1](https://github.com/Eltonvamosporla14/MetodosNumericosItesa2024/blob/e0196942b542ec0170f484e03f8e6c0d38e2ac16/Bisecci%C3%B3n/Biseccion/src/biseccion/Biseccion.java)
+[Ejercicio1](https://github.com/Eltonvamosporla14/MetodosNumericosItesa2024/blob/db4fa5e81cc0fbc41ad02d7fb25ee52ff1e5fb6e/Tema%202%20Metodos/Bisecci%C3%B3n/Biseccion/src/biseccion/Biseccion.java)
 
 [Ejercicio2](https://github.com/Eltonvamosporla14/MetodosNumericosItesa2024/blob/0aa2a836bd987fe9cee9c4002d4f6ef1f140c6b0/Bisecci%C3%B3n/Biseccion2/src/biseccion2/Biseccion2.java)
 
