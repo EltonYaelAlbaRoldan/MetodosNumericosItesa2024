@@ -185,7 +185,7 @@ Aquí se percibe la continuación del metodo y tambien el resultado obtenido
 
 <p align="center"><b><span style="font-family: Negrita; font-size: 200px;">Ejercicios</span></b></p>
 
-[Ejercicio1]()
+[Ejercicio1](https://github.com/Eltonvamosporla14/MetodosNumericosItesa2024/blob/ea79d0177a2a0effabab09cdf38f79d792559d52/Tema%203%20Metodos/GAUSS%20JORDAN/Gauss%20Jordan/src/gauss/jordan/GaussJordan.java)
 
 [Ejercicio2]()
 
