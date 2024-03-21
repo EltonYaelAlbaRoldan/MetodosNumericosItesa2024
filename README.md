@@ -122,7 +122,7 @@ A diferencia de los métodos de intervalos como la regla falsa o la bisección, 
 <p align="center"><b><span style="font-family: Negrita; font-size: 200px;">Implementación</span></b></p>
 
 ![Imagen](https://github.com/Eltonvamosporla14/MetodosNumericosItesa2024/blob/edae64d9ff4ae50f30e451812899b3f21bdc8234/Secante/Implementaci%C3%B3n/Captura%20de%20pantalla%202024-03-14%20013305.png)
-![Imagen]()
+![Imagen](https://github.com/Eltonvamosporla14/MetodosNumericosItesa2024/blob/61408b9919ad19a4aa7af6c657381009398b7433/Secante/Implementaci%C3%B3n/Captura%20de%20pantalla%202024-03-14%20013517.png)
 
 <p align="center"><b><span style="font-family: Negrita; font-size: 200px;">Ejercicios</span></b></p>
 
