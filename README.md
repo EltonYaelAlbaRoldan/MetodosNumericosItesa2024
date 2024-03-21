@@ -79,7 +79,12 @@ x, que proporciona una mejor aproximación de la raíz de la función. Este proc
        - De lo contrario, actualiza a = c.
 
 4. Salida: Devuelve c como la aproximación de la raíz.
+
+
 <p align="center"><b><span style="font-family: Negrita; font-size: 200px;">Implementación</span></b></p>
+
+![imagen](https://github.com/Eltonvamosporla14/MetodosNumericosItesa2024/blob/655365dd8a77458a6803a14cb14d856920f41493/Regla%20falsa/Implementaci%C3%B3n/Captura%20de%20pantalla%202024-03-14%20010446.png)
+
 <p align="center"><b><span style="font-family: Negrita; font-size: 200px;">Ejercicios</span></b></p>
 
 [Implementación](https://github.com/Eltonvamosporla14/MetodosNumericosItesa2024/blob/ccf9c4455430938522b9853dde2224409e93faa7/Regla%20falsa/Implementaci%C3%B3n/Captura%20de%20pantalla%202024-03-14%20010446.png)
