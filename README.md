@@ -82,9 +82,10 @@ Newton Rapson:
 
 [Ejercicio5](https://github.com/Eltonvamosporla14/MetodosNumericosItesa2024/blob/2fd1fc07510e6fd4fcf8bc3694ce329a83889961/Newton/Newton5/src/newton5/Newton5.java)
 
-<p align="center"><b><span style="font-family: Negrita; font-size: 200px;">"Tema 3"</span></b></p>
+**TEMA 3**
+---
 
-**MÉTODO DE ELIMINACIÓN GAUSSIANA**
+*MÉTODO DE ELIMINACIÓN GAUSSIANA*
 ---
 
 [Teoria](https://github.com/Eltonvamosporla14/MetodosNumericosItesa2024/tree/835552ebd9ecd2544f8dac406c3932a075b74b93/Tema%203%20Metodos/ELIMINACI%C3%93N%20GAUSSIANA)
