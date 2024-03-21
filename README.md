@@ -334,11 +334,11 @@ El proceso se repite hasta que se alcanza una precisión deseada o hasta que se 
 
 3. Iteraciones: Se itera el proceso hasta que se alcance una precisión deseada o un número máximo de iteraciones. En cada iteración:
    
-a. Se calcula x^(k+1) utilizando la fórmula iterativa:
+    a. Se calcula x^(k+1) utilizando la fórmula iterativa:
 
-x^(k+1) = D^−1 (b−(L+U)x^(k))
+       x^(k+1) = D^−1 (b−Rx^(k))
 
-b. Se comprueba si se ha alcanzado la precisión deseada. Si es así, se detiene el proceso. Si no, se continúa a la siguiente iteración.
+    b. Se comprueba si se ha alcanzado la precisión deseada. Si es así, se detiene el proceso. Si no, se continúa a la siguiente iteración.
 
 4. Salida: La solución aproximada x^(k) se toma como la solución del sistema de ecuaciones lineales Ax=b.
 
