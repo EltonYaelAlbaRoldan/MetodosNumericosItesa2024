@@ -3,7 +3,7 @@
 
 # Índice
 * [Tema 2](#Tema_2)
-* [Bisección](##Biseccón)
+* [Bisección](#Biseccón)
 * [Tema 3](#Tema_3)
 
 # Tema_2
