@@ -320,7 +320,7 @@ Donde L es la parte triangular inferior de A (con todos los elementos por encima
 El método de Jacobi procede iterativamente a partir de una estimación inicial 
 x^(0). En cada iteración, calcula una nueva estimación x^(k+1) utilizando la siguiente fórmula:
 
-x^(k+1) = D^−1 (b−Rx^(k))
+    x^(k+1) = D^−1 (b−Rx^(k))
 
 Donde D^−1 es la matriz inversa de D.
 
