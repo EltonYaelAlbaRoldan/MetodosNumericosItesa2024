@@ -10,6 +10,7 @@ Divide y venceras
 <p align="center"><b><span style="font-family: Negrita; font-size: 200px;">Concepto</span></b></p>
 El método de bisección es un algoritmo utilizado para encontrar las raíces de una función en un intervalo dado.
 
+
 <p align="center"><b><span style="font-family: Negrita; font-size: 200px;">Algoritmo</span></b></p>
 1. Entrada de datos: Toma como entrada una función f(x) continua en un intervalo [a, b], donde f(a) y f(b) tienen signos opuestos (es decir, f(a) * f(b) < 0), y una tolerancia tol que determina la precisión deseada.
 
@@ -17,21 +18,26 @@ El método de bisección es un algoritmo utilizado para encontrar las raíces de
 
 3. Bucle de iteración:
 
-  -Mientras el tamaño del intervalo (b - a) sea mayor que la tolerancia tol:
-  -Calcula el punto medio c = (a + b) / 2.
-  -Evalúa la función f(c).
-    Si f(c) es igual a cero (o está suficientemente cerca de cero según la tolerancia), devuelve c como la raíz.
-    Si f(c) tiene el mismo signo que f(a), actualiza a = c.
-    Si f(c) tiene el mismo signo que f(b), actualiza b = c.
-  -Incrementa el contador de iteraciones.
+   -Mientras el tamaño del intervalo (b - a) sea mayor que la tolerancia tol:
+   
+   -Calcula el punto medio c = (a + b) / 2.
+   
+   -Evalúa la función f(c).
+   
+      Si f(c) es igual a cero (o está suficientemente cerca de cero según la tolerancia), devuelve c como la raíz.
+   
+      Si f(c) tiene el mismo signo que f(a), actualiza a = c.
+   
+      Si f(c) tiene el mismo signo que f(b), actualiza b = c.
+   
+    -Incrementa el contador de iteraciones.
 
-4. Salida: Devuelve el punto medio c como la aproximación de la raíz.
+5. Salida: Devuelve el punto medio c como la aproximación de la raíz.
 
 <p align="center"><b><span style="font-family: Negrita; font-size: 200px;">Implementación</span></b></p>
 <p align="center"><b><span style="font-family: Negrita; font-size: 200px;">Ejercicios</span></b></p>
 [Algoritmo](https://github.com/Eltonvamosporla14/MetodosNumericosItesa2024/blob/d743dae8cf7c34ec3d096ed276c8b71c0565963b/Bisecci%C3%B3n/Algoritmo)
 
-[Implementación](https://github.com/Eltonvamosporla14/MetodosNumericosItesa2024/blob/493f5873ba5e1d3d7bcf5475f8fa7adeda267562/Bisecci%C3%B3n/Implementaci%C3%B3n%20Bisecci%C3%B3n/Captura%20de%20pantalla%202024-03-13%20224218.png)
 
 [Ejercicios](https://github.com/Eltonvamosporla14/MetodosNumericosItesa2024/tree/e0196942b542ec0170f484e03f8e6c0d38e2ac16/Bisecci%C3%B3n)
 
