@@ -35,6 +35,8 @@ El método de bisección es un algoritmo utilizado para encontrar las raíces de
 5. Salida: Devuelve el punto medio c como la aproximación de la raíz.
 
 <p align="center"><b><span style="font-family: Negrita; font-size: 200px;">Implementación</span></b></p>
+
+![imagen](https://github.com/Eltonvamosporla14/MetodosNumericosItesa2024/blob/aeabc4ed694e637782d23d3604462fac874f9aab/Bisecci%C3%B3n/Implementaci%C3%B3n%20Bisecci%C3%B3n/Captura%20de%20pantalla%202024-03-13%20224218.png)
 <p align="center"><b><span style="font-family: Negrita; font-size: 200px;">Ejercicios</span></b></p>
 [Algoritmo](https://github.com/Eltonvamosporla14/MetodosNumericosItesa2024/blob/d743dae8cf7c34ec3d096ed276c8b71c0565963b/Bisecci%C3%B3n/Algoritmo)
 
