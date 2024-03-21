@@ -58,11 +58,6 @@ El método de bisección es un algoritmo utilizado para encontrar las raíces de
 
 Algoritmo utilizado para encontrar aproximaciones de las raíces de una función continua en un intervalo dado. A diferencia del método de bisección, el método de la regla falsa utiliza una interpolación lineal para estimar la ubicación de la raíz en cada iteración.
 
-
-El método de Newton-Raphson, también conocido como el método de Newton, es un algoritmo utilizado para encontrar raíces de funciones. Es un método iterativo que utiliza la derivada de la función para aproximarse a la raíz.
-El concepto básico detrás del método de Newton-Raphson es usar la tangente a la curva de la función en un punto inicial como una aproximación lineal de la función. Luego, se encuentra la intersección de esta tangente con el eje 
-x, que proporciona una mejor aproximación de la raíz de la función. Este proceso se repite iterativamente hasta que se alcance la precisión deseada.
-
 <p align="center"><b><span style="font-family: Negrita; font-size: 200px;">Algoritmo</span></b></p>
 
 1. Entrada de datos: Toma como entrada una función  f(x)  continua en un intervalo [a, b], donde  f(a) y f(b) tienen signos opuestos, y una tolerancia text{tol}  que determina la precisión deseada.
@@ -103,13 +98,12 @@ x, que proporciona una mejor aproximación de la raíz de la función. Este proc
 *Secante*
 ---
 
-[Concepto](https://github.com/Eltonvamosporla14/MetodosNumericosItesa2024/blob/693a6dd16e3a372e24f203d010788cc2416b4d90/Secante/Concepto)
+<p align="center"><b><span style="font-family: Negrita; font-size: 200px;">Concepto</span></b></p>
 
-[Algoritmo](https://github.com/Eltonvamosporla14/MetodosNumericosItesa2024/blob/374616e1df230a470b24af210572ff7d866d1394/Secante/Algoritmo)
 
-[Implementación](https://github.com/Eltonvamosporla14/MetodosNumericosItesa2024/tree/290d12ed661a87db6af48beff186c416044bbd15/Secante/Implementaci%C3%B3n)
-
-[Ejercicios](https://github.com/Eltonvamosporla14/MetodosNumericosItesa2024/tree/cf227c0edfd294a4dbc3ca8b422825426fa0f282/Secante)
+<p align="center"><b><span style="font-family: Negrita; font-size: 200px;">Algoritmo</span></b></p>
+<p align="center"><b><span style="font-family: Negrita; font-size: 200px;">Implementación</span></b></p>
+<p align="center"><b><span style="font-family: Negrita; font-size: 200px;">Ejercicios</span></b></p>
 
 [Ejercicio1](https://github.com/Eltonvamosporla14/MetodosNumericosItesa2024/blob/4565704f6ad326313c64dcce5b45d4f987fa3f78/Secante/Secante/src/secante/Secante.java)
 
@@ -124,13 +118,15 @@ x, que proporciona una mejor aproximación de la raíz de la función. Este proc
 *Newton Rapson*
 ---
 
-[Concepto](https://github.com/Eltonvamosporla14/MetodosNumericosItesa2024/blob/32123fbee6e7b2ff193db72bfdb446ae5377d68d/Newton/Concepto)
+<p align="center"><b><span style="font-family: Negrita; font-size: 200px;">Concepto</span></b></p>
 
-[Algoritmo](https://github.com/Eltonvamosporla14/MetodosNumericosItesa2024/blob/1f0f7c704966759c485084da3b445402b3bcdd61/Newton/Algoritmo)
+El método de Newton-Raphson, también conocido como el método de Newton, es un algoritmo utilizado para encontrar raíces de funciones. Es un método iterativo que utiliza la derivada de la función para aproximarse a la raíz.
+El concepto básico detrás del método de Newton-Raphson es usar la tangente a la curva de la función en un punto inicial como una aproximación lineal de la función. Luego, se encuentra la intersección de esta tangente con el eje 
+x, que proporciona una mejor aproximación de la raíz de la función. Este proceso se repite iterativamente hasta que se alcance la precisión deseada.
 
-[Implementación](https://github.com/Eltonvamosporla14/MetodosNumericosItesa2024/blob/05e9980881d0d1be71ac054815c78eb32bcb201c/Newton/Implementaci%C3%B3n/Captura%20de%20pantalla%202024-03-14%20093128.png)
-
-[Ejercicios](https://github.com/Eltonvamosporla14/MetodosNumericosItesa2024/tree/4e4209f2d3159291b4051516874c6c384e1e7e51/Newton)
+<p align="center"><b><span style="font-family: Negrita; font-size: 200px;">Algoritmo</span></b></p>
+<p align="center"><b><span style="font-family: Negrita; font-size: 200px;">Implementación</span></b></p>
+<p align="center"><b><span style="font-family: Negrita; font-size: 200px;">Ejercicios</span></b></p>
 
 [Ejercicio1](https://github.com/Eltonvamosporla14/MetodosNumericosItesa2024/blob/f96c38a4804cec98811561e64f15f008553e2163/Newton/Newton/src/newton/Newton.java)
 
