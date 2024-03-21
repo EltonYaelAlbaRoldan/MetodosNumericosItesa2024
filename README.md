@@ -7,8 +7,13 @@ Divide y venceras
 *Bisección*
 ---
 
-[Consepto](https://github.com/Eltonvamosporla14/MetodosNumericosItesa2024/blob/4b020dea846b391148aa3d125db6a010b6605c2b/Bisecci%C3%B3n/Definici%C3%B3nBisecci%C3%B3n)
+<p align="center"><b><span style="font-family: Negrita; font-size: 200px;">Concepto</span></b></p>
+El método de bisección es un algoritmo utilizado para encontrar las raíces de una función en un intervalo dado.
 
+<p align="center"><b><span style="font-family: Negrita; font-size: 200px;">Algoritmo</span></b></p>
+
+<p align="center"><b><span style="font-family: Negrita; font-size: 200px;">Implementación</span></b></p>
+<p align="center"><b><span style="font-family: Negrita; font-size: 200px;">Ejercicios</span></b></p>
 [Algoritmo](https://github.com/Eltonvamosporla14/MetodosNumericosItesa2024/blob/d743dae8cf7c34ec3d096ed276c8b71c0565963b/Bisecci%C3%B3n/Algoritmo)
 
 [Implementación](https://github.com/Eltonvamosporla14/MetodosNumericosItesa2024/blob/493f5873ba5e1d3d7bcf5475f8fa7adeda267562/Bisecci%C3%B3n/Implementaci%C3%B3n%20Bisecci%C3%B3n/Captura%20de%20pantalla%202024-03-13%20224218.png)
