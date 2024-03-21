@@ -120,6 +120,10 @@ A diferencia de los métodos de intervalos como la regla falsa o la bisección, 
 4. Salida: Devuelve x{n+1} como la aproximación de la raíz.
 
 <p align="center"><b><span style="font-family: Negrita; font-size: 200px;">Implementación</span></b></p>
+
+![Imagen](https://github.com/Eltonvamosporla14/MetodosNumericosItesa2024/blob/edae64d9ff4ae50f30e451812899b3f21bdc8234/Secante/Implementaci%C3%B3n/Captura%20de%20pantalla%202024-03-14%20013305.png)
+![Imagen]()
+
 <p align="center"><b><span style="font-family: Negrita; font-size: 200px;">Ejercicios</span></b></p>
 
 [Ejercicio1](https://github.com/Eltonvamosporla14/MetodosNumericosItesa2024/blob/4565704f6ad326313c64dcce5b45d4f987fa3f78/Secante/Secante/src/secante/Secante.java)
