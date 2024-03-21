@@ -1,5 +1,5 @@
 # MetodosNumericosItesa2024
-Divide y venceras
+>Divide y venceras
 
 **Tema 2**
 ---
