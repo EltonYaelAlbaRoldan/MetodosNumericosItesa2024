@@ -13,6 +13,7 @@
    * [Metodo de Gauss Seidel](#Metodo_de_Gauss-Seidel)
    * [Metodo de Jacobi](#Metodo_de_Jacobi)
 
+
 # Tema_2
 
 ## Bisección
