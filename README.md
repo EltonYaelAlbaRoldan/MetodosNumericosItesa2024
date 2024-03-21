@@ -6,7 +6,6 @@
 * [Tema 3](#Tema_3)
 
 # Tema_2
----
 
 ## Bisección
 ---
@@ -176,7 +175,6 @@ x, que proporciona una mejor aproximación de la raíz de la función. Este proc
 [Ejercicio5](https://github.com/Eltonvamosporla14/MetodosNumericosItesa2024/blob/20f0284da0e174237ed13c5d613a99c82c14daa5/Tema%202%20Metodos/Newton/Newton5/src/newton5/Newton5.java)
 
 # Tema_3
----
 
 *MÉTODO DE ELIMINACIÓN GAUSSIANA*
 ---
