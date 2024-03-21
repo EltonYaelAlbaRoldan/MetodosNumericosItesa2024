@@ -96,24 +96,25 @@ El método de Gauss-Jordan es un algoritmo numérico utilizado para resolver sis
 
 1. Pivoteo Parcial:
    
-  -Selecciona el pivote actual como el elemento más grande en valor absoluto en la columna actual, comenzando desde la fila actual y hacia abajo. 
+  -Selecciona el pivote actual como el elemento más grande en valor absoluto en la columna actual, comenzando desde la fila actual y hacia abajo.
+  
   -Intercambia las filas de tal manera que la fila del pivote (la fila actual) se coloque en la posición donde se encuentra el máximo elemento.
 
 2. Hacer el Pivote Igual a 1:
    
- -Divide toda la fila del pivote por el valor del pivote para hacer que el elemento diagonal (el pivote) sea igual a 1.
+  -Divide toda la fila del pivote por el valor del pivote para hacer que el elemento diagonal (el pivote) sea igual a 1.
 
 3.  Hacer Ceros por Debajo y por encima del Pivote:
    
- -Para cada fila que esté debajo y encima del pivote, resta múltiplos adecuados de la fila del pivote para hacer cero los elementos en la columna actual.
+   -Para cada fila que esté debajo y encima del pivote, resta múltiplos adecuados de la fila del pivote para hacer cero los elementos en la columna actual.
 
 4. Repetición:
 
- -Repite los pasos anteriores para el siguiente pivote y continúa hasta que se hayan procesado todas las filas y columnas.
+   -Repite los pasos anteriores para el siguiente pivote y continúa hasta que se hayan procesado todas las filas y columnas.
 
 5. Solución:
 
- -Una vez que la matriz está en su forma escalonada reducida, las últimas columnas representan las soluciones del sistema de ecuaciones lineales.
+   -Una vez que la matriz está en su forma escalonada reducida, las últimas columnas representan las soluciones del sistema de ecuaciones lineales.
 
 Ejercicios:
 
