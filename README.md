@@ -190,7 +190,7 @@ x, que proporciona una mejor aproximación de la raíz de la función. Este proc
 
 ## MÉTODO_DE_ELIMINACIÓN_GAUSSIANA
 
-<p align="center"><b><span style="font-family: Negrita; font-size: 200px;">Concepto</span></b></p>
+ ###                                         Concepto
 
 El objetivo del método de Gauss es transformar un sistema de ecuaciones lineales en otro equivalente pero más fácil de resolver, como un sistema triangular o diagonal con ceros bajo la diagonal.
 
