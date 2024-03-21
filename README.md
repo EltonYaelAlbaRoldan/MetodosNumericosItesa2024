@@ -105,6 +105,20 @@ A diferencia de los métodos de intervalos como la regla falsa o la bisección, 
 
 
 <p align="center"><b><span style="font-family: Negrita; font-size: 200px;">Algoritmo</span></b></p>
+
+1. Entrada de datos: Toma como entrada una función f(x)continua, dos aproximaciones iniciales x_0 y x_1  para la raíz, y una tolerancia tol que determina la precisión deseada.
+
+2. Inicialización: Define x_0 y x_1 como las aproximaciones iniciales para la raíz.
+
+3. Bucle de iteración:
+   - Mientras no se alcance la tolerancia tol o un número máximo de iteraciones:
+     - Calcula la siguiente aproximación de la raíz utilizando la fórmula:
+       x_{n+1} = x_n - (f(x_n)*(x_n - x_{n-1})/(f(x_n) - f(x_{n-1})))
+     - Comprueba si f(x_{n+1} < tol. Si es así, la aproximación x_{n+1} es aceptable y se detiene el algoritmo.
+     - Actualiza x_{n-1} y x_n para la siguiente iteración.
+
+4. Salida: Devuelve x{n+1} como la aproximación de la raíz.
+
 <p align="center"><b><span style="font-family: Negrita; font-size: 200px;">Implementación</span></b></p>
 <p align="center"><b><span style="font-family: Negrita; font-size: 200px;">Ejercicios</span></b></p>
 
