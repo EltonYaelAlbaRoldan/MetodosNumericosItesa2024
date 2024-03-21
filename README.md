@@ -7,11 +7,11 @@
 ## Bisección
 ---
 
-<p align="center"><b><span style="font-family: Negrita; font-size: 200px;">Concepto</span></b></p>
+### Concepto
 El método de bisección es un algoritmo utilizado para encontrar las raíces de una función en un intervalo dado.
 
 
-<p align="center"><b><span style="font-family: Negrita; font-size: 200px;">Algoritmo</span></b></p>
+### Algoritmo
 1. Entrada de datos: Toma como entrada una función f(x) continua en un intervalo [a, b], donde f(a) y f(b) tienen signos opuestos (es decir, f(a) * f(b) < 0), y una tolerancia tol que determina la precisión deseada.
 
 2. Inicialización: Define los límites del intervalo [a, b] y establece un contador de iteraciones.
@@ -34,12 +34,12 @@ El método de bisección es un algoritmo utilizado para encontrar las raíces de
 
 5. Salida: Devuelve el punto medio c como la aproximación de la raíz.
 
-<p align="center"><b><span style="font-family: Negrita; font-size: 200px;">Implementación</span></b></p>
+### Implementación
 
 ![imagen](https://github.com/Eltonvamosporla14/MetodosNumericosItesa2024/blob/aeabc4ed694e637782d23d3604462fac874f9aab/Bisecci%C3%B3n/Implementaci%C3%B3n%20Bisecci%C3%B3n/Captura%20de%20pantalla%202024-03-13%20224218.png)
 
 
-<p align="center"><b><span style="font-family: Negrita; font-size: 200px;">Ejercicios</span></b></p>
+### Ejercicios
 
 [Ejercicio1](https://github.com/Eltonvamosporla14/MetodosNumericosItesa2024/blob/db4fa5e81cc0fbc41ad02d7fb25ee52ff1e5fb6e/Tema%202%20Metodos/Bisecci%C3%B3n/Biseccion/src/biseccion/Biseccion.java)
 
