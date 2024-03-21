@@ -344,8 +344,18 @@ El proceso se repite hasta que se alcanza una precisión deseada o hasta que se 
 
    
 <p align="center"><b><span style="font-family: Negrita; font-size: 200px;">Implementación</span></b></p>
+
+![image](https://github.com/Eltonvamosporla14/MetodosNumericosItesa2024/assets/147437882/905fb93e-650f-4dcc-a68c-2c656f98e4bd)
+
+![image](https://github.com/Eltonvamosporla14/MetodosNumericosItesa2024/assets/147437882/a4ec0fb7-1337-49f0-b9a1-3843d271e47f)
+
+![image](https://github.com/Eltonvamosporla14/MetodosNumericosItesa2024/assets/147437882/dfda0ab6-3841-45c9-91f7-1c9dc023953e)
+
+
 <p align="center"><b><span style="font-family: Negrita; font-size: 200px;">Ejercicios</span></b></p>
 
-[Ejercicio1]()
-[Ejercicio2]()
-[Ejercicio3]()
+[Ejercicio1](https://github.com/Eltonvamosporla14/MetodosNumericosItesa2024/blob/dedef44be82adfdba1f13639f48310d320af37ff/Tema%203%20Metodos/JACOBI/Jacobi/src/jacobi/Jacobi.java)
+
+[Ejercicio2](https://github.com/Eltonvamosporla14/MetodosNumericosItesa2024/blob/dedef44be82adfdba1f13639f48310d320af37ff/Tema%203%20Metodos/JACOBI/Jacobi%202/src/jacobi/pkg2/Jacobi2.java)
+
+[Ejercicio3](https://github.com/Eltonvamosporla14/MetodosNumericosItesa2024/blob/dedef44be82adfdba1f13639f48310d320af37ff/Tema%203%20Metodos/JACOBI/Jacobi%203/src/jacobi/pkg3/Jacobi3.java)
