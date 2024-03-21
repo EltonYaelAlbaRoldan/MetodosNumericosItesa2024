@@ -1,10 +1,10 @@
 # MetodosNumericosItesa2024
 >Divide y venceras
 
-**Tema 2**
+# Tema 2
 ---
 
-**Bisección**
+## Bisección
 ---
 
 <p align="center"><b><span style="font-family: Negrita; font-size: 200px;">Concepto</span></b></p>
