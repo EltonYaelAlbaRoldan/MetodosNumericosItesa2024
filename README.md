@@ -118,8 +118,9 @@ El método de Gauss-Jordan es un algoritmo numérico utilizado para resolver sis
 
 <p align="center"><b><span style="font-family: Negrita; font-size: 200px;">Implementación</span></b></p>
 
-![.](https://github.com/Eltonvamosporla14/MetodosNumericosItesa2024/assets/147437882/8a3421b5-63e1-4e8f-b399-dba8ebc74e40)
+En esta imagen se observa el inicio del codigo, dentro del main se encuentra la parte donde se pone el sistema de ecuaciones y donde se imprimen los resultados, despues del main aparece la funecion que va a crear la matriz, 
 
+![image](https://github.com/Eltonvamosporla14/MetodosNumericosItesa2024/assets/147437882/6c89e917-ee1e-4f48-bb84-478e3087193a)
 
 <p align="center"><b><span style="font-family: Negrita; font-size: 200px;">Ejercicios</span></b></p>
 
@@ -132,6 +133,6 @@ El método de Gauss-Jordan es un algoritmo numérico utilizado para resolver sis
 *MÉTODO DE GAUSS JORDAN*
 ---
 
-[Teoría]()
+![imagen](https://github.com/Eltonvamosporla14/MetodosNumericosItesa2024/assets/147437882/8a3421b5-63e1-4e8f-b399-dba8ebc74e40)
 
 
