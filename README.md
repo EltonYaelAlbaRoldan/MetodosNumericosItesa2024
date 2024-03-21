@@ -11,6 +11,21 @@ Divide y venceras
 El método de bisección es un algoritmo utilizado para encontrar las raíces de una función en un intervalo dado.
 
 <p align="center"><b><span style="font-family: Negrita; font-size: 200px;">Algoritmo</span></b></p>
+1. Entrada de datos: Toma como entrada una función f(x) continua en un intervalo [a, b], donde f(a) y f(b) tienen signos opuestos (es decir, f(a) * f(b) < 0), y una tolerancia tol que determina la precisión deseada.
+
+2. Inicialización: Define los límites del intervalo [a, b] y establece un contador de iteraciones.
+
+3. Bucle de iteración:
+
+  -Mientras el tamaño del intervalo (b - a) sea mayor que la tolerancia tol:
+  -Calcula el punto medio c = (a + b) / 2.
+  -Evalúa la función f(c).
+    Si f(c) es igual a cero (o está suficientemente cerca de cero según la tolerancia), devuelve c como la raíz.
+    Si f(c) tiene el mismo signo que f(a), actualiza a = c.
+    Si f(c) tiene el mismo signo que f(b), actualiza b = c.
+  -Incrementa el contador de iteraciones.
+
+4. Salida: Devuelve el punto medio c como la aproximación de la raíz.
 
 <p align="center"><b><span style="font-family: Negrita; font-size: 200px;">Implementación</span></b></p>
 <p align="center"><b><span style="font-family: Negrita; font-size: 200px;">Ejercicios</span></b></p>
