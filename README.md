@@ -185,4 +185,8 @@ Aquí se percibe la continuación del metodo y tambien el resultado obtenido
 
 <p align="center"><b><span style="font-family: Negrita; font-size: 200px;">Ejercicios</span></b></p>
 
+[Ejercicio1]()
 
+[Ejercicio2]()
+
+[Ejercicio3]()
