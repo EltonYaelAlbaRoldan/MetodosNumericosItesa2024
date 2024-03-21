@@ -103,9 +103,9 @@ El método de Gauss-Jordan es un algoritmo numérico utilizado para resolver sis
    
  -Divide toda la fila del pivote por el valor del pivote para hacer que el elemento diagonal (el pivote) sea igual a 1.
 
-3.  Hacer Ceros por Debajo del Pivote:
+3.  Hacer Ceros por Debajo y por encima del Pivote:
    
- -Para cada fila que esté debajo del pivote, resta múltiplos adecuados de la fila del pivote para hacer cero los elementos debajo del pivote en la columna actual.
+ -Para cada fila que esté debajo y encima del pivote, resta múltiplos adecuados de la fila del pivote para hacer cero los elementos en la columna actual.
 
 4. Repetición:
 
