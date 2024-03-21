@@ -96,8 +96,8 @@ El método de Gauss-Jordan es un algoritmo numérico utilizado para resolver sis
 
 1. Pivoteo Parcial:
    
- -Selecciona el pivote actual como el elemento más grande en valor absoluto en la columna actual, comenzando desde la fila actual y hacia abajo. 
- -Intercambia las filas de tal manera que la fila del pivote (la fila actual) se coloque en la posición donde se encuentra el máximo elemento.
+  *Selecciona el pivote actual como el elemento más grande en valor absoluto en la columna actual, comenzando desde la fila actual y hacia abajo. 
+  *Intercambia las filas de tal manera que la fila del pivote (la fila actual) se coloque en la posición donde se encuentra el máximo elemento.
 
 2. Hacer el Pivote Igual a 1:
    
