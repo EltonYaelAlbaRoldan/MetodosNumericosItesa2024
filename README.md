@@ -60,6 +60,7 @@ El concepto básico detrás del método de Newton-Raphson es usar la tangente a 
 x, que proporciona una mejor aproximación de la raíz de la función. Este proceso se repite iterativamente hasta que se alcance la precisión deseada.
 
 <p align="center"><b><span style="font-family: Negrita; font-size: 200px;">Algoritmo</span></b></p>
+
 1. Entrada de datos: Toma como entrada una función  f(x)  continua en un intervalo [a, b], donde  f(a) y f(b) tienen signos opuestos, y una tolerancia text{tol}  que determina la precisión deseada.
 
 2. Inicialización: Define a  y  b  como los límites del intervalo, y calcula  f(a)  y  f(b).
