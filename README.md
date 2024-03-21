@@ -146,7 +146,20 @@ El concepto básico detrás del método de Newton-Raphson es usar la tangente a 
 x, que proporciona una mejor aproximación de la raíz de la función. Este proceso se repite iterativamente hasta que se alcance la precisión deseada.
 
 <p align="center"><b><span style="font-family: Negrita; font-size: 200px;">Algoritmo</span></b></p>
+
+1. Entrada de datos: Toma como entrada una función  f(x) continua y diferenciable, una aproximación inicial  x_0 para la raíz, y una tolerancia tol que determina la precisión deseada.
+
+2. Bucle de iteración:
+   - Calcula la siguiente aproximación de la raíz utilizando la fórmula:
+     x_{n+1} = x_n - (f(x_n)/f'(x_n))
+     donde f'(x_n) es la derivada de f(x) evaluada en x_n.
+   - Repite este paso hasta que |f(x_{n+1})| < tol, o hasta que se alcance un número máximo de iteraciones.
+
+3. Salida: Devuelve x_{n+1} como la aproximación de la raíz.
+
 <p align="center"><b><span style="font-family: Negrita; font-size: 200px;">Implementación</span></b></p>
+
+
 <p align="center"><b><span style="font-family: Negrita; font-size: 200px;">Ejercicios</span></b></p>
 
 [Ejercicio1](https://github.com/Eltonvamosporla14/MetodosNumericosItesa2024/blob/f96c38a4804cec98811561e64f15f008553e2163/Newton/Newton/src/newton/Newton.java)
