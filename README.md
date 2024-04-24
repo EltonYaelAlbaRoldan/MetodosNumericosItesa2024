@@ -13,8 +13,7 @@
    * [Metodo de Gauss Seidel](#Metodo_de_Gauss-Seidel)
    * [Metodo de Jacobi](#Metodo_de_Jacobi)
  * [Tema 4](#Tema_4)
-   * [Metodo de Jacobi](#Metodo_de_Jacobi)
-   *[Metodo_del_trapecio](#Metodo_del_trapecio)
+   * [Metodo_del_trapecio](#Metodo_del_trapecio)
 
 
 # Tema_2
