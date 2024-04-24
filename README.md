@@ -14,6 +14,7 @@
    * [Metodo de Jacobi](#Metodo_de_Jacobi)
  * [Tema 4](#Tema_4)
    * [Metodo_del_trapecio](#Metodo_del_trapecio)
+   * [Metodo_de_Simpson](#Metodo_de_simpson)
 
 
 # Tema_2
@@ -399,3 +400,22 @@ El proceso se repite hasta que se alcanza una precisión deseada o hasta que se 
 
 ## Metodo_del_trapecio
 
+### Concepto
+
+### Algoritmo
+
+### Implementación
+
+### Ejercicios
+---
+
+
+## Metodo_de_simpson
+
+### Concepto
+
+### Algoritmo
+
+### Implementación
+
+### Ejercicios
