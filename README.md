@@ -394,7 +394,7 @@ El proceso se repite hasta que se alcanza una precisión deseada o hasta que se 
 
 ---
 
-#Tema_4
+# Tema_4
 
-##Metodo_del_trapecio
+## Metodo_del_trapecio
 
