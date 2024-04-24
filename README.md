@@ -12,6 +12,7 @@
    * [Metodo de Gauss Jordan](#MÉTODO_DE_GAUSS_JORDAN)
    * [Metodo de Gauss Seidel](#Metodo_de_Gauss-Seidel)
    * [Metodo de Jacobi](#Metodo_de_Jacobi)
+ *[Tema 4](#Tema_4)
 
 
 # Tema_2
@@ -392,3 +393,8 @@ El proceso se repite hasta que se alcanza una precisión deseada o hasta que se 
 * [Ejercicio3](https://github.com/Eltonvamosporla14/MetodosNumericosItesa2024/blob/dedef44be82adfdba1f13639f48310d320af37ff/Tema%203%20Metodos/JACOBI/Jacobi%203/src/jacobi/pkg3/Jacobi3.java)
 
 ---
+
+#Tema_4
+
+##Metodo_del_trapecio
+
