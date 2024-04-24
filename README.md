@@ -50,7 +50,7 @@ El método de bisección es un algoritmo utilizado para encontrar las raíces de
 
 ### Implementación
 
-![imagen](https://github.com/Eltonvamosporla14/MetodosNumericosItesa2024/blob/aeabc4ed694e637782d23d3604462fac874f9aab/Bisecci%C3%B3n/Implementaci%C3%B3n%20Bisecci%C3%B3n/Captura%20de%20pantalla%202024-03-13%20224218.png)
+* [Ejemplo](https://github.com/Eltonvamosporla14/MetodosNumericosItesa2024/blob/db4fa5e81cc0fbc41ad02d7fb25ee52ff1e5fb6e/Tema%202%20Metodos/Bisecci%C3%B3n/Biseccion/src/biseccion/Biseccion.java)
 
 
 ### Ejercicios
@@ -94,7 +94,7 @@ Algoritmo utilizado para encontrar aproximaciones de las raíces de una función
 
 <p align="center"><b><span style="font-family: Negrita; font-size: 200px;">Implementación</span></b></p>
 
-![imagen](https://github.com/Eltonvamosporla14/MetodosNumericosItesa2024/blob/655365dd8a77458a6803a14cb14d856920f41493/Regla%20falsa/Implementaci%C3%B3n/Captura%20de%20pantalla%202024-03-14%20010446.png)
+* [Ejemplo](https://github.com/Eltonvamosporla14/MetodosNumericosItesa2024/blob/b0b29b93a8da0fc6eea07efea91e8951d63635cf/Tema%202%20Metodos/Regla%20falsa/Regla%20Falsa/src/regla/falsa/ReglaFalsa.java)
 
 <p align="center"><b><span style="font-family: Negrita; font-size: 200px;">Ejercicios</span></b></p>
 
