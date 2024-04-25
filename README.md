@@ -402,7 +402,7 @@ El proceso se repite hasta que se alcanza una precisión deseada o hasta que se 
 
 ## Metodos_de_diferenciacióm
 
-### Fórmula_de_tres_puntos
+### Regla_de_tres_puntos
 
 #### Concepto
 
