@@ -394,6 +394,15 @@ El proceso se repite hasta que se alcanza una precisión deseada o hasta que se 
 
 ### Regla_de_tres_puntos
 
+#### Concepto
+
+#### Algoritmo
+
+#### Implementación
+
+#### Ejercicios
+---
+
 ### Regla_de_cinco_puntos
 
 #### Concepto
@@ -405,12 +414,29 @@ El proceso se repite hasta que se alcanza una precisión deseada o hasta que se 
 #### Ejercicios
 ---
 
-
 ## Metodos_de_integraación
 
 ### Metodo_del_Trapecio
 
+#### Concepto
+
+#### Algoritmo
+
+#### Implementación
+
+#### Ejercicios
+---
+
 ### Regla_de_Simpson
+
+#### Concepto
+
+#### Algoritmo
+
+#### Implementación
+
+#### Ejercicios
+---
 
 ### Método_de_la_cuadratura_gaussiana
 
@@ -421,3 +447,4 @@ El proceso se repite hasta que se alcanza una precisión deseada o hasta que se 
 #### Implementación
 
 #### Ejercicios
+---
