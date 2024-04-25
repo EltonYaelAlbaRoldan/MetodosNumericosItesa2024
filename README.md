@@ -13,8 +13,10 @@
    * [Metodo de Gauss Seidel](#Metodo_de_Gauss-Seidel)
    * [Metodo de Jacobi](#Metodo_de_Jacobi)
  * [Tema 4](#Tema_4)
-   * [Metodo_del_trapecio](#Metodo_del_trapecio)
-   * [Metodo_de_Simpson](#Metodo_de_simpson)
+   * [Metodos de diferencición](#Metodos_de_diferenciacióm)
+     * [Formula de 3 puntos](#Fórmula_de_tres_puntos)
+   * [Metodos de integración](#Metodos_de_integraación)
+     * [Metodo del Trapecio](#Metodo_del_Trapecio)
 
 
 # Tema_2
@@ -398,24 +400,28 @@ El proceso se repite hasta que se alcanza una precisión deseada o hasta que se 
 
 # Tema_4
 
-## Metodo_del_trapecio
+## Metodos_de_diferenciacióm
 
-### Concepto
+### Fórmula_de_tres_puntos
 
-### Algoritmo
+#### Concepto
 
-### Implementación
+#### Algoritmo
 
-### Ejercicios
+#### Implementación
+
+#### Ejercicios
 ---
 
 
-## Metodo_de_simpson
+## Metodos_de_integraación
 
-### Concepto
+### Metodo_del_Trapecio
 
-### Algoritmo
+#### Concepto
 
-### Implementación
+#### Algoritmo
 
-### Ejercicios
+#### Implementación
+
+#### Ejercicios
