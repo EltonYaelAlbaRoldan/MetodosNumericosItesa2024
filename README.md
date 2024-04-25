@@ -139,8 +139,7 @@ A diferencia de los métodos de intervalos como la regla falsa o la bisección, 
 
 <p align="center"><b><span style="font-family: Negrita; font-size: 200px;">Implementación</span></b></p>
 
-![Imagen](https://github.com/Eltonvamosporla14/MetodosNumericosItesa2024/blob/edae64d9ff4ae50f30e451812899b3f21bdc8234/Secante/Implementaci%C3%B3n/Captura%20de%20pantalla%202024-03-14%20013305.png)
-![Imagen](https://github.com/Eltonvamosporla14/MetodosNumericosItesa2024/blob/61408b9919ad19a4aa7af6c657381009398b7433/Secante/Implementaci%C3%B3n/Captura%20de%20pantalla%202024-03-14%20013517.png)
+* [Ejemplo](https://github.com/Eltonvamosporla14/MetodosNumericosItesa2024/blob/4e544780137a2cd5085ecf8b36fb8d4a5a825163/Tema%202%20Metodos/Secante/Secante/src/secante/Secante.java)
 
 <p align="center"><b><span style="font-family: Negrita; font-size: 200px;">Ejercicios</span></b></p>
 
@@ -178,7 +177,7 @@ x, que proporciona una mejor aproximación de la raíz de la función. Este proc
 
 <p align="center"><b><span style="font-family: Negrita; font-size: 200px;">Implementación</span></b></p>
 
-![Imagen](https://github.com/Eltonvamosporla14/MetodosNumericosItesa2024/blob/e4498cc9d917acdae94f63ae211d9333f509d18a/Newton/Implementaci%C3%B3n/Captura%20de%20pantalla%202024-03-14%20093128.png)
+* [Ejemplo](https://github.com/Eltonvamosporla14/MetodosNumericosItesa2024/blob/20f0284da0e174237ed13c5d613a99c82c14daa5/Tema%202%20Metodos/Newton/Newton/src/newton/Newton.java)
 
 <p align="center"><b><span style="font-family: Negrita; font-size: 200px;">Ejercicios</span></b></p>
 
