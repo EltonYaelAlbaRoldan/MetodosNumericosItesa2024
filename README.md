@@ -225,11 +225,7 @@ El objetivo del método de Gauss es transformar un sistema de ecuaciones lineale
 
 En esta imagen se observa el inicio del codigo, dentro del main se encuentra la parte donde se pone el sistema de ecuaciones y donde se imprimen los resultados, despues del main aparece la funecion que va a crear la matriz, 
 
-![image](https://github.com/Eltonvamosporla14/MetodosNumericosItesa2024/assets/147437882/6c89e917-ee1e-4f48-bb84-478e3087193a)
-
-En esta parte se observa el metodo que se esta implementando, con cada uno de los pasos que se deben seguir, los pasos estan escritos dentro de la imagen como comentarios
-
-![image](https://github.com/Eltonvamosporla14/MetodosNumericosItesa2024/assets/147437882/2ee444c3-a5b7-4632-b0f3-f4e258e4319e)
+* [Ejemplo](https://github.com/Eltonvamosporla14/MetodosNumericosItesa2024/blob/b2f3163fecaf2cea5e85c59e5c7bb572ce4b9b95/Tema%203%20Metodos/ELIMINACI%C3%93N%20GAUSSIANA/Eliminacion%20Gaussiana/src/eliminacion/gaussiana/EliminacionGaussiana.java)
 
 Por ultimo se muestran los resultados obtenidos
 
