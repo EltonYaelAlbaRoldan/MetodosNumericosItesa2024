@@ -223,8 +223,6 @@ El objetivo del método de Gauss es transformar un sistema de ecuaciones lineale
 
 <p align="center"><b><span style="font-family: Negrita; font-size: 200px;">Implementación</span></b></p>
 
-En esta imagen se observa el inicio del codigo, dentro del main se encuentra la parte donde se pone el sistema de ecuaciones y donde se imprimen los resultados, despues del main aparece la funecion que va a crear la matriz, 
-
 * [Ejemplo](https://github.com/Eltonvamosporla14/MetodosNumericosItesa2024/blob/b2f3163fecaf2cea5e85c59e5c7bb572ce4b9b95/Tema%203%20Metodos/ELIMINACI%C3%93N%20GAUSSIANA/Eliminacion%20Gaussiana/src/eliminacion/gaussiana/EliminacionGaussiana.java)
 
 Por ultimo se muestran los resultados obtenidos
@@ -274,9 +272,7 @@ El método de Gauss-Jordan es un algoritmo numérico utilizado para resolver sis
    
 <p align="center"><b><span style="font-family: Negrita; font-size: 200px;">Implementación</span></b></p>
 
-En esta imagen se observa el inicio del codigo, dentro del main se encuentra la parte donde se pone el sistema de ecuaciones y se imprimen los resultados, Tambien se muestra el metodo que estamos aplicando
-
-![imagen](https://github.com/Eltonvamosporla14/MetodosNumericosItesa2024/assets/147437882/8a3421b5-63e1-4e8f-b399-dba8ebc74e40)
+* [Ejemplo](https://github.com/Eltonvamosporla14/MetodosNumericosItesa2024/blob/48fdcf6c77afb44befcc3a774d33c857aeccad83/Tema%203%20Metodos/GAUSS%20JORDAN/Gauss%20Jordan/src/gauss/jordan/GaussJordan.java)
 
 Aquí se percibe la continuación del metodo y tambien el resultado obtenido
 
@@ -321,9 +317,7 @@ El proceso comienza con una aproximación inicial de las soluciones del sistema.
 
 <p align="center"><b><span style="font-family: Negrita; font-size: 200px;">Implementación</span></b></p>
 
-![image](https://github.com/Eltonvamosporla14/MetodosNumericosItesa2024/assets/147437882/accce071-ffec-493e-8e96-44c4781c1ef9)
-
-![image](https://github.com/Eltonvamosporla14/MetodosNumericosItesa2024/assets/147437882/c08a3c99-b09b-4a49-bc77-60f8062bb89f)
+* [Ejemplo](https://github.com/Eltonvamosporla14/MetodosNumericosItesa2024/blob/c82e34780f891315f1dd2dac51ec03eb2bff69da/Tema%203%20Metodos/GAUSS%20SEIDEL/Gauss-Seidel/src/gauss/seidel/GaussSeidel.java)
 
 ![image](https://github.com/Eltonvamosporla14/MetodosNumericosItesa2024/assets/147437882/cec924b4-4df4-45fa-a9cc-5c5df746f090)
 
@@ -379,9 +373,7 @@ El proceso se repite hasta que se alcanza una precisión deseada o hasta que se 
    
 <p align="center"><b><span style="font-family: Negrita; font-size: 200px;">Implementación</span></b></p>
 
-![image](https://github.com/Eltonvamosporla14/MetodosNumericosItesa2024/assets/147437882/905fb93e-650f-4dcc-a68c-2c656f98e4bd)
-
-![image](https://github.com/Eltonvamosporla14/MetodosNumericosItesa2024/assets/147437882/a4ec0fb7-1337-49f0-b9a1-3843d271e47f)
+* [Ejemplo](https://github.com/Eltonvamosporla14/MetodosNumericosItesa2024/blob/dedef44be82adfdba1f13639f48310d320af37ff/Tema%203%20Metodos/JACOBI/Jacobi%203/src/jacobi/pkg3/Jacobi3.java)
 
 ![image](https://github.com/Eltonvamosporla14/MetodosNumericosItesa2024/assets/147437882/dfda0ab6-3841-45c9-91f7-1c9dc023953e)
 
