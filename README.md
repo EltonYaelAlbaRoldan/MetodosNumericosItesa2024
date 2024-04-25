@@ -14,9 +14,12 @@
    * [Metodo de Jacobi](#Metodo_de_Jacobi)
  * [Tema 4](#Tema_4)
    * [Metodos de diferencición](#Metodos_de_diferenciacióm)
-     * [Formula de 3 puntos](#Fórmula_de_tres_puntos)
+     * [Regla de tres puntos](#Regla_de_tres_puntos)
+     * [Regla de cinco puntos](#Regla_de_cinco_puntos)
    * [Metodos de integración](#Metodos_de_integraación)
      * [Metodo del Trapecio](#Metodo_del_Trapecio)
+     * [Regla de Simpson](#Regla_de_Simpson)
+     * [Método de la cuadratura gaussiana](#Método_de_la_cuadratura_gaussiana)
 
 
 # Tema_2
@@ -404,6 +407,8 @@ El proceso se repite hasta que se alcanza una precisión deseada o hasta que se 
 
 ### Regla_de_tres_puntos
 
+### Regla_de_cinco_puntos
+
 #### Concepto
 
 #### Algoritmo
@@ -417,6 +422,10 @@ El proceso se repite hasta que se alcanza una precisión deseada o hasta que se 
 ## Metodos_de_integraación
 
 ### Metodo_del_Trapecio
+
+### Regla_de_Simpson
+
+### Método_de_la_cuadratura_gaussiana
 
 #### Concepto
 
