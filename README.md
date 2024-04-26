@@ -396,6 +396,11 @@ El proceso se repite hasta que se alcanza una precisión deseada o hasta que se 
 
 #### Concepto
 
+La regla de los tres puntos de diferenciación es una técnica utilizada en métodos numéricos para calcular aproximaciones de derivadas de una función. La idea básica detrás de esta regla es utilizar los valores de la función en tres puntos cercanos para estimar la derivada en un punto específico.
+Formula:
+
+    F′( X )≈ (− f ( x + 2 h ) + 4 f ( x + h ) − 3 f ( x ))/2 horas
+
 #### Algoritmo
 
 #### Implementación
