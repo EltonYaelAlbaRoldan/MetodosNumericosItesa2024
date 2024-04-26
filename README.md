@@ -412,6 +412,11 @@ Formula:
 
 #### Concepto
 
+La regla de los cinco puntos es otra técnica utilizada en métodos numéricos para aproximar la derivada de una función en un punto específico. Al igual que la regla de los tres puntos, esta regla también utiliza los valores de la función en Múltiples puntos cercanos para calcular la derivada. La principal diferencia es que la regla de los cinco puntos utiliza cinco puntos en lugar de tres, lo que puede proporcionar una aproximación más precisa de la derivada.
+Formula:
+
+    F′( X )≈ (− f ( x + 2 h ) + 8 f ( x + h ) − 8 f ( x − h ) + f ( x − 2 h ))/12 horas
+
 #### Algoritmo
 
 #### Implementación
@@ -425,6 +430,13 @@ Formula:
 
 #### Concepto
 
+La regla del trapecio es la primera de las fórmulas cerradas de integración de Newton-Cotes, Geométricamente, la regla del trapecio es equivalente a
+aproximar el área del trapecio bajo la línea recta que une f(a) y
+f(b).
+Formula: 
+
+    I = (b-a)((f(a)+f(b))/2)
+
 #### Algoritmo
 
 #### Implementación
@@ -436,6 +448,11 @@ Formula:
 
 #### Concepto
 
+La regla de Simpson es un método de cálculo numérico utilizado para aproximar el valor de una integral definida. Este método utiliza polinomios de segundo grado (también conocidos como parábolas) para aproximar la función integrada en cada subintervalo del intervalo dado. La regla de Simpson es más precisa que el método del trapecio, especialmente para funciones que son relativamente suaves o que se pueden aproximar segundo bien con polinomios de grado.
+Formula:
+
+    I ≅ (b–a)((f(x0)+4f(x)+f(x2))/6)
+
 #### Algoritmo
 
 #### Implementación
@@ -446,6 +463,21 @@ Formula:
 ### Método_de_la_cuadratura_gaussiana
 
 #### Concepto
+
+El método de cuadratura gaussiana, o simplemente cuadratura gaussiana, es una técnica utilizada en el cálculo numérico para aproximar el valor de una integral definida. La cuadratura gaussiana se basa en la idea de seleccionar cuidadosamente los puntos de evaluación y los pesos asociados para lograr una alta precisión en la aproximación de la integral.
+Formula
+
+∑ 
+yo = 1
+norte
+​
+ w 
+i
+​
+ f ( x 
+i
+​
+ )
 
 #### Algoritmo
 
