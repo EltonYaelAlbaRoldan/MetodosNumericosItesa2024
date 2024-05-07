@@ -477,7 +477,7 @@ Formula:
 
 #### Implementación
 
-* [Ejemplo](https://github.com/Eltonvamosporla14/MetodosNumericosItesa2024/blob/b0b29b93a8da0fc6eea07efea91e8951d63635cf/Tema%202%20Metodos/Regla%20falsa/Regla%20Falsa/src/regla/falsa/ReglaFalsa.java)
+* [Ejemplo]()
 
 #### Ejercicios
 
