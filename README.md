@@ -440,7 +440,7 @@ Se debe encontrar un valor óptimo para ℎ dependiendo de la función y los dat
 
 #### Implementación
 
-* [Ejemplo](https://github.com/EltonYaelAlbaRoldan/MetodosNumericosItesa2024/tree/a7b748d020c6f320b8cda3708d4323471beffccc/Tema%204/diferenciaci%C3%B3n/Regla%20de%20los%205%20puntos/ejemplo%20regla%20de%20los%205%20puntos/src/ejemplo/regla/de/los/pkg5/puntos)
+* [Ejemplo](https://github.com/EltonYaelAlbaRoldan/MetodosNumericosItesa2024/blob/a7b748d020c6f320b8cda3708d4323471beffccc/Tema%204/diferenciaci%C3%B3n/Regla%20de%20los%205%20puntos/ejemplo%20regla%20de%20los%205%20puntos/src/ejemplo/regla/de/los/pkg5/puntos/EjemploReglaDeLos5Puntos.java)
 
 #### Ejercicios
 
