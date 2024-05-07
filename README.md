@@ -411,6 +411,8 @@ El algoritmo para aplicar esta regla en un conjunto de datos sería:
 
 #### Implementación
 
+* [Ejemplo](https://github.com/Eltonvamosporla14/MetodosNumericosItesa2024/blob/b0b29b93a8da0fc6eea07efea91e8951d63635cf/Tema%202%20Metodos/Regla%20falsa/Regla%20Falsa/src/regla/falsa/ReglaFalsa.java)
+
 #### Ejercicios
 ---
 
@@ -433,6 +435,8 @@ Al igual que con la regla de los tres puntos, la precisión de esta aproximació
 Se debe encontrar un valor óptimo para ℎ dependiendo de la función y los datos específicos.
 
 #### Implementación
+
+* [Ejemplo](https://github.com/Eltonvamosporla14/MetodosNumericosItesa2024/blob/b0b29b93a8da0fc6eea07efea91e8951d63635cf/Tema%202%20Metodos/Regla%20falsa/Regla%20Falsa/src/regla/falsa/ReglaFalsa.java)*
 
 #### Ejercicios
 ---
@@ -464,6 +468,8 @@ Formula:
   8. Multiplicar la suma por ℎ/2 para obtener la aproximación de la integral.
 
 #### Implementación
+
+* [Ejemplo](https://github.com/Eltonvamosporla14/MetodosNumericosItesa2024/blob/b0b29b93a8da0fc6eea07efea91e8951d63635cf/Tema%202%20Metodos/Regla%20falsa/Regla%20Falsa/src/regla/falsa/ReglaFalsa.java)
 
 #### Ejercicios
 ---
@@ -513,6 +519,8 @@ Formula:
      Una vez que se han determinado los puntos de integración y sus pesos, la aproximación de la integral se calcula evaluando la función 𝑓(𝑥) en estos puntos y multiplicándola por los pesos correspondientes, y luego sumando estos productos.
 
 #### Implementación
+
+* [Ejemplo](https://github.com/Eltonvamosporla14/MetodosNumericosItesa2024/blob/b0b29b93a8da0fc6eea07efea91e8951d63635cf/Tema%202%20Metodos/Regla%20falsa/Regla%20Falsa/src/regla/falsa/ReglaFalsa.java)
 
 #### Ejercicios
 ---
