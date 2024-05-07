@@ -445,7 +445,7 @@ Se debe encontrar un valor óptimo para ℎ dependiendo de la función y los dat
 #### Ejercicios
 
 * [Ejercicio1](https://github.com/EltonYaelAlbaRoldan/MetodosNumericosItesa2024/blob/1b7bf167cadb7caf5f5891e8e0446d431961a543/Tema%204/diferenciaci%C3%B3n/Regla%20de%20los%205%20puntos/regla%20de%20los%205%20puntos/src/regla/de/los/pkg5/puntos/ReglaDeLos5Puntos.java)
-* [Ejercicio2](https://github.com/Eltonvamosporla14/MetodosNumericosItesa2024/blob/dedef44be82adfdba1f13639f48310d320af37ff/Tema%203%20Metodos/JACOBI/Jacobi/src/jacobi/Jacobi.java)
+* [Ejercicio2](https://github.com/EltonYaelAlbaRoldan/MetodosNumericosItesa2024/blob/8dfc43d59702e8881f86434ee290ec7412d2b799/Tema%204/diferenciaci%C3%B3n/Regla%20de%20los%205%20puntos/regla%20de%20los%205%20puntos%202/src/regla/de/los/pkg5/puntos/pkg2/ReglaDeLos5Puntos2.java)
 * [Ejercicio3](https://github.com/Eltonvamosporla14/MetodosNumericosItesa2024/blob/dedef44be82adfdba1f13639f48310d320af37ff/Tema%203%20Metodos/JACOBI/Jacobi/src/jacobi/Jacobi.java)
 ---
 
