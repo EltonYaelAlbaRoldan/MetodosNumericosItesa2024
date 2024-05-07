@@ -425,6 +425,13 @@ Formula:
 
 #### Algoritmo
 
+  1. Escoger un valor pequeño para ℎ
+  2. Para cada punto en los datos, calcular la aproximación de la derivada utilizando la fórmula mencionada anteriormente.
+  3. Repetir el paso 2 para todos los puntos en los datos.
+     
+Al igual que con la regla de los tres puntos, la precisión de esta aproximación depende del tamaño de ℎ
+Se debe encontrar un valor óptimo para ℎ dependiendo de la función y los datos específicos.
+
 #### Implementación
 
 #### Ejercicios
@@ -445,6 +452,17 @@ Formula:
 
 #### Algoritmo
 
+  1. Definir la función 𝑓(𝑥) que se desea integrar.
+  2. Especificar los límites de integración 𝑎 y 𝑏.
+  3. Elegir el número de subintervalos 𝑛.
+  4. Calcular ℎ = 𝑏−𝑎/𝑛.
+  5. Calcular 𝑓(𝑎) y 𝑓(𝑏)
+  6. Para cada 𝑖 = 1, 2,..., 𝑛−1.
+    * Calcular 𝑥𝑖 = 𝑎 + 𝑖 ⋅ ℎ.
+    * Calcular 𝑓(𝑥𝑖).
+  7. Sumar 𝑓(𝑎), 2∑𝑖=1, 𝑛−1,𝑓(𝑥𝑖) y 𝑓(𝑏).
+  8. Multiplicar la suma por ℎ/2 para obtener la aproximación de la integral.
+
 #### Implementación
 
 #### Ejercicios
@@ -461,6 +479,17 @@ Formula:
 
 #### Algoritmo
 
+  1. Definir la función 𝑓(𝑥) que se desea integrar.
+  2. Especificar los límites de integración 𝑎 y 𝑏.
+  3. Elegir el número de puntos de integración 𝑛 (debe ser par).
+  4. Calcular ℎ = 𝑏−𝑎/𝑛.
+  5. Calcular 𝑓(𝑎) y 𝑓(𝑏)
+  6. Para cada 𝑖 = 1, 2,..., 𝑛−1.
+    * Calcular 𝑥𝑖 = 𝑎 + 𝑖 ⋅ ℎ.
+    * Calcular 𝑓(𝑥𝑖).
+  7. Sumar 𝑓(𝑎), 4∑𝑖=1, 𝑛/2, 𝑓(𝑥2𝑖-1), 2∑𝑖=1, 𝑛/2-1, 𝑓(𝑥2𝑖) y 𝑓(𝑏).
+  8. Multiplicar la suma por ℎ/3 para obtener la aproximación de la integral.
+
 #### Implementación
 
 #### Ejercicios
@@ -471,21 +500,17 @@ Formula:
 #### Concepto
 
 El método de cuadratura gaussiana, o simplemente cuadratura gaussiana, es una técnica utilizada en el cálculo numérico para aproximar el valor de una integral definida. La cuadratura gaussiana se basa en la idea de seleccionar cuidadosamente los puntos de evaluación y los pesos asociados para lograr una alta precisión en la aproximación de la integral.
-Formula
+Formula:
 
-∑ 
-yo = 1
-norte
-​
- w 
-i
-​
- f ( x 
-i
-​
- )
+    ∫a,b f(x)dx≈∑i=1,n; wi ⋅ f(xi)
+
 
 #### Algoritmo
+
+  1. Selección de los puntos de integración y sus pesos:
+    Este paso implica elegir los puntos de integración 𝑥𝑖 y los pesos 𝑤𝑖 adecuados para la función y el intervalo dados. La elección de estos puntos y pesos depende del grado del polinomio que se desea integrar de manera exacta.
+  2. Cálculo de la aproximación de la integral:
+     Una vez que se han determinado los puntos de integración y sus pesos, la aproximación de la integral se calcula evaluando la función 𝑓(𝑥) en estos puntos y multiplicándola por los pesos correspondientes, y luego sumando estos productos.
 
 #### Implementación
 
