@@ -510,7 +510,7 @@ Formula:
 
 #### Implementación
 
-* [Ejemplo](https://github.com/Eltonvamosporla14/MetodosNumericosItesa2024/blob/dedef44be82adfdba1f13639f48310d320af37ff/Tema%203%20Metodos/JACOBI/Jacobi/src/jacobi/Jacobi.java)
+* [Ejemplo](https://github.com/EltonYaelAlbaRoldan/MetodosNumericosItesa2024/blob/075a4b05779fb3cb59d4a2b7728fbe26c8923b3e/Tema%204/integraci%C3%B3n/Simpson/ejemplo%20simpson/src/ejemplo/simpson/EjemploSimpson.java)
 
 
 #### Ejercicios
