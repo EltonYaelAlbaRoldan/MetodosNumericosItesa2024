@@ -411,7 +411,7 @@ El algoritmo para aplicar esta regla en un conjunto de datos sería:
 
 #### Implementación
 
-* [Ejemplo](https://github.com/Eltonvamosporla14/MetodosNumericosItesa2024/blob/b0b29b93a8da0fc6eea07efea91e8951d63635cf/Tema%202%20Metodos/Regla%20falsa/Regla%20Falsa/src/regla/falsa/ReglaFalsa.java)
+* [Ejemplo](https://github.com/EltonYaelAlbaRoldan/MetodosNumericosItesa2024/blob/d23c710bac81cd00d0f2b1215cc1a6a92dfbeef4/Tema%204/diferenciaci%C3%B3n/Regla%20de%20los%203%20puntos/ejemplo%20regla%20de%20los%203%20puntos/src/ejemplo/regla/de/los/pkg3/puntos/EjemploReglaDeLos3Puntos.java)
 
 #### Ejercicios
 
