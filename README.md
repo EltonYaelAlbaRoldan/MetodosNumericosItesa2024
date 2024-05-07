@@ -403,6 +403,12 @@ Formula:
 
 #### Algoritmo
 
+El algoritmo para aplicar esta regla en un conjunto de datos sería:
+
+  1. Escoger un valor pequeño para ℎ.
+  2. Para cada punto en los datos, calcular la aproximación de la derivada utilizando la fórmula mencionada anteriormente.
+  3. Repetir el paso 2 para todos los puntos en los datos.
+
 #### Implementación
 
 #### Ejercicios
