@@ -516,7 +516,7 @@ Formula:
 #### Ejercicios
 
 * [Ejercicio1](https://github.com/EltonYaelAlbaRoldan/MetodosNumericosItesa2024/blob/f0929829701fe97553a3ffd7bacaf9c975db09eb/Tema%204%20Metodos/integraci%C3%B3n/Simpson/simpson%201/src/simpson/pkg1/Simpson1.java)
-* [Ejercicio2](https://github.com/Eltonvamosporla14/MetodosNumericosItesa2024/blob/dedef44be82adfdba1f13639f48310d320af37ff/Tema%203%20Metodos/JACOBI/Jacobi/src/jacobi/Jacobi.java)
+* [Ejercicio2](https://github.com/EltonYaelAlbaRoldan/MetodosNumericosItesa2024/blob/05b05ac18b7ecf49417eace9cdacfaa0ad3042d3/Tema%204%20Metodos/integraci%C3%B3n/Simpson/simpson%202/src/simpson/pkg2/Simpson2.java)
 * [Ejercicio3](https://github.com/Eltonvamosporla14/MetodosNumericosItesa2024/blob/dedef44be82adfdba1f13639f48310d320af37ff/Tema%203%20Metodos/JACOBI/Jacobi/src/jacobi/Jacobi.java)
 ---
 
