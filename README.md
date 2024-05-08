@@ -515,9 +515,9 @@ Formula:
 
 #### Ejercicios
 
-* [Ejercicio1](https://github.com/Eltonvamosporla14/MetodosNumericosItesa2024/blob/dedef44be82adfdba1f13639f48310d320af37ff/Tema%203%20Metodos/JACOBI/Jacobi/src/jacobi/Jacobi.java)
-* [Ejercicio2](https://github.com/Eltonvamosporla14/MetodosNumericosItesa2024/blob/dedef44be82adfdba1f13639f48310d320af37ff/Tema%203%20Metodos/JACOBI/Jacobi/src/jacobi/Jacobi.java)
-* [Ejercicio3](https://github.com/Eltonvamosporla14/MetodosNumericosItesa2024/blob/dedef44be82adfdba1f13639f48310d320af37ff/Tema%203%20Metodos/JACOBI/Jacobi/src/jacobi/Jacobi.java)
+* [Ejercicio1](https://github.com/EltonYaelAlbaRoldan/MetodosNumericosItesa2024/blob/f0929829701fe97553a3ffd7bacaf9c975db09eb/Tema%204%20Metodos/integraci%C3%B3n/Simpson/simpson%201/src/simpson/pkg1/Simpson1.java)
+* [Ejercicio2](https://github.com/EltonYaelAlbaRoldan/MetodosNumericosItesa2024/blob/05b05ac18b7ecf49417eace9cdacfaa0ad3042d3/Tema%204%20Metodos/integraci%C3%B3n/Simpson/simpson%202/src/simpson/pkg2/Simpson2.java)
+* [Ejercicio3](https://github.com/EltonYaelAlbaRoldan/MetodosNumericosItesa2024/blob/90d4f7c4018f6bde6d6a9070f6d6e98b4f3b5354/Tema%204%20Metodos/integraci%C3%B3n/Simpson/simpson%203/src/simpson/pkg3/Simpson3.java)
 ---
 
 ### Método_de_la_cuadratura_gaussiana
@@ -543,7 +543,7 @@ Formula:
 
 #### Ejercicios
 
-* [Ejercicio1](https://github.com/Eltonvamosporla14/MetodosNumericosItesa2024/blob/dedef44be82adfdba1f13639f48310d320af37ff/Tema%203%20Metodos/JACOBI/Jacobi/src/jacobi/Jacobi.java)
+* [Ejercicio1](https://github.com/EltonYaelAlbaRoldan/MetodosNumericosItesa2024/blob/f680bcd3b74c36b7170162b0043a80e1a88d4a92/Tema%204%20Metodos/integraci%C3%B3n/Cuadratura%20Gausiana/cuadratura%20guassiana%201/src/cuadratura/guassiana/pkg1/CuadraturaGuassiana1.java)
 * [Ejercicio2](https://github.com/Eltonvamosporla14/MetodosNumericosItesa2024/blob/dedef44be82adfdba1f13639f48310d320af37ff/Tema%203%20Metodos/JACOBI/Jacobi/src/jacobi/Jacobi.java)
 * [Ejercicio3](https://github.com/Eltonvamosporla14/MetodosNumericosItesa2024/blob/dedef44be82adfdba1f13639f48310d320af37ff/Tema%203%20Metodos/JACOBI/Jacobi/src/jacobi/Jacobi.java)
 ---
