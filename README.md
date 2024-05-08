@@ -477,7 +477,7 @@ Formula:
 
 #### Implementación
 
-* [Ejemplo](https://github.com/EltonYaelAlbaRoldan/MetodosNumericosItesa2024/blob/9f617341e3ac81f4ea6ad35a7cdd4a9d5fe013a3/Tema%204%20Metodos/integraci%C3%B3n/Trapecio/ejemplo%20metodo%20del%20trapecio/src/ejemplo/metodo/del/trapecio/EjemploMetodoDelTrapecio.java)
+* [Ejemplo](https://github.com/EltonYaelAlbaRoldan/MetodosNumericosItesa2024/blob/36dbf343b30fdf5b31158b2a2b2948b40fa14455/Tema%204%20Metodos/integraci%C3%B3n/Trapecio/ejemplo%20metodo%20del%20trapecio/src/ejemplo/metodo/del/trapecio/EjemploMetodoDelTrapecio.java)
 
 #### Ejercicios
 
