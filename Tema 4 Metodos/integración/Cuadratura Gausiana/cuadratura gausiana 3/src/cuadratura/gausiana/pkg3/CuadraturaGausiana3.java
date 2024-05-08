@@ -36,4 +36,4 @@ public class CuadraturaGausiana3 {
         System.out.println("La integral definida de la función seno es: " + integral);
     }
 }
-//La integral definida de la función seno es: 0.0
+//La integral definida de la función seno es: -2.7755575615628914E-17
