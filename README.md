@@ -20,6 +20,7 @@
      * [Metodo del Trapecio](#Metodo_del_Trapecio)
      * [Regla de Simpson](#Regla_de_Simpson)
      * [Método de la cuadratura gaussiana](#Método_de_la_cuadratura_gaussiana)
+  * [Tema 5](#Tema_5)
 
 
 # Tema_2
@@ -547,4 +548,4 @@ Formula:
 * [Ejercicio2](https://github.com/EltonYaelAlbaRoldan/MetodosNumericosItesa2024/blob/52d4b83c568f5d3c4a534c6c7bdcf2faba220bd5/Tema%204%20Metodos/integraci%C3%B3n/Cuadratura%20Gausiana/cuadratura%20gausiana%202/src/cuadratura/gausiana/pkg2/CuadraturaGausiana2.java)
 * [Ejercicio3](https://github.com/EltonYaelAlbaRoldan/MetodosNumericosItesa2024/blob/6e7b44440758b73e2848de216cfa7149307290d1/Tema%204%20Metodos/integraci%C3%B3n/Cuadratura%20Gausiana/cuadratura%20gausiana%203/src/cuadratura/gausiana/pkg3/CuadraturaGausiana3.java)
 ---
-
+# Tema_5
