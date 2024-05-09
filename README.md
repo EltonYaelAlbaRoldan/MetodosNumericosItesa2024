@@ -555,5 +555,7 @@ Formula:
 # Tema_5
 ## Metodos_de_interpolación
 ### Lineal
+
+* [Ejercicio 1 de clase](https://github.com/EltonYaelAlbaRoldan/MetodosNumericosItesa2024/blob/7950471be563b1a8b5c4299ec931874ae8f61a91/Tema%204/integraci%C3%B3n/Cuadratura%20Gausiana/Cuadratura%20gausiana/src/cuadratura/gausiana/CuadraturaGausiana.java)
 ### Cuadratica
 ## Metodos_de_extrapolación
