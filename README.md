@@ -21,6 +21,7 @@
      * [Regla de Simpson](#Regla_de_Simpson)
      * [Método de la cuadratura gaussiana](#Método_de_la_cuadratura_gaussiana)
   * [Tema 5](#Tema_5)
+    * [Metodos de interpolación](#Metodos_de_interpolación)
 
 
 # Tema_2
@@ -549,3 +550,4 @@ Formula:
 * [Ejercicio3](https://github.com/EltonYaelAlbaRoldan/MetodosNumericosItesa2024/blob/6e7b44440758b73e2848de216cfa7149307290d1/Tema%204%20Metodos/integraci%C3%B3n/Cuadratura%20Gausiana/cuadratura%20gausiana%203/src/cuadratura/gausiana/pkg3/CuadraturaGausiana3.java)
 ---
 # Tema_5
+## Metodos_de_interpolación
