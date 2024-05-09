@@ -22,6 +22,9 @@
      * [Método de la cuadratura gaussiana](#Método_de_la_cuadratura_gaussiana)
   * [Tema 5](#Tema_5)
     * [Metodos de interpolación](#Metodos_de_interpolación)
+      * [Lineal](#Lineal)
+      * [Cuadratica](#Cuadratica)
+    * [Metodos de extrapolación](#Metodos_de_extrapolación)
 
 
 # Tema_2
@@ -551,3 +554,6 @@ Formula:
 ---
 # Tema_5
 ## Metodos_de_interpolación
+### Lineal
+### Cuadratica
+## Metodos_de_extrapolación
