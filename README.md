@@ -554,6 +554,23 @@ Formula:
 ---
 # Tema_5
 ## Metodos_de_interpolación
+#### Consepto
+
+La interpolación en métodos numéricos es una técnica utilizada para aproximar valores de una función desconocida a partir de un conjunto discreto de puntos conocidos. Básicamente, consiste en encontrar una función que pase exactamente por los puntos dados. Esto es útil cuando se tiene un conjunto de datos discretos y se necesita estimar los valores de la función en puntos intermedios.
+
+#### Algoritmo
+
+1. Calcula la pendiente 𝑚 de la recta que pasa por los puntos (𝑥0, 𝑦0) y (𝑥1, 𝑦1) utilizando la fórmula:
+  𝑚 = (𝑦1 − 𝑦0) / (𝑥1 − 𝑥0)
+2. Utiliza la ecuación de la recta para encontrar el valor de 𝑦 correspondiente a 𝑥. La ecuación de la recta es:
+  𝑦 = 𝑦0 + 𝑚 ⋅ (𝑥 − 𝑥0)
+3. Sustituye 𝑥 en la ecuación obtenida en el paso anterior para obtener el valor interpolado de 𝑦.
+
+#### Implementación
+
+![Implementación](![image](https://github.com/EltonYaelAlbaRoldan/MetodosNumericosItesa2024/assets/147437882/47902d68-eb9c-498a-af76-02335a2faf3a)
+){:height="200px" width="300px"}
+
 ### Lineal
 
 * [Ejercicio 1 de clase](https://github.com/EltonYaelAlbaRoldan/MetodosNumericosItesa2024/blob/66df0399fe851b6dfcd0d977c006fe53a2296b7d/Tema%205%20Metodos/Interpolaci%C3%B3n/Lineal/ejemplo%20lineal/src/ejemplo/lineal/EjemploLineal.java)
