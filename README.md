@@ -577,4 +577,7 @@ La interpolación en métodos numéricos es una técnica utilizada para aproxima
 
 
 ### Cuadratica
+
+* [Ejercicio 1 de clase](https://github.com/EltonYaelAlbaRoldan/MetodosNumericosItesa2024/blob/66df0399fe851b6dfcd0d977c006fe53a2296b7d/Tema%205%20Metodos/Interpolaci%C3%B3n/Lineal/ejemplo%20lineal/src/ejemplo/lineal/EjemploLineal.java)
+
 ## Metodos_de_extrapolación
