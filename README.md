@@ -568,7 +568,7 @@ La interpolación en métodos numéricos es una técnica utilizada para aproxima
 
 #### Implementación
 
-![Texto alternativo](C:\Users\elton\OneDrive\Imágenes.png){:height="200px" width="300px"}
+![Texto alternativo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQDWbkSUL3xX_QAsqcI8GnNw85DM_oQQn1hpv8DxsW&s){:height="200px" width="300px"}
 
 
 ### Lineal
