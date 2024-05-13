@@ -568,8 +568,8 @@ La interpolación en métodos numéricos es una técnica utilizada para aproxima
 
 #### Implementación
 
-![Implementación](![image](https://github.com/EltonYaelAlbaRoldan/MetodosNumericosItesa2024/assets/147437882/47902d68-eb9c-498a-af76-02335a2faf3a)
-){:height="200px" width="300px"}
+![Texto alternativo](C:\Users\elton\OneDrive\Imágenes.png){:height="200px" width="300px"}
+
 
 ### Lineal
 
