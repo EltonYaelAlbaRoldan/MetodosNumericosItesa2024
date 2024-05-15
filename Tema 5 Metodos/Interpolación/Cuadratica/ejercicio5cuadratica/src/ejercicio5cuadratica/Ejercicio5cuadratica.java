@@ -1,8 +1,7 @@
-
-package cuadratica1;
+package ejercicio5cuadratica;
 import java.util.Scanner;
 
-public class Cuadratica1 {
+public class Ejercicio5cuadratica {
 
     // Método para realizar interpolación cuadrática
     public static double interpolate(double x0, double y0, double x1, double y1, double x2, double y2, double x) {
@@ -48,19 +47,17 @@ public class Cuadratica1 {
         System.out.println("El valor interpolado de y para x=" + x + " es: " + interpolatedY);
     }
 }
-
 /*
 Imput
 Ingrese los puntos conocidos (x0, y0), (x1, y1) y (x2, y2):
-x0: 7
-y0: 14
+x0: 1
+y0: 9
 x1: 10
-y1: 21
-x2: 13
-y2: 27
-Ingrese el valor de x para el que desea interpolar: 9
+y1: 15
+x2: 19
+y2: 21
+Ingrese el valor de x para el que desea interpolar: 8
 
 Ouput
-El valor interpolado de y para x=9.0 es: 18.77777777777778
+El valor interpolado de y para x=8.0 es: 13.666666666666668
 */
-
