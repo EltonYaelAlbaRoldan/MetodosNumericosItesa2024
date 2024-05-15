@@ -582,7 +582,7 @@ Formula:
 * [Ejercicio 1 de clase](https://github.com/EltonYaelAlbaRoldan/MetodosNumericosItesa2024/blob/66df0399fe851b6dfcd0d977c006fe53a2296b7d/Tema%205%20Metodos/Interpolaci%C3%B3n/Lineal/ejemplo%20lineal/src/ejemplo/lineal/EjemploLineal.java)
 * [Ejercicio 2](https://github.com/EltonYaelAlbaRoldan/MetodosNumericosItesa2024/blob/e8e56d3c5d3b4a7d20a4de6afb1ca51c40ea2e47/Tema%205%20Metodos/Interpolaci%C3%B3n/Lineal/ejercicio2lineal/src/ejercicio2lineal/Ejercicio2lineal.java)
 * [Ejercicio 3](https://github.com/EltonYaelAlbaRoldan/MetodosNumericosItesa2024/blob/8172654d2a9ecbc68ed5d5f1a4085f7510ed92be/Tema%205%20Metodos/Interpolaci%C3%B3n/Lineal/ejercicio3lineal/src/ejercicio3lineal/Ejercicio3lineal.java)
-* [Ejercicio 4](https://github.com/EltonYaelAlbaRoldan/MetodosNumericosItesa2024/blob/51f8077474a117e8192cd2d5aaaa472149e5b2bc/Tema%205%20Metodos/Interpolaci%C3%B3n/Cuadratica/cuadratica1/src/cuadratica1/Cuadratica1.java)
+* [Ejercicio 4](https://github.com/EltonYaelAlbaRoldan/MetodosNumericosItesa2024/blob/f4c9034d2e2068b4118a0c2575bb53a77ac250c1/Tema%205%20Metodos/Interpolaci%C3%B3n/Lineal/ejercicio4lineal/src/ejercicio4lineal/Ejercicio4lineal.java)
 * [Ejercicio 5](https://github.com/EltonYaelAlbaRoldan/MetodosNumericosItesa2024/blob/51f8077474a117e8192cd2d5aaaa472149e5b2bc/Tema%205%20Metodos/Interpolaci%C3%B3n/Cuadratica/cuadratica1/src/cuadratica1/Cuadratica1.java)
 
 ### Cuadratica
