@@ -51,18 +51,15 @@ public class Cuadratica1 {
 }
 
 /*
-Imput
 run:
 Ingrese los puntos conocidos (x0, y0), (x1, y1) y (x2, y2):
-x0: 1
-y0: 2
-x1: 3
-y1: 4
-x2: 5
-y2: 6
-Ingrese el valor de x para el que desea interpolar: 2.5
-
-Ouput
-El valor interpolado de y para x=2.5 es: 3.5
-BUILD SUCCESSFUL (total time: 24 seconds)
+x0: 7
+y0: 14
+x1: 10
+y1: 21
+x2: 13
+y2: 27
+Ingrese el valor de x para el que desea interpolar: 9
+El valor interpolado de y para x=9.0 es: 18.77777777777778
 */
+
