@@ -591,7 +591,7 @@ Formula:
 El concepto básico de la interpolación cuadrática implica seleccionar tres puntos de datos conocidos (x0, y0), (x1, y1) y (x2, y2)  y encontrar una parábola que pase exactamente a través de estos tres puntos.
 
 Formula:
-<p align="center"><img src="https://github.com/EltonYaelAlbaRoldan/MetodosNumericosItesa2024/assets/147437882/02296822-fded-4449-b7b3-27c52293188c" width="600" height="200" />
+<p align="center"><img src="https://github.com/EltonYaelAlbaRoldan/MetodosNumericosItesa2024/assets/147437882/02296822-fded-4449-b7b3-27c52293188c" width="400" height="150" />
 
 donde se puede encontrar a con la siguiente formula:
 <p align="center"><img src="https://github.com/EltonYaelAlbaRoldan/MetodosNumericosItesa2024/assets/147437882/6108fefe-88da-4d53-80ee-2d676eff3474" width="600" height="200" />
