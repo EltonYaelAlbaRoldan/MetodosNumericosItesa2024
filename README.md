@@ -602,6 +602,14 @@ donde se puede encontrar b con la siguiente formula:
 donde se puede encontrar c con la siguiente formula:
 <p align="center"><img src="https://github.com/EltonYaelAlbaRoldan/MetodosNumericosItesa2024/assets/147437882/48f26425-510c-436e-8f2c-609a3b763d8e" width="400" height="100" />
 
+#### Algoritmo
+  1. Obtener los puntos conocidos: Identifica los tres puntos conocidos (x0, y0), (x1, y1) y (x2, y2) que utilizarás para realizar la interpolación cuadrática.
+  2. Calcular el coeficiente cuadrático (𝑎): Utiliza la fórmula para calcular el coeficiente cuadrático 𝑎 utilizando los valores de los puntos conocidos.
+  3. Calcular el coeficiente lineal (𝑏): Utiliza la fórmula para calcular el coeficiente lineal 𝑏 utilizando 𝑎 y los valores de los puntos conocidos.
+  4. Calcular el término independiente (𝑐): Utiliza la fórmula para calcular el término independiente 𝑐 utilizando 𝑎, 𝑏 y los valores de los puntos conocidos.
+  5. Evaluar el polinomio cuadrático: Utiliza el polinomio cuadrático 𝑦 = 𝑎𝑥^2 + 𝑏𝑥 + 𝑐 con los coeficientes calculados para evaluar el valor de 𝑦 en el punto de interés 𝑥.
+  6. Mostrar el resultado: Muestra el valor interpolado de 𝑦 en el punto 𝑥.
+
 #### Implementación
 <p align="center"><img src="https://github.com/EltonYaelAlbaRoldan/MetodosNumericosItesa2024/assets/147437882/7dd585cf-a76a-4f7e-a333-c9b826cd3621" width="600" height="250" />
 
