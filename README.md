@@ -576,7 +576,7 @@ Formula:
 
 #### Implementación
 
-<img src="https://github.com/EltonYaelAlbaRoldan/MetodosNumericosItesa2024/assets/147437882/939300e0-73ea-4187-ac52-2dc8f1cb9c82" width="600" height="200" />
+<p align="center"><img src="https://github.com/EltonYaelAlbaRoldan/MetodosNumericosItesa2024/assets/147437882/939300e0-73ea-4187-ac52-2dc8f1cb9c82" width="600" height="200" />
 
 #### Ejercicios
 * [Ejercicio 1 de clase](https://github.com/EltonYaelAlbaRoldan/MetodosNumericosItesa2024/blob/66df0399fe851b6dfcd0d977c006fe53a2296b7d/Tema%205%20Metodos/Interpolaci%C3%B3n/Lineal/ejemplo%20lineal/src/ejemplo/lineal/EjemploLineal.java)
@@ -586,6 +586,21 @@ Formula:
 * [Ejercicio 5](https://github.com/EltonYaelAlbaRoldan/MetodosNumericosItesa2024/blob/7d2ef493daa7d01b897ada29ae0a3921f9955994/Tema%205%20Metodos/Interpolaci%C3%B3n/Lineal/ejercicio5lineal/src/ejercicio5lineal/Ejercicio5lineal.java)
 
 ### Cuadratica
+#### Concepto
+
+El concepto básico de la interpolación cuadrática implica seleccionar tres puntos de datos conocidos (x0, y0), (x1, y1) y (x2, y2)  y encontrar una parábola que pase exactamente a través de estos tres puntos.
+
+Formula:
+<p align="center"><img src="https://github.com/EltonYaelAlbaRoldan/MetodosNumericosItesa2024/assets/147437882/02296822-fded-4449-b7b3-27c52293188c" width="600" height="200" />
+
+donde se puede encontrar a con la siguiente formula:
+<p align="center"><img src="https://github.com/EltonYaelAlbaRoldan/MetodosNumericosItesa2024/assets/147437882/6108fefe-88da-4d53-80ee-2d676eff3474" width="600" height="200" />
+
+donde se puede encontrar b con la siguiente formula:
+<p align="center"><img src="https://github.com/EltonYaelAlbaRoldan/MetodosNumericosItesa2024/assets/147437882/998c6cd6-3f47-476c-a3ba-10185983d5da" width="600" height="200" />
+
+donde se puede encontrar c con la siguiente formula:
+<p align="center"><img src="https://github.com/EltonYaelAlbaRoldan/MetodosNumericosItesa2024/assets/147437882/48f26425-510c-436e-8f2c-609a3b763d8e" width="600" height="200" />
 
 * [Ejercicio 1](https://github.com/EltonYaelAlbaRoldan/MetodosNumericosItesa2024/blob/51f8077474a117e8192cd2d5aaaa472149e5b2bc/Tema%205%20Metodos/Interpolaci%C3%B3n/Cuadratica/cuadratica1/src/cuadratica1/Cuadratica1.java)
 
