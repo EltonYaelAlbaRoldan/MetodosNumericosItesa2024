@@ -616,7 +616,7 @@ donde se puede encontrar c con la siguiente formula:
 * [Ejercicio 1](https://github.com/EltonYaelAlbaRoldan/MetodosNumericosItesa2024/blob/51f8077474a117e8192cd2d5aaaa472149e5b2bc/Tema%205%20Metodos/Interpolaci%C3%B3n/Cuadratica/cuadratica1/src/cuadratica1/Cuadratica1.java)
 * [Ejercicio 2](https://github.com/EltonYaelAlbaRoldan/MetodosNumericosItesa2024/blob/44d24220dd1f938c8fa6fc53bfa97e193d5add3a/Tema%205%20Metodos/Interpolaci%C3%B3n/Cuadratica/ejercicio2cuadratica/src/ejercicio2cuadratica/Ejercicio2cuadratica.java)
 * [Ejercicio 3](https://github.com/EltonYaelAlbaRoldan/MetodosNumericosItesa2024/blob/7af05d31515b78241fe004b7f03d0f9db4c664f1/Tema%205%20Metodos/Interpolaci%C3%B3n/Cuadratica/ejercicio3cuadratica/src/ejercicio3cuadratica/Ejercicio3cuadratica.java)
-* [Ejercicio 4](https://github.com/EltonYaelAlbaRoldan/MetodosNumericosItesa2024/blob/51f8077474a117e8192cd2d5aaaa472149e5b2bc/Tema%205%20Metodos/Interpolaci%C3%B3n/Cuadratica/cuadratica1/src/cuadratica1/Cuadratica1.java)
+* [Ejercicio 4](https://github.com/EltonYaelAlbaRoldan/MetodosNumericosItesa2024/blob/fac783147466fea46db8efb16744eaaf936451d3/Tema%205%20Metodos/Interpolaci%C3%B3n/Cuadratica/ejercicio4cuadratica/src/ejercicio4cuadratica/Ejercicio4cuadratica.java)
 * [Ejercicio 5](https://github.com/EltonYaelAlbaRoldan/MetodosNumericosItesa2024/blob/51f8077474a117e8192cd2d5aaaa472149e5b2bc/Tema%205%20Metodos/Interpolaci%C3%B3n/Cuadratica/cuadratica1/src/cuadratica1/Cuadratica1.java)
 
 
