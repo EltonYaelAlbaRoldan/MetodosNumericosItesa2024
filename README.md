@@ -597,7 +597,7 @@ donde se puede encontrar a con la siguiente formula:
 <p align="center"><img src="https://github.com/EltonYaelAlbaRoldan/MetodosNumericosItesa2024/assets/147437882/6108fefe-88da-4d53-80ee-2d676eff3474" width="600" height="200" />
 
 donde se puede encontrar b con la siguiente formula:
-<p align="center"><img src="https://github.com/EltonYaelAlbaRoldan/MetodosNumericosItesa2024/assets/147437882/998c6cd6-3f47-476c-a3ba-10185983d5da" width="600" height="200" />
+<p align="center"><img src="https://github.com/EltonYaelAlbaRoldan/MetodosNumericosItesa2024/assets/147437882/1b258b83-aa52-4d7d-a53f-b673bc73980d" width="600" height="200" />
 
 donde se puede encontrar c con la siguiente formula:
 <p align="center"><img src="https://github.com/EltonYaelAlbaRoldan/MetodosNumericosItesa2024/assets/147437882/48f26425-510c-436e-8f2c-609a3b763d8e" width="600" height="200" />
