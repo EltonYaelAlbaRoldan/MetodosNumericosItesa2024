@@ -554,27 +554,36 @@ Formula:
 ---
 # Tema_5
 ## Metodos_de_interpolación
+
 #### Consepto
 
 La interpolación en métodos numéricos es una técnica utilizada para aproximar valores de una función desconocida a partir de un conjunto discreto de puntos conocidos. Básicamente, consiste en encontrar una función que pase exactamente por los puntos dados. Esto es útil cuando se tiene un conjunto de datos discretos y se necesita estimar los valores de la función en puntos intermedios.
 
+### Lineal
+#### Consepto
+
+El concepto básico de la interpolación lineal implica trazar una línea recta entre dos puntos conocidos en un gráfico, y luego utilizar esta línea para estimar el valor de la función en un punto que se encuentra entre estos dos puntos conocidos.
+
+Formula:
+<p align="center"><img src="https://github.com/EltonYaelAlbaRoldan/MetodosNumericosItesa2024/assets/147437882/3dc32a22-a555-4738-8a33-f4eead358e80" width="400" height="100" />
+
 #### Algoritmo
 
-1. Calcula la pendiente 𝑚 de la recta que pasa por los puntos (𝑥0, 𝑦0) y (𝑥1, 𝑦1) utilizando la fórmula:
-  𝑚 = (𝑦1 − 𝑦0) / (𝑥1 − 𝑥0)
-2. Utiliza la ecuación de la recta para encontrar el valor de 𝑦 correspondiente a 𝑥. La ecuación de la recta es:
-  𝑦 = 𝑦0 + 𝑚 ⋅ (𝑥 − 𝑥0)
-3. Sustituye 𝑥 en la ecuación obtenida en el paso anterior para obtener el valor interpolado de 𝑦.
+  1. Obtener los puntos conocidos: Identifica los puntos conocidos (x0, y0) y (x1, y1) de los cuales deseas interpolar un valor en un punto x.
+  2. Sustituir valores en la fórmula: Una vez que tengas los puntos conocidos y el punto en el que deseas interpolar (x), sustituye estos valores en la fórmula.
+  3. Calcular el valor de y: Utiliza la fórmula para calcular el valor de y correspondiente al punto x utilizando los valores de x0, y0, x1, y1 y x.
+  4. Resultado: El valor calculado de y es el resultado de la interpolación lineal en el punto x.
 
 #### Implementación
 
 <img src="https://github.com/EltonYaelAlbaRoldan/MetodosNumericosItesa2024/assets/147437882/939300e0-73ea-4187-ac52-2dc8f1cb9c82" width="600" height="200" />
 
-
-### Lineal
-
+#### Ejercicios
 * [Ejercicio 1 de clase](https://github.com/EltonYaelAlbaRoldan/MetodosNumericosItesa2024/blob/66df0399fe851b6dfcd0d977c006fe53a2296b7d/Tema%205%20Metodos/Interpolaci%C3%B3n/Lineal/ejemplo%20lineal/src/ejemplo/lineal/EjemploLineal.java)
 
 
 ### Cuadratica
+
+* [Ejercicio 1](https://github.com/EltonYaelAlbaRoldan/MetodosNumericosItesa2024/blob/51f8077474a117e8192cd2d5aaaa472149e5b2bc/Tema%205%20Metodos/Interpolaci%C3%B3n/Cuadratica/cuadratica1/src/cuadratica1/Cuadratica1.java)
+
 ## Metodos_de_extrapolación
