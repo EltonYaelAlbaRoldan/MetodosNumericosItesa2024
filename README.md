@@ -558,7 +558,7 @@ Formula:
 
 La interpolación en métodos numéricos es una técnica utilizada para aproximar valores de una función desconocida a partir de un conjunto discreto de puntos conocidos. Básicamente, consiste en encontrar una función que pase exactamente por los puntos dados. Esto es útil cuando se tiene un conjunto de datos discretos y se necesita estimar los valores de la función en puntos intermedios.
 Formula:
-<img src="https://github.com/EltonYaelAlbaRoldan/MetodosNumericosItesa2024/assets/147437882/788a2b1b-a90c-474c-a660-47cb2d076289" width="400" height="100" />
+<p align="center"><img src="https://github.com/EltonYaelAlbaRoldan/MetodosNumericosItesa2024/assets/147437882/788a2b1b-a90c-474c-a660-47cb2d076289" width="400" height="100" />
 
 #### Algoritmo
 
