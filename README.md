@@ -603,7 +603,7 @@ donde se puede encontrar c con la siguiente formula:
 <p align="center"><img src="https://github.com/EltonYaelAlbaRoldan/MetodosNumericosItesa2024/assets/147437882/48f26425-510c-436e-8f2c-609a3b763d8e" width="400" height="100" />
 
 #### Implementación
-<p align="center"><img src="https://github.com/EltonYaelAlbaRoldan/MetodosNumericosItesa2024/assets/147437882/7dd585cf-a76a-4f7e-a333-c9b826cd3621" width="600" height="200" />
+<p align="center"><img src="https://github.com/EltonYaelAlbaRoldan/MetodosNumericosItesa2024/assets/147437882/7dd585cf-a76a-4f7e-a333-c9b826cd3621" width="600" height="250" />
 
 * [Ejercicio 1](https://github.com/EltonYaelAlbaRoldan/MetodosNumericosItesa2024/blob/51f8077474a117e8192cd2d5aaaa472149e5b2bc/Tema%205%20Metodos/Interpolaci%C3%B3n/Cuadratica/cuadratica1/src/cuadratica1/Cuadratica1.java)
 
