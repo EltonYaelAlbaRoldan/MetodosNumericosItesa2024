@@ -565,7 +565,7 @@ La interpolación en métodos numéricos es una técnica utilizada para aproxima
 El concepto básico de la interpolación lineal implica trazar una línea recta entre dos puntos conocidos en un gráfico, y luego utilizar esta línea para estimar el valor de la función en un punto que se encuentra entre estos dos puntos conocidos.
 
 Formula:
-<p align="center"><img src="https://github.com/EltonYaelAlbaRoldan/MetodosNumericosItesa2024/assets/147437882/788a2b1b-a90c-474c-a660-47cb2d076289" width="400" height="100" />
+<p align="center"><img src="https://github.com/EltonYaelAlbaRoldan/MetodosNumericosItesa2024/assets/147437882/3dc32a22-a555-4738-8a33-f4eead358e80" width="400" height="100" />
 
 #### Algoritmo
 
