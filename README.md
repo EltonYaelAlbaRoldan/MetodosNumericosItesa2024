@@ -627,11 +627,9 @@ Formula:
 <p align="center"><img src="https://github.com/EltonYaelAlbaRoldan/MetodosNumericosItesa2024/assets/147437882/69145b76-76dd-48f7-8694-eee420588376" width="300" height="100" />
 
   Donde Li(x):
-<p align="center"><img src="https://github.com/EltonYaelAlbaRoldan/MetodosNumericosItesa2024/assets/147437882/4efc290e-f2b8-4a4b-930d-2f156fe5698e" width="300" height="100" />
+<p align="center"><img src="https://github.com/EltonYaelAlbaRoldan/MetodosNumericosItesa2024/assets/147437882/79b3c9a2-87e7-4fd2-8261-3d98d2ef5c73" width="300" height="100" />
 
 #### Implementación
-
-
-
+<p align="center"><img src="https://github.com/EltonYaelAlbaRoldan/MetodosNumericosItesa2024/assets/147437882/3bad3b4f-430c-43b6-aa65-8e194745209c" width="300" height="100" />
 
 ## Metodos_de_extrapolación
