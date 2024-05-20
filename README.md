@@ -619,5 +619,19 @@ donde se puede encontrar c con la siguiente formula:
 * [Ejercicio 4](https://github.com/EltonYaelAlbaRoldan/MetodosNumericosItesa2024/blob/fac783147466fea46db8efb16744eaaf936451d3/Tema%205%20Metodos/Interpolaci%C3%B3n/Cuadratica/ejercicio4cuadratica/src/ejercicio4cuadratica/Ejercicio4cuadratica.java)
 * [Ejercicio 5](https://github.com/EltonYaelAlbaRoldan/MetodosNumericosItesa2024/blob/98e98c68b7c3a639b818a2792d9b028b12be8323/Tema%205%20Metodos/Interpolaci%C3%B3n/Cuadratica/ejercicio5cuadratica/src/ejercicio5cuadratica/Ejercicio5cuadratica.java)
 
+### Lagrange
+#### Concepto
+El método de Lagrange, también conocido como el método de interpolación de Lagrange, es una técnica matemática para encontrar un polinomio que pasa exactamente por un conjunto de puntos dados. Este método es muy útil en la interpolación de datos y en la aproximación de funciones. El polinomio resultante, llamado polinomio de interpolación de Lagrange, se construye de manera que cada valor del polinomio coincide con el valor de la función en cada uno de los puntos dados.
+Dado un conjunto de n + 1 puntos distintos (x0, y0), (x1, y1), ..., (xn, yn) el objetivo es encontrar un polinomio P(x) de grado n
+Formula: 
+<p align="center"><img src="https://github.com/EltonYaelAlbaRoldan/MetodosNumericosItesa2024/assets/147437882/69145b76-76dd-48f7-8694-eee420588376" width="400" height="100" />
+
+  Donde Li(x):
+<p align="center"><img src="https://github.com/EltonYaelAlbaRoldan/MetodosNumericosItesa2024/assets/147437882/4efc290e-f2b8-4a4b-930d-2f156fe5698e" width="400" height="100" />
+
+#### Implementación
+
+
+
 
 ## Metodos_de_extrapolación
