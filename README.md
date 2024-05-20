@@ -630,6 +630,6 @@ Formula:
 <p align="center"><img src="https://github.com/EltonYaelAlbaRoldan/MetodosNumericosItesa2024/assets/147437882/79b3c9a2-87e7-4fd2-8261-3d98d2ef5c73" width="300" height="100" />
 
 #### Implementación
-<p align="center"><img src="https://github.com/EltonYaelAlbaRoldan/MetodosNumericosItesa2024/assets/147437882/3bad3b4f-430c-43b6-aa65-8e194745209c" width="300" height="100" />
+<p align="center"><img src="https://github.com/EltonYaelAlbaRoldan/MetodosNumericosItesa2024/assets/147437882/3bad3b4f-430c-43b6-aa65-8e194745209c" width="400" height="200" />
 
 ## Metodos_de_extrapolación
