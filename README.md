@@ -659,5 +659,26 @@ Formula:
 ### Newton
 #### Concepto
 
+El método de interpolación de Newton es otra técnica para encontrar el polinomio que pasa por un conjunto de puntos dados. Se basa en las diferencias divididas de Newton y ofrece una forma alternativa al método de Lagrange para construir el polinomio de interpolación.
+Dado un conjunto de n+1 puntos distintos (x0, y0), (x1, y1), ..., (xn, yn).
+Formula: 
+<p align="center"><img src="https://github.com/EltonYaelAlbaRoldan/MetodosNumericosItesa2024/assets/147437882/da914ac4-49a2-4e05-b5a7-8a23a5383de8" width="500" height="250" />
+
+
+#### Algoritmo
+
+  1. Inicializar las diferencias divididas:
+     * Crear una tabla de diferencias divididas y asignar f(xi)=yi para i = 0, 1, 2, n
+  2. Calcular las diferencias divididas:
+     * Para cada 𝑗 desde 1 hasta 𝑛
+       *Para cada 𝑖 desde 0 hasta 𝑛−𝑗
+         *Calcular f[xi,xi+1,…,xi+j] usando la fórmula recursiva.
+  3. Construir el polinomio de interpolación:
+     * Iniciar el polinomio 𝑃(𝑥) con el primer coeficiente 𝑎0 = 𝑓[𝑥0].
+     * Para cada 𝑘 desde 1 hasta 𝑛:
+       *Añadir el término ak(x-x0)(x-x1)...(x-xk-1) al polinomio, donde ak = f[x0, x1, ..., xk]
+​ ​ 
+#### Implementación
+
 
 ## Metodos_de_extrapolación
