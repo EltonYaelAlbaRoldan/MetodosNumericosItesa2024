@@ -24,6 +24,7 @@
     * [Metodos de interpolación](#Metodos_de_interpolación)
       * [Lineal](#Lineal)
       * [Cuadratica](#Cuadratica)
+      * [Lagrange](#Lagrange)
     * [Metodos de extrapolación](#Metodos_de_extrapolación)
 
 
@@ -613,11 +614,41 @@ donde se puede encontrar c con la siguiente formula:
 #### Implementación
 <p align="center"><img src="https://github.com/EltonYaelAlbaRoldan/MetodosNumericosItesa2024/assets/147437882/7dd585cf-a76a-4f7e-a333-c9b826cd3621" width="600" height="250" />
 
+#### Ejercicios
 * [Ejercicio 1](https://github.com/EltonYaelAlbaRoldan/MetodosNumericosItesa2024/blob/51f8077474a117e8192cd2d5aaaa472149e5b2bc/Tema%205%20Metodos/Interpolaci%C3%B3n/Cuadratica/cuadratica1/src/cuadratica1/Cuadratica1.java)
 * [Ejercicio 2](https://github.com/EltonYaelAlbaRoldan/MetodosNumericosItesa2024/blob/44d24220dd1f938c8fa6fc53bfa97e193d5add3a/Tema%205%20Metodos/Interpolaci%C3%B3n/Cuadratica/ejercicio2cuadratica/src/ejercicio2cuadratica/Ejercicio2cuadratica.java)
 * [Ejercicio 3](https://github.com/EltonYaelAlbaRoldan/MetodosNumericosItesa2024/blob/7af05d31515b78241fe004b7f03d0f9db4c664f1/Tema%205%20Metodos/Interpolaci%C3%B3n/Cuadratica/ejercicio3cuadratica/src/ejercicio3cuadratica/Ejercicio3cuadratica.java)
 * [Ejercicio 4](https://github.com/EltonYaelAlbaRoldan/MetodosNumericosItesa2024/blob/fac783147466fea46db8efb16744eaaf936451d3/Tema%205%20Metodos/Interpolaci%C3%B3n/Cuadratica/ejercicio4cuadratica/src/ejercicio4cuadratica/Ejercicio4cuadratica.java)
 * [Ejercicio 5](https://github.com/EltonYaelAlbaRoldan/MetodosNumericosItesa2024/blob/98e98c68b7c3a639b818a2792d9b028b12be8323/Tema%205%20Metodos/Interpolaci%C3%B3n/Cuadratica/ejercicio5cuadratica/src/ejercicio5cuadratica/Ejercicio5cuadratica.java)
+
+### Lagrange
+#### Concepto
+El método de Lagrange, también conocido como el método de interpolación de Lagrange, es una técnica matemática para encontrar un polinomio que pasa exactamente por un conjunto de puntos dados. Este método es muy útil en la interpolación de datos y en la aproximación de funciones. El polinomio resultante, llamado polinomio de interpolación de Lagrange, se construye de manera que cada valor del polinomio coincide con el valor de la función en cada uno de los puntos dados.
+Dado un conjunto de n + 1 puntos distintos (x0, y0), (x1, y1), ..., (xn, yn) el objetivo es encontrar un polinomio P(x) de grado n
+Formula: 
+<p align="center"><img src="https://github.com/EltonYaelAlbaRoldan/MetodosNumericosItesa2024/assets/147437882/69145b76-76dd-48f7-8694-eee420588376" width="300" height="100" />
+
+  Donde Li(x):
+<p align="center"><img src="https://github.com/EltonYaelAlbaRoldan/MetodosNumericosItesa2024/assets/147437882/79b3c9a2-87e7-4fd2-8261-3d98d2ef5c73" width="300" height="100" />
+
+#### Algoritmo
+
+  1. Inicializar el polinomio de interpolación:
+     * 𝑃(𝑥) = 0.
+  2. Para cada punto (𝑥𝑖,𝑦𝑖) en el conjunto de puntos:
+     * Inicializar el polinomio básico de Lagrange 𝐿𝑖(𝑥)=1.
+  3. Construir el polinomio básico 𝐿𝑖(𝑥) para cada 𝑖:
+     * Para cada 𝑗 de 0 a 𝑛, donde 𝑗≠𝑖:
+     * Actualizar 𝐿𝑖(𝑥) multiplicándolo por ((𝑥−𝑥𝑗)/(𝑥𝑖−𝑥𝑗))​.
+  4. Actualizar el polinomio de interpolación 𝑃(𝑥):
+     *Sumar al polinomio de interpolación 𝑃(𝑥) el término 𝑦𝑖⋅𝐿𝑖(𝑥).
+  5. Simplificar
+     *Simplificar 𝑃(𝑥) si es necesario para obtener el polinomio en su forma más simple.
+
+#### Implementación
+<p align="center"><img src="https://github.com/EltonYaelAlbaRoldan/MetodosNumericosItesa2024/assets/147437882/3bad3b4f-430c-43b6-aa65-8e194745209c" width="400" height="200" />
+
+#### Ejercicios
 
 
 ## Metodos_de_extrapolación
