@@ -24,6 +24,7 @@
     * [Metodos de interpolación](#Metodos_de_interpolación)
       * [Lineal](#Lineal)
       * [Cuadratica](#Cuadratica)
+      * [Lagrange](#Lagrange)
     * [Metodos de extrapolación](#Metodos_de_extrapolación)
 
 
