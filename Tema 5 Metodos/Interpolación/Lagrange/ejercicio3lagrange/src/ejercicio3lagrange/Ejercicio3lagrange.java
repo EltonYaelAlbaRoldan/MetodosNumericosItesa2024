@@ -1,7 +1,7 @@
-package ejercicio1lagrange;
+package ejercicio3lagrange;
 import java.util.Scanner;
 
-public class Ejercicio1lagrange {
+public class Ejercicio3lagrange {
 
     // Función para calcular el polinomio base de Lagrange Li(x)
     private static double calcularPolinomioBaseLagrange(double[] x, int i, double valorX) {
@@ -53,19 +53,20 @@ public class Ejercicio1lagrange {
         scanner.close();
     }
 }
+
 /*
 Imput
 Ingrese el numero de puntos conocidos: 4
-Ingrese el valor de x[0]: 7
-Ingrese el valor de y[0]: 14
-Ingrese el valor de x[1]: 10
-Ingrese el valor de y[1]: 21
-Ingrese el valor de x[2]: 13
-Ingrese el valor de y[2]: 27
-Ingrese el valor de x[3]: 16
-Ingrese el valor de y[3]: 33
-Ingrese el valor de x donde desea interpolar: 9
+Ingrese el valor de x[0]: 10
+Ingrese el valor de y[0]: 20
+Ingrese el valor de x[1]: 21
+Ingrese el valor de y[1]: 30
+Ingrese el valor de x[2]: 32
+Ingrese el valor de y[2]: 40
+Ingrese el valor de x[3]: 43
+Ingrese el valor de y[3]: 50
+Ingrese el valor de x donde desea interpolar: 15
 
 Ouput
-El valor interpolado de y en x = 9.0 es: 18.827160493827158
+El valor interpolado de y en x = 15.0 es: 24.54545454545455
 */
