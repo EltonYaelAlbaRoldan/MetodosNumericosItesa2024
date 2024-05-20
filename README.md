@@ -646,7 +646,7 @@ Formula:
      *Simplificar 𝑃(𝑥) si es necesario para obtener el polinomio en su forma más simple.
 
 #### Implementación
-<p align="center"><img src="https://github.com/EltonYaelAlbaRoldan/MetodosNumericosItesa2024/assets/147437882/3bad3b4f-430c-43b6-aa65-8e194745209c" width="400" height="250" />
+<p align="center"><img src="https://github.com/EltonYaelAlbaRoldan/MetodosNumericosItesa2024/assets/147437882/3bad3b4f-430c-43b6-aa65-8e194745209c" width="500" height="250" />
 
 #### Ejercicios
 
