@@ -687,7 +687,7 @@ Formula:
 * [Ejercicio 1](https://github.com/EltonYaelAlbaRoldan/MetodosNumericosItesa2024/blob/f2ea809f81d8ccf89e42cf71eeb9580506244e9d/Tema%205%20Metodos/Interpolaci%C3%B3n/Newton/ejercicio1newton/src/ejercicio1newton/Ejercicio1newton.java)
 * [Ejercicio 2](https://github.com/EltonYaelAlbaRoldan/MetodosNumericosItesa2024/blob/e52fd038572ea09d0993c47032f51303d3f9e1b7/Tema%205%20Metodos/Interpolaci%C3%B3n/Newton/ejercicio2newton/src/ejercicio2newton/Ejercicio2newton.java)
 * [Ejercicio 3](https://github.com/EltonYaelAlbaRoldan/MetodosNumericosItesa2024/blob/f0d37e784cc7062b257d571f1ac26ca4385917a6/Tema%205%20Metodos/Interpolaci%C3%B3n/Newton/ejercicio3newton/src/ejercicio3newton/Ejercicio3newton.java)
-* [Ejercicio 4](https://github.com/EltonYaelAlbaRoldan/MetodosNumericosItesa2024/blob/e52a09dd97ece3601f578a9dfce89d54fa04c02e/Tema%205%20Metodos/Interpolaci%C3%B3n/Lagrange/ejercicio4lagrange/src/ejercicio4lagrange/Ejercicio4lagrange.java)
+* [Ejercicio 4](https://github.com/EltonYaelAlbaRoldan/MetodosNumericosItesa2024/blob/0b0469626c7651cf4c73ce8a8fd8b32433b7cd5b/Tema%205%20Metodos/Interpolaci%C3%B3n/Newton/ejercicio4newton/src/ejercicio4newton/Ejercicio4newton.java)
 * [Ejercicio 5](https://github.com/EltonYaelAlbaRoldan/MetodosNumericosItesa2024/blob/f1d6b9c8b95179387b9be4f0ece15466dc9b65d4/Tema%205%20Metodos/Interpolaci%C3%B3n/Lagrange/ejercicio5lagrange/src/ejercicio5lagrange/Ejercicio5lagrange.java)
 
 ## Metodos_de_extrapolación
