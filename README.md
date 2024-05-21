@@ -25,6 +25,7 @@
       * [Lineal](#Lineal)
       * [Cuadratica](#Cuadratica)
       * [Lagrange](#Lagrange)
+      * [Lagrange](#Newton)
     * [Metodos de extrapolación](#Metodos_de_extrapolación)
 
 
