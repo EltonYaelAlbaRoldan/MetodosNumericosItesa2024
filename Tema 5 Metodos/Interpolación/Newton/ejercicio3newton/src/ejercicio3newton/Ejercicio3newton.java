@@ -1,7 +1,7 @@
-package ejercicio1newton;
+package ejercicio3newton;
 import java.util.Scanner;
 
-public class Ejercicio1newton {
+public class Ejercicio3newton {
 
     // Función para calcular las diferencias divididas
     public static double[] calcularDiferenciasDivididas(double[] x, double[] y) {
@@ -71,21 +71,21 @@ public class Ejercicio1newton {
         System.out.println("El valor interpolado de y en x = " + valorX + " es: " + valorY);
         
         scanner.close();
-    }
+    }   
 }
 /*
 Imput
 Ingrese el n�mero de puntos conocidos: 4
-Ingrese el valor de x[0]: 7
-Ingrese el valor de y[0]: 14
-Ingrese el valor de x[1]: 10
-Ingrese el valor de y[1]: 21
-Ingrese el valor de x[2]: 13
-Ingrese el valor de y[2]: 28
-Ingrese el valor de x[3]: 16
-Ingrese el valor de y[3]: 35
-Ingrese el valor de x donde desea interpolar: 9
+Ingrese el valor de x[0]: 10
+Ingrese el valor de y[0]: 20
+Ingrese el valor de x[1]: 21
+Ingrese el valor de y[1]: 30
+Ingrese el valor de x[2]: 32
+Ingrese el valor de y[2]: 40
+Ingrese el valor de x[3]: 43
+Ingrese el valor de y[3]: 50
+Ingrese el valor de x donde desea interpolar: 15
 
 Ouput
-El valor interpolado de y en x = 9.0 es: 18.666666666666668
+El valor interpolado de y en x = 15.0 es: 24.545454545454547
 */
