@@ -842,7 +842,7 @@ Para un método de Taylor de orden 𝑛, la fórmula es:
 
 #### Implementación
 
-* [Ejercicio 1](https://github.com/EltonYaelAlbaRoldan/MetodosNumericosItesa2024/blob/f2ea809f81d8ccf89e42cf71eeb9580506244e9d/Tema%205%20Metodos/Interpolaci%C3%B3n/Newton/ejercicio1newton/src/ejercicio1newton/Ejercicio1newton.java)
+* [Implementación](https://github.com/EltonYaelAlbaRoldan/MetodosNumericosItesa2024/blob/37ee24965d700364fa14257e26a1f08c936362ca/Tema%206%20Metodos/Extrapolaci%C3%B3n/Taylor/ImplementacionTaylor/src/implementaciontaylor/ImplementacionTaylor.java)
 
 #### Ejemplos
 * [Ejercicio 1](https://github.com/EltonYaelAlbaRoldan/MetodosNumericosItesa2024/blob/f2ea809f81d8ccf89e42cf71eeb9580506244e9d/Tema%205%20Metodos/Interpolaci%C3%B3n/Newton/ejercicio1newton/src/ejercicio1newton/Ejercicio1newton.java)
