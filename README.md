@@ -851,3 +851,12 @@ Para un método de Taylor de orden 𝑛, la fórmula es:
 * [Ejercicio 4](https://github.com/EltonYaelAlbaRoldan/MetodosNumericosItesa2024/blob/fb6ad6004cc5a031d7e36d2dff9791ea437cf86a/Tema%206%20Metodos/Extrapolaci%C3%B3n/Taylor/ejercicio4taylor/src/ejercicio4taylor/Ejercicio4taylor.java)
 * [Ejercicio 5](https://github.com/EltonYaelAlbaRoldan/MetodosNumericosItesa2024/blob/3a33bc1ee340df3d5565b4e3d9b3f37335c27f7b/Tema%206%20Metodos/Extrapolaci%C3%B3n/Taylor/ejercicio5taylor/src/ejercicio5taylor/Ejercicio5taylor.java)
 ---
+## Conclusión
+
+Los métodos de Runge-Kutta, Euler y Taylor son herramientas fundamentales en la resolución numérica de ecuaciones diferenciales ordinarias (EDO). Runge-Kutta destaca por su precisión y versatilidad, siendo especialmente útil para problemas donde se requiere una alta precisión. Euler, aunque menos preciso, es simple y fácil de implementar, siendo útil como punto de partida en muchos casos. Taylor ofrece una precisión aún mayor al considerar términos de orden superior, pero su implementación puede ser más compleja. En conjunto, estos métodos ofrecen un amplio rango de opciones para abordar problemas donde no es posible encontrar soluciones analíticas exactas.
+---
+
+## Bobliografia
+
+Chapra, SC y Canale, RP (2006). Métodos numéricos para ingenieros (5a ed.). McGraw-Hill Interamericana.
+---
