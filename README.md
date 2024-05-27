@@ -742,14 +742,14 @@ Fórmula:
 
 #### Implementación
 
-* [Ejercicio 1](https://github.com/EltonYaelAlbaRoldan/MetodosNumericosItesa2024/blob/f2ea809f81d8ccf89e42cf71eeb9580506244e9d/Tema%205%20Metodos/Interpolaci%C3%B3n/Newton/ejercicio1newton/src/ejercicio1newton/Ejercicio1newton.java)
+* [Implementación](https://github.com/EltonYaelAlbaRoldan/MetodosNumericosItesa2024/blob/3591052f67e8ad38e00bcfcc042223de0c37f787/Tema%206%20Metodos/Extrapolaci%C3%B3n/Euler/ImplementacionEuler/src/implementacioneuler/ImplementacionEuler.java)
 
 #### Ejemplos
-* [Ejercicio 1](https://github.com/EltonYaelAlbaRoldan/MetodosNumericosItesa2024/blob/f2ea809f81d8ccf89e42cf71eeb9580506244e9d/Tema%205%20Metodos/Interpolaci%C3%B3n/Newton/ejercicio1newton/src/ejercicio1newton/Ejercicio1newton.java)
-* [Ejercicio 2](https://github.com/EltonYaelAlbaRoldan/MetodosNumericosItesa2024/blob/e52fd038572ea09d0993c47032f51303d3f9e1b7/Tema%205%20Metodos/Interpolaci%C3%B3n/Newton/ejercicio2newton/src/ejercicio2newton/Ejercicio2newton.java)
-* [Ejercicio 3](https://github.com/EltonYaelAlbaRoldan/MetodosNumericosItesa2024/blob/f0d37e784cc7062b257d571f1ac26ca4385917a6/Tema%205%20Metodos/Interpolaci%C3%B3n/Newton/ejercicio3newton/src/ejercicio3newton/Ejercicio3newton.java)
-* [Ejercicio 4](https://github.com/EltonYaelAlbaRoldan/MetodosNumericosItesa2024/blob/0b0469626c7651cf4c73ce8a8fd8b32433b7cd5b/Tema%205%20Metodos/Interpolaci%C3%B3n/Newton/ejercicio4newton/src/ejercicio4newton/Ejercicio4newton.java)
-* [Ejercicio 5](https://github.com/EltonYaelAlbaRoldan/MetodosNumericosItesa2024/blob/b2ced0354409c97204bbc944cf00a0ec625898a9/Tema%205%20Metodos/Interpolaci%C3%B3n/Newton/ejercicio5newton/src/ejercicio5newton/Ejercicio5newton.java)
+* [Ejercicio 1](https://github.com/EltonYaelAlbaRoldan/MetodosNumericosItesa2024/blob/e9fdf7db6397ba84601e3872654168c11f04683b/Tema%206%20Metodos/Extrapolaci%C3%B3n/Euler/Ejercicio1Euler/src/ejercicio1euler/Ejercicio1Euler.java)
+* [Ejercicio 2](https://github.com/EltonYaelAlbaRoldan/MetodosNumericosItesa2024/blob/67b0fc8f75c8db89edcc0db1c673ab64deaac033/Tema%206%20Metodos/Extrapolaci%C3%B3n/Euler/Ejercicio2Euler/src/ejercicio2euler/Ejercicio2Euler.java)
+* [Ejercicio 3](https://github.com/EltonYaelAlbaRoldan/MetodosNumericosItesa2024/blob/5a63751a185f69b86b8383ca9e2ca23d510ae18b/Tema%206%20Metodos/Extrapolaci%C3%B3n/Euler/Ejercicio3Euler/src/ejercicio3euler/Ejercicio3Euler.java)
+* [Ejercicio 4](https://github.com/EltonYaelAlbaRoldan/MetodosNumericosItesa2024/blob/7b534359c95c278b9d6257e7c4707f6449ab2e3f/Tema%206%20Metodos/Extrapolaci%C3%B3n/Euler/Ejercicio4Euler/src/ejercicio4euler/Ejercicio4Euler.java)
+* [Ejercicio 5](https://github.com/EltonYaelAlbaRoldan/MetodosNumericosItesa2024/blob/5654a324f1eab1413d88f5f17eb36434f28851f7/Tema%206%20Metodos/Extrapolaci%C3%B3n/Euler/Ejercicio5Euler/src/ejercicio5euler/Ejercicio5Euler.java)
 ---
 
 ### Runge-Kutta
