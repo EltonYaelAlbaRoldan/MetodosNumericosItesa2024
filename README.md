@@ -696,11 +696,43 @@ Formula:
 ---
 
 # Tema_6
+## Introducción
+
+El presente trabajo ofrece una exploración detallada de la aplicación de métodos numéricos para la resolución de ecuaciones diferenciales en el entorno de programación Java. Se abordan tres métodos fundamentales: Euler, Runge-Kutta y Taylor. A través de ejemplos prácticos, se ilustra cómo estas técnicas pueden implementarse eficazmente para resolver una amplia gama de problemas.
+
 ## Metodos_de_extrapolación
 ### Euler
 #### Concepto
+
+El método de Euler es un algoritmo numérico utilizado para aproximar soluciones de ecuaciones diferenciales ordinarias (EDOs) mediante la integración numérica. Se basa en la idea de que la pendiente de la función en un punto dado puede utilizarse para predecir su valor en el siguiente punto. El método descompone la EDO en pequeños pasos, utilizando la pendiente en el punto actual para estimar el cambio en la función y así calcular su valor en el siguiente punto. Aunque es simple y fácil de implementar, el método de Euler puede no ser muy preciso para ciertos tipos de ecuaciones o para tamaños de paso grandes. Sin embargo, sigue siendo un punto de partida común para comprender y desarrollar métodos más avanzados de integración numérica.
+Fórmula:
+![image](https://github.com/NiliLG/MetodosNumericosT6/assets/147437701/47a52783-0a84-4629-bfc2-1a2f9b035c8c)
+
 #### Algoritmo
+
+```java
+    1. Declarar x0 como el límite inferior (lim inf).
+    2. Declarar xf como el límite superior (lim sup).
+    3. Declarar deltaX como el tamaño de paso.
+    4. Declarar y0 como la condición inicial.
+    5. Calcular el número de pasos (steps) como Entero ((xf - x0) / deltaX).
+    6. Declarar un arreglo x de tamaño (steps + 1) para almacenar los valores de x.
+    7. Declarar un arreglo y de tamaño (steps + 1) para almacenar los valores de y.
+    8. Declarar un arreglo exactY de tamaño (steps + 1) para almacenar los valores de la solución exacta.
+    9. Asignar las condiciones iniciales:
+        - x[0] = x0
+        - y[0] = y0
+        - exactY[0] = solExac(x0)
+    10. Iterar desde 0 hasta steps:
+        a. Calcular el siguiente valor de x: x[i + 1] = x[i] + deltaX.
+        b. Calcular el siguiente valor de y utilizando la fórmula de Euler: y[i + 1] = y[i] + deltaX * f(x[i]).
+        c. Calcular el valor exacto de la solución en x[i + 1]: exactY[i + 1] = solExac(x[i + 1]).
+    11. Imprimir las iteraciones en formato de tabla.
+```
+
 #### Implementación
+
+
 #### Ejemplos
 
 
