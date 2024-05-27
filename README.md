@@ -26,7 +26,9 @@
       * [Cuadratica](#Cuadratica)
       * [Lagrange](#Lagrange)
       * [Newton](#Newton)
+  * [Tema 6](#Tema_6)
     * [Metodos de extrapolación](#Metodos_de_extrapolación)
+      * [Euler](#Euler)
 
 
 # Tema_2
@@ -689,5 +691,9 @@ Formula:
 * [Ejercicio 3](https://github.com/EltonYaelAlbaRoldan/MetodosNumericosItesa2024/blob/f0d37e784cc7062b257d571f1ac26ca4385917a6/Tema%205%20Metodos/Interpolaci%C3%B3n/Newton/ejercicio3newton/src/ejercicio3newton/Ejercicio3newton.java)
 * [Ejercicio 4](https://github.com/EltonYaelAlbaRoldan/MetodosNumericosItesa2024/blob/0b0469626c7651cf4c73ce8a8fd8b32433b7cd5b/Tema%205%20Metodos/Interpolaci%C3%B3n/Newton/ejercicio4newton/src/ejercicio4newton/Ejercicio4newton.java)
 * [Ejercicio 5](https://github.com/EltonYaelAlbaRoldan/MetodosNumericosItesa2024/blob/b2ced0354409c97204bbc944cf00a0ec625898a9/Tema%205%20Metodos/Interpolaci%C3%B3n/Newton/ejercicio5newton/src/ejercicio5newton/Ejercicio5newton.java)
+---
 
+# Tema_6
 ## Metodos_de_extrapolación
+### Euler
+
