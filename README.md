@@ -848,6 +848,6 @@ Para un método de Taylor de orden 𝑛, la fórmula es:
 * [Ejercicio 1](https://github.com/EltonYaelAlbaRoldan/MetodosNumericosItesa2024/blob/cf01417de86391f6b465077cd6fc87ed68e8751e/Tema%206%20Metodos/Extrapolaci%C3%B3n/Taylor/ejercicio1taylor/src/ejercicio1taylor/Ejercicio1taylor.java)
 * [Ejercicio 2](https://github.com/EltonYaelAlbaRoldan/MetodosNumericosItesa2024/blob/bbd200a355eafe3876b31eb2672d18fbf2fce19b/Tema%206%20Metodos/Extrapolaci%C3%B3n/Taylor/ejercicio2Taylor/src/ejercicio2taylor/Ejercicio2Taylor.java)
 * [Ejercicio 3](https://github.com/EltonYaelAlbaRoldan/MetodosNumericosItesa2024/blob/4d647abcaebc44daa3f4394770ba6c6571776733/Tema%206%20Metodos/Extrapolaci%C3%B3n/Taylor/ejercicio3taylor/src/ejercicio3taylor/Ejercicio3taylor.java)
-* [Ejercicio 4](https://github.com/EltonYaelAlbaRoldan/MetodosNumericosItesa2024/blob/0b0469626c7651cf4c73ce8a8fd8b32433b7cd5b/Tema%205%20Metodos/Interpolaci%C3%B3n/Newton/ejercicio4newton/src/ejercicio4newton/Ejercicio4newton.java)
+* [Ejercicio 4](https://github.com/EltonYaelAlbaRoldan/MetodosNumericosItesa2024/blob/fb6ad6004cc5a031d7e36d2dff9791ea437cf86a/Tema%206%20Metodos/Extrapolaci%C3%B3n/Taylor/ejercicio4taylor/src/ejercicio4taylor/Ejercicio4taylor.java)
 * [Ejercicio 5](https://github.com/EltonYaelAlbaRoldan/MetodosNumericosItesa2024/blob/b2ced0354409c97204bbc944cf00a0ec625898a9/Tema%205%20Metodos/Interpolaci%C3%B3n/Newton/ejercicio5newton/src/ejercicio5newton/Ejercicio5newton.java)
 ---
