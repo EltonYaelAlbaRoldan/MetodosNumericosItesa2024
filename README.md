@@ -590,6 +590,7 @@ Formula:
 * [Ejercicio 3](https://github.com/EltonYaelAlbaRoldan/MetodosNumericosItesa2024/blob/8172654d2a9ecbc68ed5d5f1a4085f7510ed92be/Tema%205%20Metodos/Interpolaci%C3%B3n/Lineal/ejercicio3lineal/src/ejercicio3lineal/Ejercicio3lineal.java)
 * [Ejercicio 4](https://github.com/EltonYaelAlbaRoldan/MetodosNumericosItesa2024/blob/f4c9034d2e2068b4118a0c2575bb53a77ac250c1/Tema%205%20Metodos/Interpolaci%C3%B3n/Lineal/ejercicio4lineal/src/ejercicio4lineal/Ejercicio4lineal.java)
 * [Ejercicio 5](https://github.com/EltonYaelAlbaRoldan/MetodosNumericosItesa2024/blob/7d2ef493daa7d01b897ada29ae0a3921f9955994/Tema%205%20Metodos/Interpolaci%C3%B3n/Lineal/ejercicio5lineal/src/ejercicio5lineal/Ejercicio5lineal.java)
+---
 
 ### Cuadratica
 #### Concepto
@@ -625,6 +626,7 @@ donde se puede encontrar c con la siguiente formula:
 * [Ejercicio 3](https://github.com/EltonYaelAlbaRoldan/MetodosNumericosItesa2024/blob/7af05d31515b78241fe004b7f03d0f9db4c664f1/Tema%205%20Metodos/Interpolaci%C3%B3n/Cuadratica/ejercicio3cuadratica/src/ejercicio3cuadratica/Ejercicio3cuadratica.java)
 * [Ejercicio 4](https://github.com/EltonYaelAlbaRoldan/MetodosNumericosItesa2024/blob/fac783147466fea46db8efb16744eaaf936451d3/Tema%205%20Metodos/Interpolaci%C3%B3n/Cuadratica/ejercicio4cuadratica/src/ejercicio4cuadratica/Ejercicio4cuadratica.java)
 * [Ejercicio 5](https://github.com/EltonYaelAlbaRoldan/MetodosNumericosItesa2024/blob/98e98c68b7c3a639b818a2792d9b028b12be8323/Tema%205%20Metodos/Interpolaci%C3%B3n/Cuadratica/ejercicio5cuadratica/src/ejercicio5cuadratica/Ejercicio5cuadratica.java)
+---
 
 ### Lagrange
 #### Concepto
@@ -660,6 +662,7 @@ Formula:
 * [Ejercicio 3](https://github.com/EltonYaelAlbaRoldan/MetodosNumericosItesa2024/blob/ff1b6d2ee0ae7c9ee0463e9cda8bd502e4b05c7f/Tema%205%20Metodos/Interpolaci%C3%B3n/Lagrange/ejercicio3lagrange/src/ejercicio3lagrange/Ejercicio3lagrange.java)
 * [Ejercicio 4](https://github.com/EltonYaelAlbaRoldan/MetodosNumericosItesa2024/blob/e52a09dd97ece3601f578a9dfce89d54fa04c02e/Tema%205%20Metodos/Interpolaci%C3%B3n/Lagrange/ejercicio4lagrange/src/ejercicio4lagrange/Ejercicio4lagrange.java)
 * [Ejercicio 5](https://github.com/EltonYaelAlbaRoldan/MetodosNumericosItesa2024/blob/f1d6b9c8b95179387b9be4f0ece15466dc9b65d4/Tema%205%20Metodos/Interpolaci%C3%B3n/Lagrange/ejercicio5lagrange/src/ejercicio5lagrange/Ejercicio5lagrange.java)
+---
 
 ### Newton
 #### Concepto
@@ -696,6 +699,12 @@ Formula:
 ---
 
 # Tema_6
+
+Equipo:
+
+* Nili Estefanía López Gutierrez 
+* Elton Yael Alba Roldan
+
 ## Introducción
 
 El presente trabajo ofrece una exploración detallada de la aplicación de métodos numéricos para la resolución de ecuaciones diferenciales en el entorno de programación Java. Se abordan tres métodos fundamentales: Euler, Runge-Kutta y Taylor. A través de ejemplos prácticos, se ilustra cómo estas técnicas pueden implementarse eficazmente para resolver una amplia gama de problemas.
@@ -706,6 +715,7 @@ El presente trabajo ofrece una exploración detallada de la aplicación de méto
 
 El método de Euler es un algoritmo numérico utilizado para aproximar soluciones de ecuaciones diferenciales ordinarias (EDOs) mediante la integración numérica. Se basa en la idea de que la pendiente de la función en un punto dado puede utilizarse para predecir su valor en el siguiente punto. El método descompone la EDO en pequeños pasos, utilizando la pendiente en el punto actual para estimar el cambio en la función y así calcular su valor en el siguiente punto. Aunque es simple y fácil de implementar, el método de Euler puede no ser muy preciso para ciertos tipos de ecuaciones o para tamaños de paso grandes. Sin embargo, sigue siendo un punto de partida común para comprender y desarrollar métodos más avanzados de integración numérica.
 Fórmula:
+
 ![image](https://github.com/NiliLG/MetodosNumericosT6/assets/147437701/47a52783-0a84-4629-bfc2-1a2f9b035c8c)
 
 #### Algoritmo
@@ -732,18 +742,36 @@ Fórmula:
 
 #### Implementación
 
-
 #### Ejemplos
-
+* [Ejercicio 1](https://github.com/EltonYaelAlbaRoldan/MetodosNumericosItesa2024/blob/f2ea809f81d8ccf89e42cf71eeb9580506244e9d/Tema%205%20Metodos/Interpolaci%C3%B3n/Newton/ejercicio1newton/src/ejercicio1newton/Ejercicio1newton.java)
+* [Ejercicio 2](https://github.com/EltonYaelAlbaRoldan/MetodosNumericosItesa2024/blob/e52fd038572ea09d0993c47032f51303d3f9e1b7/Tema%205%20Metodos/Interpolaci%C3%B3n/Newton/ejercicio2newton/src/ejercicio2newton/Ejercicio2newton.java)
+* [Ejercicio 3](https://github.com/EltonYaelAlbaRoldan/MetodosNumericosItesa2024/blob/f0d37e784cc7062b257d571f1ac26ca4385917a6/Tema%205%20Metodos/Interpolaci%C3%B3n/Newton/ejercicio3newton/src/ejercicio3newton/Ejercicio3newton.java)
+* [Ejercicio 4](https://github.com/EltonYaelAlbaRoldan/MetodosNumericosItesa2024/blob/0b0469626c7651cf4c73ce8a8fd8b32433b7cd5b/Tema%205%20Metodos/Interpolaci%C3%B3n/Newton/ejercicio4newton/src/ejercicio4newton/Ejercicio4newton.java)
+* [Ejercicio 5](https://github.com/EltonYaelAlbaRoldan/MetodosNumericosItesa2024/blob/b2ced0354409c97204bbc944cf00a0ec625898a9/Tema%205%20Metodos/Interpolaci%C3%B3n/Newton/ejercicio5newton/src/ejercicio5newton/Ejercicio5newton.java)
+---
 
 ### Runge-Kutta
 #### Concepto
 #### Algoritmo
 #### Implementación
 #### Ejemplos
+#### Ejemplos
+* [Ejercicio 1](https://github.com/EltonYaelAlbaRoldan/MetodosNumericosItesa2024/blob/f2ea809f81d8ccf89e42cf71eeb9580506244e9d/Tema%205%20Metodos/Interpolaci%C3%B3n/Newton/ejercicio1newton/src/ejercicio1newton/Ejercicio1newton.java)
+* [Ejercicio 2](https://github.com/EltonYaelAlbaRoldan/MetodosNumericosItesa2024/blob/e52fd038572ea09d0993c47032f51303d3f9e1b7/Tema%205%20Metodos/Interpolaci%C3%B3n/Newton/ejercicio2newton/src/ejercicio2newton/Ejercicio2newton.java)
+* [Ejercicio 3](https://github.com/EltonYaelAlbaRoldan/MetodosNumericosItesa2024/blob/f0d37e784cc7062b257d571f1ac26ca4385917a6/Tema%205%20Metodos/Interpolaci%C3%B3n/Newton/ejercicio3newton/src/ejercicio3newton/Ejercicio3newton.java)
+* [Ejercicio 4](https://github.com/EltonYaelAlbaRoldan/MetodosNumericosItesa2024/blob/0b0469626c7651cf4c73ce8a8fd8b32433b7cd5b/Tema%205%20Metodos/Interpolaci%C3%B3n/Newton/ejercicio4newton/src/ejercicio4newton/Ejercicio4newton.java)
+* [Ejercicio 5](https://github.com/EltonYaelAlbaRoldan/MetodosNumericosItesa2024/blob/b2ced0354409c97204bbc944cf00a0ec625898a9/Tema%205%20Metodos/Interpolaci%C3%B3n/Newton/ejercicio5newton/src/ejercicio5newton/Ejercicio5newton.java)
+---
 
 ### Taylor
 #### Concepto
 #### Algoritmo
 #### Implementación
 #### Ejemplos
+#### Ejemplos
+* [Ejercicio 1](https://github.com/EltonYaelAlbaRoldan/MetodosNumericosItesa2024/blob/f2ea809f81d8ccf89e42cf71eeb9580506244e9d/Tema%205%20Metodos/Interpolaci%C3%B3n/Newton/ejercicio1newton/src/ejercicio1newton/Ejercicio1newton.java)
+* [Ejercicio 2](https://github.com/EltonYaelAlbaRoldan/MetodosNumericosItesa2024/blob/e52fd038572ea09d0993c47032f51303d3f9e1b7/Tema%205%20Metodos/Interpolaci%C3%B3n/Newton/ejercicio2newton/src/ejercicio2newton/Ejercicio2newton.java)
+* [Ejercicio 3](https://github.com/EltonYaelAlbaRoldan/MetodosNumericosItesa2024/blob/f0d37e784cc7062b257d571f1ac26ca4385917a6/Tema%205%20Metodos/Interpolaci%C3%B3n/Newton/ejercicio3newton/src/ejercicio3newton/Ejercicio3newton.java)
+* [Ejercicio 4](https://github.com/EltonYaelAlbaRoldan/MetodosNumericosItesa2024/blob/0b0469626c7651cf4c73ce8a8fd8b32433b7cd5b/Tema%205%20Metodos/Interpolaci%C3%B3n/Newton/ejercicio4newton/src/ejercicio4newton/Ejercicio4newton.java)
+* [Ejercicio 5](https://github.com/EltonYaelAlbaRoldan/MetodosNumericosItesa2024/blob/b2ced0354409c97204bbc944cf00a0ec625898a9/Tema%205%20Metodos/Interpolaci%C3%B3n/Newton/ejercicio5newton/src/ejercicio5newton/Ejercicio5newton.java)
+---
