@@ -857,7 +857,7 @@ Los métodos de Runge-Kutta, Euler y Taylor son herramientas fundamentales en la
 
 ---
 
-## Bobliografia
+## Bibliografia
 
 Chapra, SC y Canale, RP (2006). Métodos numéricos para ingenieros (5a ed.). McGraw-Hill Interamericana.
 
