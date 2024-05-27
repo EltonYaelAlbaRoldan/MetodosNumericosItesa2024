@@ -742,7 +742,7 @@ Fórmula:
 
 #### Implementación
 
-* [Ejercicio 1](https://github.com/EltonYaelAlbaRoldan/MetodosNumericosItesa2024/blob/f2ea809f81d8ccf89e42cf71eeb9580506244e9d/Tema%205%20Metodos/Interpolaci%C3%B3n/Newton/ejercicio1newton/src/ejercicio1newton/Ejercicio1newton.java)
+* [Implementación](https://github.com/EltonYaelAlbaRoldan/MetodosNumericosItesa2024/blob/3591052f67e8ad38e00bcfcc042223de0c37f787/Tema%206%20Metodos/Extrapolaci%C3%B3n/Euler/ImplementacionEuler/src/implementacioneuler/ImplementacionEuler.java)
 
 #### Ejemplos
 * [Ejercicio 1](https://github.com/EltonYaelAlbaRoldan/MetodosNumericosItesa2024/blob/f2ea809f81d8ccf89e42cf71eeb9580506244e9d/Tema%205%20Metodos/Interpolaci%C3%B3n/Newton/ejercicio1newton/src/ejercicio1newton/Ejercicio1newton.java)
