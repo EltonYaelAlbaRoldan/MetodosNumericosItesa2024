@@ -29,6 +29,8 @@
   * [Tema 6](#Tema_6)
     * [Metodos de extrapolación](#Metodos_de_extrapolación)
       * [Euler](#Euler)
+      * [Runge-Kutta](#Runge-Kutta)
+      * [Taylor](#Taylor)
 
 
 # Tema_2
@@ -696,4 +698,20 @@ Formula:
 # Tema_6
 ## Metodos_de_extrapolación
 ### Euler
+#### Concepto
+#### Algoritmo
+#### Implementación
+#### Ejemplos
 
+
+### Runge-Kutta
+#### Concepto
+#### Algoritmo
+#### Implementación
+#### Ejemplos
+
+### Taylor
+#### Concepto
+#### Algoritmo
+#### Implementación
+#### Ejemplos
