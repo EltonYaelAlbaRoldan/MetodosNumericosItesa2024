@@ -746,7 +746,7 @@ Fórmula:
 
 #### Ejemplos
 * [Ejercicio 1](https://github.com/EltonYaelAlbaRoldan/MetodosNumericosItesa2024/blob/e9fdf7db6397ba84601e3872654168c11f04683b/Tema%206%20Metodos/Extrapolaci%C3%B3n/Euler/Ejercicio1Euler/src/ejercicio1euler/Ejercicio1Euler.java)
-* [Ejercicio 2](https://github.com/EltonYaelAlbaRoldan/MetodosNumericosItesa2024/blob/e52fd038572ea09d0993c47032f51303d3f9e1b7/Tema%205%20Metodos/Interpolaci%C3%B3n/Newton/ejercicio2newton/src/ejercicio2newton/Ejercicio2newton.java)
+* [Ejercicio 2](https://github.com/EltonYaelAlbaRoldan/MetodosNumericosItesa2024/blob/67b0fc8f75c8db89edcc0db1c673ab64deaac033/Tema%206%20Metodos/Extrapolaci%C3%B3n/Euler/Ejercicio2Euler/src/ejercicio2euler/Ejercicio2Euler.java)
 * [Ejercicio 3](https://github.com/EltonYaelAlbaRoldan/MetodosNumericosItesa2024/blob/f0d37e784cc7062b257d571f1ac26ca4385917a6/Tema%205%20Metodos/Interpolaci%C3%B3n/Newton/ejercicio3newton/src/ejercicio3newton/Ejercicio3newton.java)
 * [Ejercicio 4](https://github.com/EltonYaelAlbaRoldan/MetodosNumericosItesa2024/blob/0b0469626c7651cf4c73ce8a8fd8b32433b7cd5b/Tema%205%20Metodos/Interpolaci%C3%B3n/Newton/ejercicio4newton/src/ejercicio4newton/Ejercicio4newton.java)
 * [Ejercicio 5](https://github.com/EltonYaelAlbaRoldan/MetodosNumericosItesa2024/blob/b2ced0354409c97204bbc944cf00a0ec625898a9/Tema%205%20Metodos/Interpolaci%C3%B3n/Newton/ejercicio5newton/src/ejercicio5newton/Ejercicio5newton.java)
